@@ -1,0 +1,56 @@
+----------2019-11-26 08:40:36----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Error receiving broadcast Intent { act=me.kozh.one.music.metachanged flg=0x10 (has extras) } in test.me.kozh.ones.ui.Activity.BaseActivity$PlaybackStatus@e4750a6
+android.app.LoadedApk$ReceiverDispatcher$Args.lambda$getRunnable$0(LoadedApk.java:1546)
+android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA.run(Unknown Source:2)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-26 08:40:37----------
+Application Start
+----------2019-11-26 14:53:56----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalArgumentException: x must be >= 0
+android.graphics.Bitmap.checkXYSign(Bitmap.java:582)
+android.graphics.Bitmap.createBitmap(Bitmap.java:981)
+android.graphics.Bitmap.createBitmap(Bitmap.java:950)
+test.me.kozh.ones.utils.BitmapUtils.getBlurBackground(BitmapUtils.java:95)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1$1.onAnimationStart(PlaySongDetailActivity.java:346)
+android.animation.Animator$AnimatorListener.onAnimationStart(Animator.java:536)
+android.animation.AnimatorSet.start(AnimatorSet.java:737)
+android.animation.AnimatorSet.start(AnimatorSet.java:684)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1.onPostExecute(PlaySongDetailActivity.java:340)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1.onPostExecute(PlaySongDetailActivity.java:307)
+android.os.AsyncTask.finish(AsyncTask.java:696)
+android.os.AsyncTask.access$600(AsyncTask.java:180)
+android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:713)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-26 14:53:58----------
+Application Start
+----------2019-11-27 00:19:23----------
+Application Start
