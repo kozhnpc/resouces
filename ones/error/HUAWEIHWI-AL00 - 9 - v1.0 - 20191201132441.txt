@@ -1,0 +1,1694 @@
+----------2019-11-26 08:40:36----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Error receiving broadcast Intent { act=me.kozh.one.music.metachanged flg=0x10 (has extras) } in test.me.kozh.ones.ui.Activity.BaseActivity$PlaybackStatus@e4750a6
+android.app.LoadedApk$ReceiverDispatcher$Args.lambda$getRunnable$0(LoadedApk.java:1546)
+android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA.run(Unknown Source:2)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-26 08:40:37----------
+Application Start
+----------2019-11-26 14:53:56----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalArgumentException: x must be >= 0
+android.graphics.Bitmap.checkXYSign(Bitmap.java:582)
+android.graphics.Bitmap.createBitmap(Bitmap.java:981)
+android.graphics.Bitmap.createBitmap(Bitmap.java:950)
+test.me.kozh.ones.utils.BitmapUtils.getBlurBackground(BitmapUtils.java:95)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1$1.onAnimationStart(PlaySongDetailActivity.java:346)
+android.animation.Animator$AnimatorListener.onAnimationStart(Animator.java:536)
+android.animation.AnimatorSet.start(AnimatorSet.java:737)
+android.animation.AnimatorSet.start(AnimatorSet.java:684)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1.onPostExecute(PlaySongDetailActivity.java:340)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1.onPostExecute(PlaySongDetailActivity.java:307)
+android.os.AsyncTask.finish(AsyncTask.java:696)
+android.os.AsyncTask.access$600(AsyncTask.java:180)
+android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:713)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-26 14:53:58----------
+Application Start
+----------2019-11-27 00:19:23----------
+Application Start
+----------2019-11-27 13:38:57----------
+Application Start
+----------2019-11-27 14:14:20----------
+Application Start
+----------2019-11-27 14:16:51----------
+Application Start
+----------2019-11-27 14:21:20----------
+Application Start
+----------2019-11-27 14:28:59----------
+Application Start
+----------2019-11-27 14:30:09----------
+Application Start
+----------2019-11-27 14:32:40----------
+Application Start
+----------2019-11-27 14:32:42----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-27 14:32:44----------
+Application Start
+----------2019-11-27 14:37:13----------
+Application Start
+----------2019-11-27 14:39:49----------
+Application Start
+----------2019-11-27 14:41:04----------
+Application Start
+----------2019-11-27 14:51:37----------
+Application Start
+----------2019-11-27 14:58:58----------
+Application Start
+----------2019-11-27 15:02:17----------
+Application Start
+----------2019-11-27 15:04:44----------
+Application Start
+----------2019-11-27 15:09:55----------
+Application Start
+----------2019-11-27 15:12:12----------
+Application Start
+----------2019-11-27 15:12:14----------
+Application Start
+----------2019-11-27 15:19:29----------
+Application Start
+----------2019-11-27 15:22:49----------
+Application Start
+----------2019-11-27 15:28:49----------
+Application Start
+----------2019-11-27 16:22:20----------
+Application Start
+----------2019-11-27 16:58:55----------
+Application Start
+----------2019-11-27 17:48:55----------
+Application Start
+----------2019-11-27 17:50:31----------
+Application Start
+----------2019-11-27 17:50:35----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-27 17:50:40----------
+Application Start
+----------2019-11-27 17:54:43----------
+Application Start
+----------2019-11-27 17:57:24----------
+Application Start
+----------2019-11-27 18:02:45----------
+Application Start
+----------2019-11-27 18:38:02----------
+Application Start
+----------2019-11-27 18:49:04----------
+Application Start
+----------2019-11-27 18:51:57----------
+Application Start
+----------2019-11-27 18:57:04----------
+Application Start
+----------2019-11-27 19:02:51----------
+Application Start
+----------2019-11-27 20:38:30----------
+Application Start
+----------2019-11-27 20:41:20----------
+Application Start
+----------2019-11-27 20:45:30----------
+Application Start
+----------2019-11-27 20:47:19----------
+Application Start
+----------2019-11-27 20:50:30----------
+Application Start
+----------2019-11-27 20:53:35----------
+Application Start
+----------2019-11-27 20:58:01----------
+Application Start
+----------2019-11-27 21:00:04----------
+Application Start
+----------2019-11-27 21:05:23----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException
+android.media.MediaPlayer.getCurrentPosition(Native Method)
+test.me.kozh.ones.ui.Service.MusicService$MyMediaPlayer.position(MusicService.java:696)
+test.me.kozh.ones.ui.Service.MusicService.position(MusicService.java:1293)
+test.me.kozh.ones.ui.Service.MusicService$3.run(MusicService.java:1168)
+java.util.TimerThread.processTask(Timer.java:569)
+java.util.TimerThread.mainLoop(Timer.java:527)
+java.util.TimerThread.run(Timer.java:512)
+
+----------2019-11-27 21:05:25----------
+Application Start
+----------2019-11-27 21:10:58----------
+Application Start
+----------2019-11-27 21:13:59----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException
+android.media.MediaPlayer.getDuration(Native Method)
+test.me.kozh.ones.ui.Service.MusicService$MyMediaPlayer.duration(MusicService.java:692)
+test.me.kozh.ones.ui.Service.MusicService.duration(MusicService.java:1270)
+test.me.kozh.ones.ui.Service.MusicService$3.run(MusicService.java:1172)
+java.util.TimerThread.processTask(Timer.java:569)
+java.util.TimerThread.mainLoop(Timer.java:527)
+java.util.TimerThread.run(Timer.java:512)
+
+----------2019-11-27 21:14:01----------
+Application Start
+----------2019-11-27 21:14:55----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start service test.me.kozh.ones.ui.Service.MusicService@8ee59d4 with Intent { act=me.kozh.one.music.musicservicecommand hwFlg=0x100 cmp=test.me.kozh.ones/.ui.Service.MusicService (has extras) }: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.widget.floatlyric.FloatLyricView.saveLockAndUpdate(boolean, boolean)' on a null object reference
+android.app.ActivityThread.handleServiceArgs(ActivityThread.java:4319)
+android.app.ActivityThread.access$2700(ActivityThread.java:273)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2070)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-27 21:14:57----------
+Application Start
+----------2019-11-27 21:14:57----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start service test.me.kozh.ones.ui.Service.MusicService@c888162 with Intent { act=me.kozh.one.music.musicservicecommand hwFlg=0x100 cmp=test.me.kozh.ones/.ui.Service.MusicService (has extras) }: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.widget.floatlyric.FloatLyricView.saveLockAndUpdate(boolean, boolean)' on a null object reference
+android.app.ActivityThread.handleServiceArgs(ActivityThread.java:4319)
+android.app.ActivityThread.access$2700(ActivityThread.java:273)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2070)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-27 21:16:13----------
+Application Start
+----------2019-11-27 21:16:30----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start service test.me.kozh.ones.ui.Service.MusicService@df421e6 with Intent { act=me.kozh.one.music.musicservicecommand hwFlg=0x100 cmp=test.me.kozh.ones/.ui.Service.MusicService (has extras) }: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.widget.floatlyric.FloatLyricView.saveLockAndUpdate(boolean, boolean)' on a null object reference
+android.app.ActivityThread.handleServiceArgs(ActivityThread.java:4319)
+android.app.ActivityThread.access$2700(ActivityThread.java:273)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2070)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-27 21:16:31----------
+Application Start
+----------2019-11-27 21:16:32----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start service test.me.kozh.ones.ui.Service.MusicService@690b417 with Intent { act=me.kozh.one.music.musicservicecommand hwFlg=0x100 cmp=test.me.kozh.ones/.ui.Service.MusicService (has extras) }: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.widget.floatlyric.FloatLyricView.saveLockAndUpdate(boolean, boolean)' on a null object reference
+android.app.ActivityThread.handleServiceArgs(ActivityThread.java:4319)
+android.app.ActivityThread.access$2700(ActivityThread.java:273)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2070)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-27 21:16:33----------
+Application Start
+----------2019-11-27 21:16:34----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start service test.me.kozh.ones.ui.Service.MusicService@1ef49a5 with Intent { act=me.kozh.one.music.musicservicecommand hwFlg=0x100 cmp=test.me.kozh.ones/.ui.Service.MusicService (has extras) }: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.widget.floatlyric.FloatLyricView.saveLockAndUpdate(boolean, boolean)' on a null object reference
+android.app.ActivityThread.handleServiceArgs(ActivityThread.java:4319)
+android.app.ActivityThread.access$2700(ActivityThread.java:273)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2070)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-27 21:16:51----------
+Application Start
+----------2019-11-27 21:18:01----------
+Application Start
+----------2019-11-27 21:21:27----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException
+android.media.MediaPlayer.getDuration(Native Method)
+test.me.kozh.ones.ui.Service.MusicService$MyMediaPlayer.duration(MusicService.java:692)
+test.me.kozh.ones.ui.Service.MusicService.duration(MusicService.java:1270)
+test.me.kozh.ones.ui.Service.MusicService$3.run(MusicService.java:1172)
+java.util.TimerThread.processTask(Timer.java:569)
+java.util.TimerThread.mainLoop(Timer.java:527)
+java.util.TimerThread.run(Timer.java:512)
+
+----------2019-11-27 21:21:29----------
+Application Start
+----------2019-11-27 21:21:55----------
+Application Start
+----------2019-11-27 21:28:15----------
+Application Start
+----------2019-11-27 21:34:39----------
+Application Start
+----------2019-11-27 21:45:55----------
+Application Start
+----------2019-11-27 21:45:58----------
+Application Start
+----------2019-11-27 21:48:24----------
+Application Start
+----------2019-11-27 21:53:04----------
+Application Start
+----------2019-11-27 22:02:46----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException
+android.media.MediaPlayer.getCurrentPosition(Native Method)
+test.me.kozh.ones.ui.Service.MusicService$MyMediaPlayer.position(MusicService.java:696)
+test.me.kozh.ones.ui.Service.MusicService.position(MusicService.java:1304)
+test.me.kozh.ones.ui.Service.MusicService$3.run(MusicService.java:1179)
+java.util.TimerThread.processTask(Timer.java:569)
+java.util.TimerThread.mainLoop(Timer.java:527)
+java.util.TimerThread.run(Timer.java:512)
+
+----------2019-11-27 22:02:54----------
+Application Start
+----------2019-11-27 22:09:17----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-27 22:09:19----------
+Application Start
+----------2019-11-27 22:13:52----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException
+android.media.MediaPlayer.getDuration(Native Method)
+test.me.kozh.ones.ui.Service.MusicService$MyMediaPlayer.duration(MusicService.java:691)
+test.me.kozh.ones.ui.Service.MusicService.duration(MusicService.java:1277)
+test.me.kozh.ones.ui.Service.MusicService$3.run(MusicService.java:1179)
+java.util.TimerThread.processTask(Timer.java:569)
+java.util.TimerThread.mainLoop(Timer.java:527)
+java.util.TimerThread.run(Timer.java:512)
+
+----------2019-11-27 22:13:53----------
+Application Start
+----------2019-11-27 22:19:46----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-27 22:19:48----------
+Application Start
+----------2019-11-27 22:22:56----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException
+android.media.MediaPlayer.getDuration(Native Method)
+test.me.kozh.ones.ui.Service.MusicService$MyMediaPlayer.duration(MusicService.java:691)
+test.me.kozh.ones.ui.Service.MusicService.duration(MusicService.java:1277)
+test.me.kozh.ones.ui.Service.MusicService$3.run(MusicService.java:1179)
+java.util.TimerThread.processTask(Timer.java:569)
+java.util.TimerThread.mainLoop(Timer.java:527)
+java.util.TimerThread.run(Timer.java:512)
+
+----------2019-11-27 22:22:56----------
+Application Start
+----------2019-11-27 22:28:44----------
+Application Start
+----------2019-11-27 22:31:08----------
+Application Start
+----------2019-11-27 22:36:10----------
+Application Start
+----------2019-11-27 22:40:12----------
+Application Start
+----------2019-11-27 22:45:00----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException
+android.media.MediaPlayer.getCurrentPosition(Native Method)
+test.me.kozh.ones.ui.Service.MusicService$MyMediaPlayer.position(MusicService.java:694)
+test.me.kozh.ones.ui.Service.MusicService.position(MusicService.java:1302)
+test.me.kozh.ones.ui.Service.MusicService$3.run(MusicService.java:1177)
+java.util.TimerThread.processTask(Timer.java:569)
+java.util.TimerThread.mainLoop(Timer.java:527)
+java.util.TimerThread.run(Timer.java:512)
+
+----------2019-11-27 22:46:14----------
+Application Start
+----------2019-11-27 22:49:01----------
+Application Start
+----------2019-11-27 22:52:59----------
+Application Start
+----------2019-11-28 07:28:06----------
+Application Start
+----------2019-11-28 10:06:40----------
+Application Start
+----------2019-11-28 10:12:23----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalArgumentException: x must be >= 0
+android.graphics.Bitmap.checkXYSign(Bitmap.java:582)
+android.graphics.Bitmap.createBitmap(Bitmap.java:981)
+android.graphics.Bitmap.createBitmap(Bitmap.java:950)
+test.me.kozh.ones.utils.BitmapUtils.getBlurBackground(BitmapUtils.java:95)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1$1.onAnimationStart(PlaySongDetailActivity.java:346)
+android.animation.Animator$AnimatorListener.onAnimationStart(Animator.java:536)
+android.animation.AnimatorSet.start(AnimatorSet.java:737)
+android.animation.AnimatorSet.start(AnimatorSet.java:684)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1.onPostExecute(PlaySongDetailActivity.java:340)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1.onPostExecute(PlaySongDetailActivity.java:307)
+android.os.AsyncTask.finish(AsyncTask.java:696)
+android.os.AsyncTask.access$600(AsyncTask.java:180)
+android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:713)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 10:12:24----------
+Application Start
+----------2019-11-28 10:33:45----------
+Application Start
+----------2019-11-28 10:33:51----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 10:33:53----------
+Application Start
+----------2019-11-28 10:36:05----------
+Application Start
+----------2019-11-28 10:46:27----------
+Application Start
+----------2019-11-28 10:56:26----------
+Application Start
+----------2019-11-28 10:56:29----------
+Application Start
+----------2019-11-28 10:57:11----------
+Application Start
+----------2019-11-28 11:00:25----------
+Application Start
+----------2019-11-28 13:21:01----------
+Application Start
+----------2019-11-28 13:25:42----------
+Application Start
+----------2019-11-28 13:30:43----------
+Application Start
+----------2019-11-28 14:12:33----------
+Application Start
+----------2019-11-28 14:15:04----------
+Application Start
+----------2019-11-28 14:20:34----------
+Application Start
+----------2019-11-28 14:31:30----------
+Application Start
+----------2019-11-28 15:15:16----------
+Application Start
+----------2019-11-28 15:27:07----------
+Application Start
+----------2019-11-28 15:38:41----------
+Application Start
+----------2019-11-28 15:49:42----------
+Application Start
+----------2019-11-28 16:00:21----------
+Application Start
+----------2019-11-28 16:16:55----------
+Application Start
+----------2019-11-28 16:17:49----------
+Application Start
+----------2019-11-28 16:35:33----------
+Application Start
+----------2019-11-28 16:48:13----------
+Application Start
+----------2019-11-28 17:00:10----------
+Application Start
+----------2019-11-28 17:08:40----------
+Application Start
+----------2019-11-28 17:25:08----------
+Application Start
+----------2019-11-28 19:12:23----------
+Application Start
+----------2019-11-28 19:21:14----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 19:21:15----------
+Application Start
+----------2019-11-28 19:21:33----------
+Application Start
+----------2019-11-28 19:22:01----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 19:22:02----------
+Application Start
+----------2019-11-28 19:26:39----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 19:26:41----------
+Application Start
+----------2019-11-28 19:27:48----------
+Application Start
+----------2019-11-28 19:29:31----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 19:29:32----------
+Application Start
+----------2019-11-28 19:32:42----------
+Application Start
+----------2019-11-28 19:54:58----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException
+android.media.MediaPlayer._reset(Native Method)
+android.media.MediaPlayer.reset(MediaPlayer.java:2370)
+test.me.kozh.ones.ui.Service.MusicService$MyMediaPlayer.setDataSourceImpl(MusicService.java:608)
+test.me.kozh.ones.ui.Service.MusicService$MyMediaPlayer.setDataSource(MusicService.java:599)
+test.me.kozh.ones.ui.Service.MusicService.openFile(MusicService.java:2241)
+test.me.kozh.ones.ui.Service.MusicService.openCurrentAndMaybeNext(MusicService.java:2770)
+test.me.kozh.ones.ui.Service.MusicService.openCurrentAndNext(MusicService.java:2824)
+test.me.kozh.ones.ui.Service.MusicService.gotoNext(MusicService.java:3416)
+test.me.kozh.ones.ui.Service.MusicPlayer.next(MusicPlayer.java:198)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity.onViewClicked(PlaySongDetailActivity.java:442)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity_ViewBinding$6.doClick(PlaySongDetailActivity_ViewBinding.java:110)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 19:54:59----------
+Application Start
+----------2019-11-28 19:57:51----------
+Application Start
+----------2019-11-28 20:00:57----------
+Application Start
+----------2019-11-28 20:05:51----------
+Application Start
+----------2019-11-28 20:08:32----------
+Application Start
+----------2019-11-28 20:11:48----------
+Application Start
+----------2019-11-28 20:14:44----------
+Application Start
+----------2019-11-28 20:14:52----------
+Application Start
+----------2019-11-28 20:22:12----------
+Application Start
+----------2019-11-28 20:25:33----------
+Application Start
+----------2019-11-28 20:27:46----------
+Application Start
+----------2019-11-28 20:27:49----------
+Application Start
+----------2019-11-28 20:30:01----------
+Application Start
+----------2019-11-28 20:33:06----------
+Application Start
+----------2019-11-28 20:34:36----------
+Application Start
+----------2019-11-28 20:47:13----------
+Application Start
+----------2019-11-28 20:50:09----------
+Application Start
+----------2019-11-28 20:53:00----------
+Application Start
+----------2019-11-28 20:56:14----------
+Application Start
+----------2019-11-28 21:00:08----------
+Application Start
+----------2019-11-28 21:00:11----------
+Application Start
+----------2019-11-28 21:01:24----------
+Application Start
+----------2019-11-28 21:01:28----------
+Application Start
+----------2019-11-28 21:04:49----------
+Application Start
+----------2019-11-28 21:05:02----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.updateNotification()' on a null object reference
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:05:03----------
+Application Start
+----------2019-11-28 21:05:04----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.updateNotification()' on a null object reference
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:05:04----------
+Application Start
+----------2019-11-28 21:05:05----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.updateNotification()' on a null object reference
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:05:05----------
+Application Start
+----------2019-11-28 21:05:06----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.updateNotification()' on a null object reference
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:05:07----------
+Application Start
+----------2019-11-28 21:05:07----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.updateNotification()' on a null object reference
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:05:08----------
+Application Start
+----------2019-11-28 21:05:08----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.updateNotification()' on a null object reference
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:05:11----------
+Application Start
+----------2019-11-28 21:05:17----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.updateNotification()' on a null object reference
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:05:18----------
+Application Start
+----------2019-11-28 21:05:18----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.updateNotification()' on a null object reference
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:05:19----------
+Application Start
+----------2019-11-28 21:05:19----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.updateNotification()' on a null object reference
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:05:20----------
+Application Start
+----------2019-11-28 21:05:20----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.updateNotification()' on a null object reference
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:05:21----------
+Application Start
+----------2019-11-28 21:05:22----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.updateNotification()' on a null object reference
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:05:23----------
+Application Start
+----------2019-11-28 21:05:24----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.updateNotification()' on a null object reference
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:06:17----------
+Application Start
+----------2019-11-28 21:06:51----------
+Application Start
+----------2019-11-28 21:08:18----------
+Application Start
+----------2019-11-28 21:17:20----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalArgumentException: x must be >= 0
+android.graphics.Bitmap.checkXYSign(Bitmap.java:582)
+android.graphics.Bitmap.createBitmap(Bitmap.java:981)
+android.graphics.Bitmap.createBitmap(Bitmap.java:950)
+test.me.kozh.ones.utils.BitmapUtils.getBlurBackground(BitmapUtils.java:95)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1$1.onAnimationStart(PlaySongDetailActivity.java:343)
+android.animation.Animator$AnimatorListener.onAnimationStart(Animator.java:536)
+android.animation.AnimatorSet.start(AnimatorSet.java:737)
+android.animation.AnimatorSet.start(AnimatorSet.java:684)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1.onPostExecute(PlaySongDetailActivity.java:337)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1.onPostExecute(PlaySongDetailActivity.java:304)
+android.os.AsyncTask.finish(AsyncTask.java:696)
+android.os.AsyncTask.access$600(AsyncTask.java:180)
+android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:713)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:17:22----------
+Application Start
+----------2019-11-28 21:21:02----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:21:04----------
+Application Start
+----------2019-11-28 21:29:51----------
+Application Start
+----------2019-11-28 21:53:42----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.showDesktopLyric(boolean)' on a null object reference
+test.me.kozh.ones.ui.Service.MusicPlayer.showDesktopLyric(MusicPlayer.java:955)
+test.me.kozh.ones.widget.floatlyric.FloatLyricView.onViewClicked(FloatLyricView.java:483)
+test.me.kozh.ones.widget.floatlyric.FloatLyricView_ViewBinding$2.doClick(FloatLyricView_ViewBinding.java:65)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:54:30----------
+Application Start
+----------2019-11-28 21:57:12----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.showDesktopLyric(boolean)' on a null object reference
+test.me.kozh.ones.ui.Service.MusicPlayer.showDesktopLyric(MusicPlayer.java:955)
+test.me.kozh.ones.widget.floatlyric.FloatLyricView.onViewClicked(FloatLyricView.java:483)
+test.me.kozh.ones.widget.floatlyric.FloatLyricView_ViewBinding$2.doClick(FloatLyricView_ViewBinding.java:65)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 21:57:15----------
+Application Start
+----------2019-11-28 22:10:31----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.ui.Service.MusicService.showDesktopLyric(boolean)' on a null object reference
+test.me.kozh.ones.ui.Service.MusicPlayer.showDesktopLyric(MusicPlayer.java:955)
+test.me.kozh.ones.widget.floatlyric.FloatLyricView.onViewClicked(FloatLyricView.java:483)
+test.me.kozh.ones.widget.floatlyric.FloatLyricView_ViewBinding$2.doClick(FloatLyricView_ViewBinding.java:65)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 22:12:09----------
+Application Start
+----------2019-11-28 22:32:26----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalArgumentException: x must be >= 0
+android.graphics.Bitmap.checkXYSign(Bitmap.java:582)
+android.graphics.Bitmap.createBitmap(Bitmap.java:981)
+android.graphics.Bitmap.createBitmap(Bitmap.java:950)
+test.me.kozh.ones.utils.BitmapUtils.getBlurBackground(BitmapUtils.java:95)
+test.me.kozh.ones.ui.Activity.LockScreenActivity$4.onPostExecute(LockScreenActivity.java:284)
+test.me.kozh.ones.ui.Activity.LockScreenActivity$4.onPostExecute(LockScreenActivity.java:257)
+android.os.AsyncTask.finish(AsyncTask.java:696)
+android.os.AsyncTask.access$600(AsyncTask.java:180)
+android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:713)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 22:32:28----------
+Application Start
+----------2019-11-28 22:32:55----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Unable to start service test.me.kozh.ones.ui.Service.MusicService@7f151ae with Intent { act=me.kozh.one.music.musicservicecommand hwFlg=0x100 cmp=test.me.kozh.ones/.ui.Service.MusicService (has extras) }: java.lang.NullPointerException: Attempt to invoke virtual method 'void test.me.kozh.ones.widget.floatlyric.FloatLyricView.saveLockAndUpdate(boolean, boolean)' on a null object reference
+android.app.ActivityThread.handleServiceArgs(ActivityThread.java:4319)
+android.app.ActivityThread.access$2700(ActivityThread.java:273)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2070)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 22:32:58----------
+Application Start
+----------2019-11-28 22:33:04----------
+Application Start
+----------2019-11-28 23:09:01----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalArgumentException: x must be >= 0
+android.graphics.Bitmap.checkXYSign(Bitmap.java:582)
+android.graphics.Bitmap.createBitmap(Bitmap.java:981)
+android.graphics.Bitmap.createBitmap(Bitmap.java:950)
+test.me.kozh.ones.utils.BitmapUtils.getBlurBackground(BitmapUtils.java:95)
+test.me.kozh.ones.ui.Activity.LockScreenActivity$4.onPostExecute(LockScreenActivity.java:284)
+test.me.kozh.ones.ui.Activity.LockScreenActivity$4.onPostExecute(LockScreenActivity.java:257)
+android.os.AsyncTask.finish(AsyncTask.java:696)
+android.os.AsyncTask.access$600(AsyncTask.java:180)
+android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:713)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-28 23:09:03----------
+Application Start
+----------2019-11-29 08:53:07----------
+Application Start
+----------2019-11-29 16:04:18----------
+Application Start
+----------2019-11-29 16:11:56----------
+Application Start
+----------2019-11-29 16:17:09----------
+Application Start
+----------2019-11-29 16:18:34----------
+Application Start
+----------2019-11-29 16:18:36----------
+Application Start
+----------2019-11-29 16:19:39----------
+Application Start
+----------2019-11-29 16:19:45----------
+Application Start
+----------2019-11-29 16:25:55----------
+Application Start
+----------2019-11-29 16:26:02----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.ClassCastException: test.me.kozh.ones.ui.Service.MusicService$ServiceStub cannot be cast to test.me.kozh.ones.ui.Service.MusicService$MusicBinder
+test.me.kozh.ones.ui.Activity.BaseActivity.onServiceConnected(BaseActivity.java:117)
+test.me.kozh.ones.ui.Service.MusicPlayer$ServiceBinder.onServiceConnected(MusicPlayer.java:125)
+android.app.LoadedApk$ServiceDispatcher.doConnected(LoadedApk.java:1932)
+android.app.LoadedApk$ServiceDispatcher$RunConnection.run(LoadedApk.java:1964)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-29 16:26:04----------
+Application Start
+----------2019-11-29 16:27:32----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.ClassCastException: test.me.kozh.ones.ui.Service.MusicService$ServiceStub cannot be cast to test.me.kozh.ones.ui.Service.MusicService$MusicBinder
+test.me.kozh.ones.ui.Activity.BaseActivity.onServiceConnected(BaseActivity.java:117)
+test.me.kozh.ones.ui.Service.MusicPlayer$ServiceBinder.onServiceConnected(MusicPlayer.java:125)
+android.app.LoadedApk$ServiceDispatcher.doConnected(LoadedApk.java:1932)
+android.app.LoadedApk$ServiceDispatcher$RunConnection.run(LoadedApk.java:1964)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-29 16:27:34----------
+Application Start
+----------2019-11-29 16:29:47----------
+Application Start
+----------2019-11-29 16:34:59----------
+Application Start
+----------2019-11-29 16:39:27----------
+Application Start
+----------2019-11-29 16:52:14----------
+Application Start
+----------2019-11-29 16:56:27----------
+Application Start
+----------2019-11-29 16:57:44----------
+Application Start
+----------2019-11-29 17:02:36----------
+Application Start
+----------2019-11-29 17:06:50----------
+Application Start
+----------2019-11-29 17:16:55----------
+Application Start
+----------2019-11-29 18:28:49----------
+Application Start
+----------2019-11-29 21:02:12----------
+Application Start
+----------2019-11-29 21:07:27----------
+Application Start
+----------2019-11-29 21:52:21----------
+Application Start
+----------2019-11-29 22:22:43----------
+Application Start
+----------2019-11-29 23:08:54----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalArgumentException: x must be >= 0
+android.graphics.Bitmap.checkXYSign(Bitmap.java:582)
+android.graphics.Bitmap.createBitmap(Bitmap.java:981)
+android.graphics.Bitmap.createBitmap(Bitmap.java:950)
+test.me.kozh.ones.utils.BitmapUtils.getBlurBackground(BitmapUtils.java:95)
+test.me.kozh.ones.ui.Activity.LockScreenActivity$4.onPostExecute(LockScreenActivity.java:284)
+test.me.kozh.ones.ui.Activity.LockScreenActivity$4.onPostExecute(LockScreenActivity.java:257)
+android.os.AsyncTask.finish(AsyncTask.java:696)
+android.os.AsyncTask.access$600(AsyncTask.java:180)
+android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:713)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-29 23:08:57----------
+Application Start
+----------2019-11-29 23:10:50----------
+Application Start
+----------2019-11-30 09:08:20----------
+Application Start
+----------2019-11-30 10:10:02----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalArgumentException: x must be >= 0
+android.graphics.Bitmap.checkXYSign(Bitmap.java:582)
+android.graphics.Bitmap.createBitmap(Bitmap.java:981)
+android.graphics.Bitmap.createBitmap(Bitmap.java:950)
+test.me.kozh.ones.utils.BitmapUtils.getBlurBackground(BitmapUtils.java:95)
+test.me.kozh.ones.ui.Activity.LockScreenActivity$4.onPostExecute(LockScreenActivity.java:284)
+test.me.kozh.ones.ui.Activity.LockScreenActivity$4.onPostExecute(LockScreenActivity.java:257)
+android.os.AsyncTask.finish(AsyncTask.java:696)
+android.os.AsyncTask.access$600(AsyncTask.java:180)
+android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:713)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-30 10:10:03----------
+Application Start
+----------2019-11-30 10:10:49----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-30 10:10:53----------
+Application Start
+----------2019-11-30 10:16:27----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalArgumentException: x must be >= 0
+android.graphics.Bitmap.checkXYSign(Bitmap.java:582)
+android.graphics.Bitmap.createBitmap(Bitmap.java:981)
+android.graphics.Bitmap.createBitmap(Bitmap.java:950)
+test.me.kozh.ones.utils.BitmapUtils.getBlurBackground(BitmapUtils.java:95)
+test.me.kozh.ones.ui.Activity.LockScreenActivity$4.onPostExecute(LockScreenActivity.java:284)
+test.me.kozh.ones.ui.Activity.LockScreenActivity$4.onPostExecute(LockScreenActivity.java:257)
+android.os.AsyncTask.finish(AsyncTask.java:696)
+android.os.AsyncTask.access$600(AsyncTask.java:180)
+android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:713)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-30 10:16:28----------
+Application Start
+----------2019-11-30 10:24:51----------
+Application Start
+----------2019-11-30 10:45:40----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalArgumentException: x must be >= 0
+android.graphics.Bitmap.checkXYSign(Bitmap.java:582)
+android.graphics.Bitmap.createBitmap(Bitmap.java:981)
+android.graphics.Bitmap.createBitmap(Bitmap.java:950)
+test.me.kozh.ones.utils.BitmapUtils.getBlurBackground(BitmapUtils.java:95)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1$1.onAnimationStart(PlaySongDetailActivity.java:343)
+android.animation.Animator$AnimatorListener.onAnimationStart(Animator.java:536)
+android.animation.AnimatorSet.start(AnimatorSet.java:737)
+android.animation.AnimatorSet.start(AnimatorSet.java:684)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1.onPostExecute(PlaySongDetailActivity.java:337)
+test.me.kozh.ones.ui.Activity.PlaySongDetailActivity$4$1.onPostExecute(PlaySongDetailActivity.java:304)
+android.os.AsyncTask.finish(AsyncTask.java:696)
+android.os.AsyncTask.access$600(AsyncTask.java:180)
+android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:713)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-30 10:45:41----------
+Application Start
+----------2019-11-30 10:51:52----------
+Application Start
+----------2019-11-30 11:16:58----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalArgumentException: x must be >= 0
+android.graphics.Bitmap.checkXYSign(Bitmap.java:582)
+android.graphics.Bitmap.createBitmap(Bitmap.java:981)
+android.graphics.Bitmap.createBitmap(Bitmap.java:950)
+test.me.kozh.ones.utils.BitmapUtils.getBlurBackground(BitmapUtils.java:95)
+test.me.kozh.ones.ui.Activity.LockScreenActivity$4.onPostExecute(LockScreenActivity.java:284)
+test.me.kozh.ones.ui.Activity.LockScreenActivity$4.onPostExecute(LockScreenActivity.java:257)
+android.os.AsyncTask.finish(AsyncTask.java:696)
+android.os.AsyncTask.access$600(AsyncTask.java:180)
+android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:713)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-30 11:17:00----------
+Application Start
+----------2019-11-30 11:27:28----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-30 11:27:29----------
+Application Start
+----------2019-11-30 11:45:03----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalArgumentException: x must be >= 0
+android.graphics.Bitmap.checkXYSign(Bitmap.java:582)
+android.graphics.Bitmap.createBitmap(Bitmap.java:981)
+android.graphics.Bitmap.createBitmap(Bitmap.java:950)
+test.me.kozh.ones.utils.BitmapUtils.getBlurBackground(BitmapUtils.java:95)
+test.me.kozh.ones.ui.Activity.LockScreenActivity$4.onPostExecute(LockScreenActivity.java:284)
+test.me.kozh.ones.ui.Activity.LockScreenActivity$4.onPostExecute(LockScreenActivity.java:257)
+android.os.AsyncTask.finish(AsyncTask.java:696)
+android.os.AsyncTask.access$600(AsyncTask.java:180)
+android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:713)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-30 11:45:04----------
+Application Start
+----------2019-11-30 12:25:11----------
+Application Start
+----------2019-11-30 16:46:16----------
+Application Start
+----------2019-11-30 17:05:38----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.NullPointerException: Attempt to invoke virtual method 'boolean java.io.File.exists()' on a null object reference
+test.me.kozh.ones.ui.Activity.LockScreenActivity$5.run(LockScreenActivity.java:315)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-30 18:10:41----------
+Application Start
+----------2019-11-30 18:10:44----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-11-30 18:10:45----------
+Application Start
+----------2019-11-30 23:36:56----------
+Application Start
+----------2019-12-01 09:01:13----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=v1.0
+java.lang.RuntimeException: Error receiving broadcast Intent { act=me.kozh.one.music.metachanged flg=0x10 (has extras) } in test.me.kozh.ones.ui.Activity.BaseActivity$PlaybackStatus@7ac4e58
+android.app.LoadedApk$ReceiverDispatcher$Args.lambda$getRunnable$0(LoadedApk.java:1546)
+android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA.run(Unknown Source:2)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-01 09:01:15----------
+Application Start
+----------2019-12-01 13:20:01----------
+Application Start
