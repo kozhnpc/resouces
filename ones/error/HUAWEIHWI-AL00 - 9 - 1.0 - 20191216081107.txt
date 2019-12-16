@@ -1,0 +1,249 @@
+----------2019-12-12 20:32:34----------
+Application Start
+----------2019-12-12 20:49:17----------
+Application Start
+----------2019-12-13 07:31:34----------
+Application Start
+----------2019-12-13 10:18:04----------
+Application Start
+----------2019-12-13 10:31:49----------
+Application Start
+----------2019-12-13 10:47:41----------
+Application Start
+----------2019-12-13 11:21:35----------
+Application Start
+----------2019-12-13 14:01:30----------
+Application Start
+----------2019-12-13 14:03:57----------
+Application Start
+----------2019-12-13 14:04:01----------
+Application Start
+----------2019-12-13 14:05:34----------
+Application Start
+----------2019-12-13 14:05:37----------
+Application Start
+----------2019-12-13 14:08:56----------
+Application Start
+----------2019-12-13 14:11:18----------
+Application Start
+----------2019-12-13 14:13:31----------
+Application Start
+----------2019-12-13 14:15:33----------
+Application Start
+----------2019-12-13 14:15:35----------
+Application Start
+----------2019-12-13 14:19:11----------
+Application Start
+----------2019-12-13 14:21:10----------
+Application Start
+----------2019-12-13 14:22:32----------
+Application Start
+----------2019-12-13 14:24:23----------
+Application Start
+----------2019-12-13 14:25:11----------
+Application Start
+----------2019-12-13 14:27:13----------
+Application Start
+----------2019-12-13 14:27:54----------
+Application Start
+----------2019-12-13 14:27:56----------
+Application Start
+----------2019-12-13 14:30:25----------
+Application Start
+----------2019-12-13 14:32:23----------
+Application Start
+----------2019-12-13 14:33:52----------
+Application Start
+----------2019-12-13 14:38:02----------
+Application Start
+----------2019-12-13 14:42:32----------
+Application Start
+----------2019-12-13 14:44:04----------
+Application Start
+----------2019-12-13 14:46:33----------
+Application Start
+----------2019-12-13 14:47:15----------
+Application Start
+----------2019-12-13 14:47:47----------
+Application Start
+----------2019-12-13 14:49:33----------
+Application Start
+----------2019-12-13 14:51:52----------
+Application Start
+----------2019-12-13 15:02:38----------
+Application Start
+----------2019-12-13 15:09:30----------
+Application Start
+----------2019-12-13 15:09:40----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalArgumentException: Service Intent must be explicit: Intent { (has extras) }
+android.app.ContextImpl.validateServiceIntent(ContextImpl.java:1752)
+android.app.ContextImpl.startServiceCommon(ContextImpl.java:1793)
+android.app.ContextImpl.startService(ContextImpl.java:1765)
+android.content.ContextWrapper.startService(ContextWrapper.java:664)
+test.me.kozh.ones.widget.floatball.FloatBallView$4.run(FloatBallView.java:378)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-13 15:09:42----------
+Application Start
+----------2019-12-13 15:11:04----------
+Application Start
+----------2019-12-13 15:11:44----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalArgumentException: Service Intent must be explicit: Intent { (has extras) }
+android.app.ContextImpl.validateServiceIntent(ContextImpl.java:1752)
+android.app.ContextImpl.startServiceCommon(ContextImpl.java:1793)
+android.app.ContextImpl.startService(ContextImpl.java:1765)
+android.content.ContextWrapper.startService(ContextWrapper.java:664)
+test.me.kozh.ones.widget.floatball.FloatBallView$4.run(FloatBallView.java:378)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-13 15:11:46----------
+Application Start
+----------2019-12-13 15:12:31----------
+Application Start
+----------2019-12-13 15:14:38----------
+Application Start
+----------2019-12-13 15:17:04----------
+Application Start
+----------2019-12-13 15:21:36----------
+Application Start
+----------2019-12-13 15:23:18----------
+Application Start
+----------2019-12-13 15:24:09----------
+Application Start
+----------2019-12-13 15:25:34----------
+Application Start
+----------2019-12-13 15:26:58----------
+Application Start
+----------2019-12-13 15:28:58----------
+Application Start
+----------2019-12-13 15:30:05----------
+Application Start
+----------2019-12-13 15:34:22----------
+Application Start
+----------2019-12-13 15:45:47----------
+Application Start
+----------2019-12-13 15:47:40----------
+Application Start
+----------2019-12-13 15:57:20----------
+Application Start
+----------2019-12-13 15:58:28----------
+Application Start
+----------2019-12-13 16:00:19----------
+Application Start
+----------2019-12-13 16:04:47----------
+Application Start
+----------2019-12-13 16:09:58----------
+Application Start
+----------2019-12-13 16:12:28----------
+Application Start
+----------2019-12-13 16:17:00----------
+Application Start
+----------2019-12-13 16:18:45----------
+Application Start
+----------2019-12-13 16:19:55----------
+Application Start
+----------2019-12-13 16:20:46----------
+Application Start
+----------2019-12-13 16:26:25----------
+Application Start
+----------2019-12-13 16:27:42----------
+Application Start
+----------2019-12-13 16:33:25----------
+Application Start
+----------2019-12-13 16:35:01----------
+Application Start
+----------2019-12-13 16:36:51----------
+Application Start
+----------2019-12-13 16:37:37----------
+Application Start
+----------2019-12-13 16:38:29----------
+Application Start
+----------2019-12-13 16:39:33----------
+Application Start
+----------2019-12-13 16:40:44----------
+Application Start
+----------2019-12-13 16:43:41----------
+Application Start
+----------2019-12-13 16:50:11----------
+Application Start
+----------2019-12-13 16:51:01----------
+Application Start
+----------2019-12-13 16:53:10----------
+Application Start
+----------2019-12-13 16:58:31----------
+Application Start
+----------2019-12-13 17:03:01----------
+Application Start
+----------2019-12-13 17:03:56----------
+Application Start
+----------2019-12-13 17:51:22----------
+Application Start
+----------2019-12-13 17:58:49----------
+Application Start
+----------2019-12-13 18:08:34----------
+Application Start
+----------2019-12-13 19:29:14----------
+Application Start
+----------2019-12-14 00:37:04----------
+Application Start
+----------2019-12-14 10:53:55----------
+Application Start
+----------2019-12-14 12:15:08----------
+Application Start
+----------2019-12-14 17:20:54----------
+Application Start
+----------2019-12-14 19:26:15----------
+Application Start
+----------2019-12-15 09:52:36----------
+Application Start
+----------2019-12-15 12:04:56----------
+Application Start
+----------2019-12-15 12:29:35----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-15 12:29:37----------
+Application Start
