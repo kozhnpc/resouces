@@ -1,0 +1,3847 @@
+----------2019-12-12 20:32:34----------
+Application Start
+----------2019-12-12 20:49:17----------
+Application Start
+----------2019-12-13 07:31:34----------
+Application Start
+----------2019-12-13 10:18:04----------
+Application Start
+----------2019-12-13 10:31:49----------
+Application Start
+----------2019-12-13 10:47:41----------
+Application Start
+----------2019-12-13 11:21:35----------
+Application Start
+----------2019-12-13 14:01:30----------
+Application Start
+----------2019-12-13 14:03:57----------
+Application Start
+----------2019-12-13 14:04:01----------
+Application Start
+----------2019-12-13 14:05:34----------
+Application Start
+----------2019-12-13 14:05:37----------
+Application Start
+----------2019-12-13 14:08:56----------
+Application Start
+----------2019-12-13 14:11:18----------
+Application Start
+----------2019-12-13 14:13:31----------
+Application Start
+----------2019-12-13 14:15:33----------
+Application Start
+----------2019-12-13 14:15:35----------
+Application Start
+----------2019-12-13 14:19:11----------
+Application Start
+----------2019-12-13 14:21:10----------
+Application Start
+----------2019-12-13 14:22:32----------
+Application Start
+----------2019-12-13 14:24:23----------
+Application Start
+----------2019-12-13 14:25:11----------
+Application Start
+----------2019-12-13 14:27:13----------
+Application Start
+----------2019-12-13 14:27:54----------
+Application Start
+----------2019-12-13 14:27:56----------
+Application Start
+----------2019-12-13 14:30:25----------
+Application Start
+----------2019-12-13 14:32:23----------
+Application Start
+----------2019-12-13 14:33:52----------
+Application Start
+----------2019-12-13 14:38:02----------
+Application Start
+----------2019-12-13 14:42:32----------
+Application Start
+----------2019-12-13 14:44:04----------
+Application Start
+----------2019-12-13 14:46:33----------
+Application Start
+----------2019-12-13 14:47:15----------
+Application Start
+----------2019-12-13 14:47:47----------
+Application Start
+----------2019-12-13 14:49:33----------
+Application Start
+----------2019-12-13 14:51:52----------
+Application Start
+----------2019-12-13 15:02:38----------
+Application Start
+----------2019-12-13 15:09:30----------
+Application Start
+----------2019-12-13 15:09:40----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalArgumentException: Service Intent must be explicit: Intent { (has extras) }
+android.app.ContextImpl.validateServiceIntent(ContextImpl.java:1752)
+android.app.ContextImpl.startServiceCommon(ContextImpl.java:1793)
+android.app.ContextImpl.startService(ContextImpl.java:1765)
+android.content.ContextWrapper.startService(ContextWrapper.java:664)
+test.me.kozh.ones.widget.floatball.FloatBallView$4.run(FloatBallView.java:378)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-13 15:09:42----------
+Application Start
+----------2019-12-13 15:11:04----------
+Application Start
+----------2019-12-13 15:11:44----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalArgumentException: Service Intent must be explicit: Intent { (has extras) }
+android.app.ContextImpl.validateServiceIntent(ContextImpl.java:1752)
+android.app.ContextImpl.startServiceCommon(ContextImpl.java:1793)
+android.app.ContextImpl.startService(ContextImpl.java:1765)
+android.content.ContextWrapper.startService(ContextWrapper.java:664)
+test.me.kozh.ones.widget.floatball.FloatBallView$4.run(FloatBallView.java:378)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-13 15:11:46----------
+Application Start
+----------2019-12-13 15:12:31----------
+Application Start
+----------2019-12-13 15:14:38----------
+Application Start
+----------2019-12-13 15:17:04----------
+Application Start
+----------2019-12-13 15:21:36----------
+Application Start
+----------2019-12-13 15:23:18----------
+Application Start
+----------2019-12-13 15:24:09----------
+Application Start
+----------2019-12-13 15:25:34----------
+Application Start
+----------2019-12-13 15:26:58----------
+Application Start
+----------2019-12-13 15:28:58----------
+Application Start
+----------2019-12-13 15:30:05----------
+Application Start
+----------2019-12-13 15:34:22----------
+Application Start
+----------2019-12-13 15:45:47----------
+Application Start
+----------2019-12-13 15:47:40----------
+Application Start
+----------2019-12-13 15:57:20----------
+Application Start
+----------2019-12-13 15:58:28----------
+Application Start
+----------2019-12-13 16:00:19----------
+Application Start
+----------2019-12-13 16:04:47----------
+Application Start
+----------2019-12-13 16:09:58----------
+Application Start
+----------2019-12-13 16:12:28----------
+Application Start
+----------2019-12-13 16:17:00----------
+Application Start
+----------2019-12-13 16:18:45----------
+Application Start
+----------2019-12-13 16:19:55----------
+Application Start
+----------2019-12-13 16:20:46----------
+Application Start
+----------2019-12-13 16:26:25----------
+Application Start
+----------2019-12-13 16:27:42----------
+Application Start
+----------2019-12-13 16:33:25----------
+Application Start
+----------2019-12-13 16:35:01----------
+Application Start
+----------2019-12-13 16:36:51----------
+Application Start
+----------2019-12-13 16:37:37----------
+Application Start
+----------2019-12-13 16:38:29----------
+Application Start
+----------2019-12-13 16:39:33----------
+Application Start
+----------2019-12-13 16:40:44----------
+Application Start
+----------2019-12-13 16:43:41----------
+Application Start
+----------2019-12-13 16:50:11----------
+Application Start
+----------2019-12-13 16:51:01----------
+Application Start
+----------2019-12-13 16:53:10----------
+Application Start
+----------2019-12-13 16:58:31----------
+Application Start
+----------2019-12-13 17:03:01----------
+Application Start
+----------2019-12-13 17:03:56----------
+Application Start
+----------2019-12-13 17:51:22----------
+Application Start
+----------2019-12-13 17:58:49----------
+Application Start
+----------2019-12-13 18:08:34----------
+Application Start
+----------2019-12-13 19:29:14----------
+Application Start
+----------2019-12-14 00:37:04----------
+Application Start
+----------2019-12-14 10:53:55----------
+Application Start
+----------2019-12-14 12:15:08----------
+Application Start
+----------2019-12-14 17:20:54----------
+Application Start
+----------2019-12-14 19:26:15----------
+Application Start
+----------2019-12-15 09:52:36----------
+Application Start
+----------2019-12-15 12:04:56----------
+Application Start
+----------2019-12-15 12:29:35----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-15 12:29:37----------
+Application Start
+----------2019-12-16 13:09:51----------
+Application Start
+----------2019-12-16 14:49:13----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-16 14:49:15----------
+Application Start
+----------2019-12-16 18:43:28----------
+Application Start
+----------2019-12-16 18:44:48----------
+Application Start
+----------2019-12-16 18:45:40----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-16 18:45:41----------
+Application Start
+----------2019-12-16 18:53:21----------
+Application Start
+----------2019-12-16 19:01:16----------
+Application Start
+----------2019-12-16 19:05:44----------
+Application Start
+----------2019-12-16 19:07:56----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.ArrayIndexOutOfBoundsException: length=0; index=-1
+java.util.ArrayList.get(ArrayList.java:439)
+test.me.kozh.ones.ui.Fragment.main.OneFragment$6.onLoadMore(OneFragment.java:315)
+me.kozh.pullrefreshrecycleview.pullrefresh.recyclerView.PullRefreshRecyclerView.onScrollStateChanged(PullRefreshRecyclerView.java:364)
+android.support.v7.widget.RecyclerView.dispatchOnScrollStateChanged(RecyclerView.java:4990)
+android.support.v7.widget.RecyclerView.setScrollState(RecyclerView.java:1545)
+android.support.v7.widget.RecyclerView$ViewFlinger.run(RecyclerView.java:5134)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1092)
+android.view.Choreographer.doCallbacks(Choreographer.java:893)
+android.view.Choreographer.doFrame(Choreographer.java:809)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1078)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-16 19:07:58----------
+Application Start
+----------2019-12-16 19:13:14----------
+Application Start
+----------2019-12-16 19:14:55----------
+Application Start
+----------2019-12-16 19:16:56----------
+Application Start
+----------2019-12-16 19:18:34----------
+Application Start
+----------2019-12-16 19:36:42----------
+Application Start
+----------2019-12-16 19:36:46----------
+Application Start
+----------2019-12-16 22:18:56----------
+Application Start
+----------2019-12-16 22:39:16----------
+Application Start
+----------2019-12-17 08:48:32----------
+Application Start
+----------2019-12-17 08:51:05----------
+Application Start
+----------2019-12-17 08:51:07----------
+Application Start
+----------2019-12-17 09:09:42----------
+Application Start
+----------2019-12-17 09:09:46----------
+Application Start
+----------2019-12-17 09:22:34----------
+Application Start
+----------2019-12-17 09:22:37----------
+Application Start
+----------2019-12-17 09:30:16----------
+Application Start
+----------2019-12-17 09:32:36----------
+Application Start
+----------2019-12-17 09:33:43----------
+Application Start
+----------2019-12-17 09:33:47----------
+Application Start
+----------2019-12-17 09:37:06----------
+Application Start
+----------2019-12-17 09:40:42----------
+Application Start
+----------2019-12-17 09:41:13----------
+Application Start
+----------2019-12-17 09:43:02----------
+Application Start
+----------2019-12-17 09:48:39----------
+Application Start
+----------2019-12-17 09:52:08----------
+Application Start
+----------2019-12-17 10:14:43----------
+Application Start
+----------2019-12-17 10:15:32----------
+Application Start
+----------2019-12-17 10:16:52----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.util.ConcurrentModificationException
+java.util.ArrayList$Itr.next(ArrayList.java:860)
+test.me.kozh.ones.utils.TimeUtils$1.onFinish(TimeUtils.java:45)
+android.os.CountDownTimer$1.handleMessage(CountDownTimer.java:127)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-17 10:16:53----------
+Application Start
+----------2019-12-17 10:21:00----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.util.ConcurrentModificationException
+java.util.ArrayList$Itr.next(ArrayList.java:860)
+test.me.kozh.ones.utils.TimeUtils$1.onFinish(TimeUtils.java:45)
+android.os.CountDownTimer$1.handleMessage(CountDownTimer.java:127)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-17 10:21:01----------
+Application Start
+----------2019-12-17 10:21:11----------
+Application Start
+----------2019-12-17 11:09:42----------
+Application Start
+----------2019-12-17 11:10:52----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalArgumentException: (maxValue - mMinValue + 1) should not be greater than mDisplayedValues.length now  (maxValue - mMinValue + 1) is 24 and mDisplayedValues.length is 1
+cn.carbswang.android.numberpickerview.library.NumberPickerView.setMaxValue(NumberPickerView.java:755)
+test.me.kozh.ones.widget.dialog.CustomTimeDialog.onCreate(CustomTimeDialog.java:50)
+com.lxj.xpopup.core.BasePopupView.init(BasePopupView.java:93)
+com.lxj.xpopup.core.BasePopupView$3.run(BasePopupView.java:208)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-17 11:10:53----------
+Application Start
+----------2019-12-17 11:15:21----------
+Application Start
+----------2019-12-17 11:16:07----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalArgumentException: (maxValue - mMinValue + 1) should not be greater than mDisplayedValues.length now  (maxValue - mMinValue + 1) is 24 and mDisplayedValues.length is 1
+cn.carbswang.android.numberpickerview.library.NumberPickerView.setMaxValue(NumberPickerView.java:755)
+test.me.kozh.ones.widget.dialog.CustomTimeDialog.onCreate(CustomTimeDialog.java:51)
+com.lxj.xpopup.core.BasePopupView.init(BasePopupView.java:93)
+com.lxj.xpopup.core.BasePopupView$3.run(BasePopupView.java:208)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-17 11:16:09----------
+Application Start
+----------2019-12-17 11:20:25----------
+Application Start
+----------2019-12-17 11:21:00----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalArgumentException: should not set a value greater than mMaxValue, value is 15
+cn.carbswang.android.numberpickerview.library.NumberPickerView.setValue(NumberPickerView.java:770)
+test.me.kozh.ones.widget.dialog.CustomTimeDialog.onCreate(CustomTimeDialog.java:63)
+com.lxj.xpopup.core.BasePopupView.init(BasePopupView.java:93)
+com.lxj.xpopup.core.BasePopupView$3.run(BasePopupView.java:208)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-17 11:21:02----------
+Application Start
+----------2019-12-17 11:22:44----------
+Application Start
+----------2019-12-17 11:26:13----------
+Application Start
+----------2019-12-17 11:26:25----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalArgumentException: (maxValue - mMinValue + 1) should not be greater than mDisplayedValues.length now  (maxValue - mMinValue + 1) is 25 and mDisplayedValues.length is 24
+cn.carbswang.android.numberpickerview.library.NumberPickerView.setMaxValue(NumberPickerView.java:755)
+test.me.kozh.ones.widget.dialog.CustomTimeDialog.onCreate(CustomTimeDialog.java:55)
+com.lxj.xpopup.core.BasePopupView.init(BasePopupView.java:93)
+com.lxj.xpopup.core.BasePopupView$3.run(BasePopupView.java:208)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-17 11:26:27----------
+Application Start
+----------2019-12-17 11:26:38----------
+Application Start
+----------2019-12-17 11:26:48----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalArgumentException: should not set a value greater than mMaxValue, value is 15
+cn.carbswang.android.numberpickerview.library.NumberPickerView.setValue(NumberPickerView.java:770)
+test.me.kozh.ones.widget.dialog.CustomTimeDialog.onCreate(CustomTimeDialog.java:67)
+com.lxj.xpopup.core.BasePopupView.init(BasePopupView.java:93)
+com.lxj.xpopup.core.BasePopupView$3.run(BasePopupView.java:208)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-17 11:26:51----------
+Application Start
+----------2019-12-17 11:27:40----------
+Application Start
+----------2019-12-17 11:28:49----------
+Application Start
+----------2019-12-17 11:29:11----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.NullPointerException: Attempt to invoke interface method 'java.lang.String java.lang.CharSequence.toString()' on a null object reference
+cn.carbswang.android.numberpickerview.library.NumberPickerView.drawContent(NumberPickerView.java:1287)
+cn.carbswang.android.numberpickerview.library.NumberPickerView.onDraw(NumberPickerView.java:1248)
+android.view.View.draw(View.java:20495)
+android.view.View.updateDisplayListIfDirty(View.java:19306)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ThreadedRenderer.updateViewTreeDisplayList(ThreadedRenderer.java:740)
+android.view.ThreadedRenderer.updateRootDisplayList(ThreadedRenderer.java:746)
+android.view.ThreadedRenderer.draw(ThreadedRenderer.java:861)
+android.view.ViewRootImpl.draw(ViewRootImpl.java:3586)
+android.view.ViewRootImpl.performDraw(ViewRootImpl.java:3382)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2714)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1636)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7946)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1092)
+android.view.Choreographer.doCallbacks(Choreographer.java:893)
+android.view.Choreographer.doFrame(Choreographer.java:812)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1078)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-17 11:29:13----------
+Application Start
+----------2019-12-17 11:30:02----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.NullPointerException: Attempt to invoke interface method 'java.lang.String java.lang.CharSequence.toString()' on a null object reference
+cn.carbswang.android.numberpickerview.library.NumberPickerView.drawContent(NumberPickerView.java:1287)
+cn.carbswang.android.numberpickerview.library.NumberPickerView.onDraw(NumberPickerView.java:1248)
+android.view.View.draw(View.java:20495)
+android.view.View.updateDisplayListIfDirty(View.java:19306)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ThreadedRenderer.updateViewTreeDisplayList(ThreadedRenderer.java:740)
+android.view.ThreadedRenderer.updateRootDisplayList(ThreadedRenderer.java:746)
+android.view.ThreadedRenderer.draw(ThreadedRenderer.java:861)
+android.view.ViewRootImpl.draw(ViewRootImpl.java:3586)
+android.view.ViewRootImpl.performDraw(ViewRootImpl.java:3382)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2714)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1636)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7946)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1092)
+android.view.Choreographer.doCallbacks(Choreographer.java:893)
+android.view.Choreographer.doFrame(Choreographer.java:812)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1078)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-17 11:30:03----------
+Application Start
+----------2019-12-17 11:31:10----------
+Application Start
+----------2019-12-17 11:32:05----------
+Application Start
+----------2019-12-17 11:32:18----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.NullPointerException: Attempt to invoke interface method 'java.lang.String java.lang.CharSequence.toString()' on a null object reference
+cn.carbswang.android.numberpickerview.library.NumberPickerView.drawContent(NumberPickerView.java:1287)
+cn.carbswang.android.numberpickerview.library.NumberPickerView.onDraw(NumberPickerView.java:1248)
+android.view.View.draw(View.java:20495)
+android.view.View.updateDisplayListIfDirty(View.java:19306)
+android.view.View.draw(View.java:20223)
+android.view.ViewGroup.drawChild(ViewGroup.java:4394)
+android.view.ViewGroup.dispatchDraw(ViewGroup.java:4170)
+android.view.View.updateDisplayListIfDirty(View.java:19297)
+android.view.View.draw(View.java:20223)
+android.view.ViewGroup.drawChild(ViewGroup.java:4394)
+android.view.ViewGroup.dispatchDraw(ViewGroup.java:4170)
+android.view.View.draw(View.java:20498)
+android.view.View.updateDisplayListIfDirty(View.java:19306)
+android.view.View.draw(View.java:20223)
+android.view.ViewGroup.drawChild(ViewGroup.java:4394)
+android.view.ViewGroup.dispatchDraw(ViewGroup.java:4170)
+android.view.View.updateDisplayListIfDirty(View.java:19297)
+android.view.View.draw(View.java:20223)
+android.view.ViewGroup.drawChild(ViewGroup.java:4394)
+android.view.ViewGroup.dispatchDraw(ViewGroup.java:4170)
+android.view.View.updateDisplayListIfDirty(View.java:19297)
+android.view.View.draw(View.java:20223)
+android.view.ViewGroup.drawChild(ViewGroup.java:4394)
+android.view.ViewGroup.dispatchDraw(ViewGroup.java:4170)
+android.view.View.draw(View.java:20498)
+com.android.internal.policy.DecorView.draw(DecorView.java:970)
+android.view.View.updateDisplayListIfDirty(View.java:19306)
+android.view.ThreadedRenderer.updateViewTreeDisplayList(ThreadedRenderer.java:740)
+android.view.ThreadedRenderer.updateRootDisplayList(ThreadedRenderer.java:746)
+android.view.ThreadedRenderer.draw(ThreadedRenderer.java:861)
+android.view.ViewRootImpl.draw(ViewRootImpl.java:3586)
+android.view.ViewRootImpl.performDraw(ViewRootImpl.java:3382)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2714)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1636)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7946)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1092)
+android.view.Choreographer.doCallbacks(Choreographer.java:893)
+android.view.Choreographer.doFrame(Choreographer.java:812)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1078)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-17 11:32:20----------
+Application Start
+----------2019-12-17 11:33:03----------
+Application Start
+----------2019-12-17 11:35:25----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.NullPointerException: Attempt to invoke interface method 'java.lang.String java.lang.CharSequence.toString()' on a null object reference
+cn.carbswang.android.numberpickerview.library.NumberPickerView.drawContent(NumberPickerView.java:1287)
+cn.carbswang.android.numberpickerview.library.NumberPickerView.onDraw(NumberPickerView.java:1248)
+android.view.View.draw(View.java:20495)
+android.view.View.updateDisplayListIfDirty(View.java:19306)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ThreadedRenderer.updateViewTreeDisplayList(ThreadedRenderer.java:740)
+android.view.ThreadedRenderer.updateRootDisplayList(ThreadedRenderer.java:746)
+android.view.ThreadedRenderer.draw(ThreadedRenderer.java:861)
+android.view.ViewRootImpl.draw(ViewRootImpl.java:3586)
+android.view.ViewRootImpl.performDraw(ViewRootImpl.java:3382)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2714)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1636)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7946)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1092)
+android.view.Choreographer.doCallbacks(Choreographer.java:893)
+android.view.Choreographer.doFrame(Choreographer.java:812)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1078)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-17 11:35:27----------
+Application Start
+----------2019-12-17 11:36:06----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.NullPointerException: Attempt to invoke interface method 'java.lang.String java.lang.CharSequence.toString()' on a null object reference
+cn.carbswang.android.numberpickerview.library.NumberPickerView.drawContent(NumberPickerView.java:1287)
+cn.carbswang.android.numberpickerview.library.NumberPickerView.onDraw(NumberPickerView.java:1248)
+android.view.View.draw(View.java:20495)
+android.view.View.updateDisplayListIfDirty(View.java:19306)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ViewGroup.recreateChildDisplayList(ViewGroup.java:4375)
+android.view.ViewGroup.dispatchGetDisplayList(ViewGroup.java:4348)
+android.view.View.updateDisplayListIfDirty(View.java:19266)
+android.view.ThreadedRenderer.updateViewTreeDisplayList(ThreadedRenderer.java:740)
+android.view.ThreadedRenderer.updateRootDisplayList(ThreadedRenderer.java:746)
+android.view.ThreadedRenderer.draw(ThreadedRenderer.java:861)
+android.view.ViewRootImpl.draw(ViewRootImpl.java:3586)
+android.view.ViewRootImpl.performDraw(ViewRootImpl.java:3382)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2714)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1636)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7946)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1092)
+android.view.Choreographer.doCallbacks(Choreographer.java:893)
+android.view.Choreographer.doFrame(Choreographer.java:812)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1078)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-17 11:36:11----------
+Application Start
+----------2019-12-17 12:15:22----------
+Application Start
+----------2019-12-17 12:49:58----------
+Application Start
+----------2019-12-17 12:51:38----------
+Application Start
+----------2019-12-17 12:53:49----------
+Application Start
+----------2019-12-17 12:56:15----------
+Application Start
+----------2019-12-17 13:44:36----------
+Application Start
+----------2019-12-17 13:59:16----------
+Application Start
+----------2019-12-17 14:03:52----------
+Application Start
+----------2019-12-17 14:38:59----------
+Application Start
+----------2019-12-17 14:45:22----------
+Application Start
+----------2019-12-17 14:48:37----------
+Application Start
+----------2019-12-17 15:00:31----------
+Application Start
+----------2019-12-17 15:03:00----------
+Application Start
+----------2019-12-17 15:04:05----------
+Application Start
+----------2019-12-17 15:06:54----------
+Application Start
+----------2019-12-17 15:27:36----------
+Application Start
+----------2019-12-17 15:31:06----------
+Application Start
+----------2019-12-17 15:36:54----------
+Application Start
+----------2019-12-17 15:39:23----------
+Application Start
+----------2019-12-17 15:41:34----------
+Application Start
+----------2019-12-17 15:51:08----------
+Application Start
+----------2019-12-17 15:52:51----------
+Application Start
+----------2019-12-17 16:43:25----------
+Application Start
+----------2019-12-17 18:04:15----------
+Application Start
+----------2019-12-17 19:16:03----------
+Application Start
+----------2019-12-17 19:17:42----------
+Application Start
+----------2019-12-17 19:46:03----------
+Application Start
+----------2019-12-17 19:56:55----------
+Application Start
+----------2019-12-17 20:02:51----------
+Application Start
+----------2019-12-17 20:09:53----------
+Application Start
+----------2019-12-17 20:28:25----------
+Application Start
+----------2019-12-17 20:28:31----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to create service test.me.kozh.ones.ui.Service.MusicService: java.lang.NullPointerException: Attempt to read from field 'int test.me.kozh.ones.utils.MusicUtils$IdType.mId' on a null object reference
+android.app.ActivityThread.handleCreateService(ActivityThread.java:4169)
+android.app.ActivityThread.access$2400(ActivityThread.java:273)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2055)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-17 20:28:34----------
+Application Start
+----------2019-12-17 20:30:36----------
+Application Start
+----------2019-12-17 20:38:59----------
+Application Start
+----------2019-12-17 20:40:31----------
+Application Start
+----------2019-12-17 20:57:36----------
+Application Start
+----------2019-12-17 21:03:56----------
+Application Start
+----------2019-12-17 21:03:59----------
+Application Start
+----------2019-12-17 21:18:49----------
+Application Start
+----------2019-12-17 21:28:40----------
+Application Start
+----------2019-12-17 21:44:04----------
+Application Start
+----------2019-12-17 21:46:55----------
+Application Start
+----------2019-12-17 21:46:58----------
+Application Start
+----------2019-12-17 21:56:45----------
+Application Start
+----------2019-12-17 22:24:59----------
+Application Start
+----------2019-12-17 22:35:14----------
+Application Start
+----------2019-12-17 23:17:49----------
+Application Start
+----------2019-12-18 08:36:20----------
+Application Start
+----------2019-12-18 08:38:12----------
+Application Start
+----------2019-12-18 08:50:34----------
+Application Start
+----------2019-12-18 09:02:09----------
+Application Start
+----------2019-12-18 09:13:22----------
+Application Start
+----------2019-12-18 09:21:12----------
+Application Start
+----------2019-12-18 09:29:26----------
+Application Start
+----------2019-12-18 09:37:06----------
+Application Start
+----------2019-12-18 09:43:35----------
+Application Start
+----------2019-12-18 09:48:19----------
+Application Start
+----------2019-12-18 09:58:45----------
+Application Start
+----------2019-12-18 10:04:18----------
+Application Start
+----------2019-12-18 10:08:24----------
+Application Start
+----------2019-12-18 10:13:45----------
+Application Start
+----------2019-12-18 10:16:39----------
+Application Start
+----------2019-12-18 10:25:28----------
+Application Start
+----------2019-12-18 10:35:33----------
+Application Start
+----------2019-12-18 11:08:14----------
+Application Start
+----------2019-12-18 11:11:36----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.ArrayIndexOutOfBoundsException: length=10; index=-1
+java.util.ArrayList.get(ArrayList.java:439)
+test.me.kozh.ones.ui.Service.MusicService$MusicPlayerHandler.handleMessage(MusicService.java:959)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.os.HandlerThread.run(HandlerThread.java:65)
+
+----------2019-12-18 11:11:37----------
+Application Start
+----------2019-12-18 11:20:33----------
+Application Start
+----------2019-12-18 13:05:17----------
+Application Start
+----------2019-12-18 13:08:07----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to resume activity {test.me.kozh.ones/test.me.kozh.ones.ui.Activity.MusicActivity}: java.lang.ArrayIndexOutOfBoundsException: length=0; index=-1
+android.app.ActivityThread.performResumeActivity(ActivityThread.java:4430)
+android.app.ActivityThread.handleResumeActivity(ActivityThread.java:4470)
+android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:51)
+android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:145)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:70)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 13:08:08----------
+Application Start
+----------2019-12-18 13:08:25----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to resume activity {test.me.kozh.ones/test.me.kozh.ones.ui.Activity.MusicActivity}: java.lang.ArrayIndexOutOfBoundsException: length=0; index=-1
+android.app.ActivityThread.performResumeActivity(ActivityThread.java:4430)
+android.app.ActivityThread.handleResumeActivity(ActivityThread.java:4470)
+android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:51)
+android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:145)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:70)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 13:08:26----------
+Application Start
+----------2019-12-18 13:13:31----------
+Application Start
+----------2019-12-18 13:17:02----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: Index: 13, Size: 1
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.LambdaObserver.onNext(LambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:200)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 13:17:03----------
+Application Start
+----------2019-12-18 13:17:28----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+java.util.ArrayList.get(ArrayList.java:437)
+test.me.kozh.ones.ui.Service.MusicService.updatePreviousCursor(MusicService.java:3154)
+test.me.kozh.ones.ui.Service.MusicService.updatePreviousCursor(MusicService.java:3223)
+test.me.kozh.ones.ui.Service.MusicService$ServiceStub.getPreviousTrackName(MusicService.java:5061)
+test.me.kozh.ones.ui.Service.MusicPlayer.getPreviousTrackName(MusicPlayer.java:380)
+test.me.kozh.ones.ui.Activity.SeachOnlineSongActivity.getPlayQueue(SeachOnlineSongActivity.java:706)
+test.me.kozh.ones.presenter.SearchOnlineSongActivityPresenter.getPlayQueue(SearchOnlineSongActivityPresenter.java:98)
+test.me.kozh.ones.ui.Activity.SeachOnlineSongActivity.initView(SeachOnlineSongActivity.java:384)
+test.me.kozh.ones.ui.Activity.SeachOnlineSongActivity.onLoadSuccessView(SeachOnlineSongActivity.java:144)
+test.me.kozh.ones.ui.Activity.BaseActivity$1.onLoadSuccessView(BaseActivity.java:77)
+test.me.kozh.ones.widget.LoadingView.showLoadingView(LoadingView.java:166)
+test.me.kozh.ones.widget.LoadingView$2$1.run(LoadingView.java:189)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 13:17:29----------
+Application Start
+----------2019-12-18 13:17:37----------
+Application Start
+----------2019-12-18 13:19:28----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+java.util.ArrayList.get(ArrayList.java:437)
+test.me.kozh.ones.ui.Service.MusicService.updatePreviousCursor(MusicService.java:3154)
+test.me.kozh.ones.ui.Service.MusicService.updatePreviousCursor(MusicService.java:3223)
+test.me.kozh.ones.ui.Service.MusicService$ServiceStub.getPreviousTrackName(MusicService.java:5061)
+test.me.kozh.ones.ui.Service.MusicPlayer.getPreviousTrackName(MusicPlayer.java:380)
+test.me.kozh.ones.ui.Activity.SeachOnlineSongActivity.getPlayQueue(SeachOnlineSongActivity.java:706)
+test.me.kozh.ones.presenter.SearchOnlineSongActivityPresenter.getPlayQueue(SearchOnlineSongActivityPresenter.java:98)
+test.me.kozh.ones.ui.Activity.SeachOnlineSongActivity.initView(SeachOnlineSongActivity.java:384)
+test.me.kozh.ones.ui.Activity.SeachOnlineSongActivity.onLoadSuccessView(SeachOnlineSongActivity.java:144)
+test.me.kozh.ones.ui.Activity.BaseActivity$1.onLoadSuccessView(BaseActivity.java:77)
+test.me.kozh.ones.widget.LoadingView.showLoadingView(LoadingView.java:166)
+test.me.kozh.ones.widget.LoadingView$2$1.run(LoadingView.java:189)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 13:19:30----------
+Application Start
+----------2019-12-18 13:22:08----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: Index: 0, Size: 0
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.LambdaObserver.onNext(LambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:200)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 13:22:09----------
+Application Start
+----------2019-12-18 13:22:48----------
+Application Start
+----------2019-12-18 13:23:30----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+java.util.ArrayList.get(ArrayList.java:437)
+test.me.kozh.ones.ui.Service.MusicService.updatePreviousCursor(MusicService.java:3154)
+test.me.kozh.ones.ui.Service.MusicService.updatePreviousCursor(MusicService.java:3223)
+test.me.kozh.ones.ui.Service.MusicService$ServiceStub.getPreviousTrackName(MusicService.java:5061)
+test.me.kozh.ones.ui.Service.MusicPlayer.getPreviousTrackName(MusicPlayer.java:380)
+test.me.kozh.ones.ui.Activity.SeachOnlineSongActivity.getPlayQueue(SeachOnlineSongActivity.java:706)
+test.me.kozh.ones.presenter.SearchOnlineSongActivityPresenter.getPlayQueue(SearchOnlineSongActivityPresenter.java:98)
+test.me.kozh.ones.ui.Activity.SeachOnlineSongActivity.initView(SeachOnlineSongActivity.java:384)
+test.me.kozh.ones.ui.Activity.SeachOnlineSongActivity.onLoadSuccessView(SeachOnlineSongActivity.java:144)
+test.me.kozh.ones.ui.Activity.BaseActivity$1.onLoadSuccessView(BaseActivity.java:77)
+test.me.kozh.ones.widget.LoadingView.showLoadingView(LoadingView.java:166)
+test.me.kozh.ones.widget.LoadingView$2$1.run(LoadingView.java:189)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 13:23:32----------
+Application Start
+----------2019-12-18 13:23:59----------
+Application Start
+----------2019-12-18 13:26:11----------
+Application Start
+----------2019-12-18 13:26:28----------
+Application Start
+----------2019-12-18 13:28:33----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start service test.me.kozh.ones.ui.Service.MusicService@d26a55f with Intent { act=me.kozh.one.music.previous.force cmp=test.me.kozh.ones/.ui.Service.MusicService }: java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+android.app.ActivityThread.handleServiceArgs(ActivityThread.java:4319)
+android.app.ActivityThread.access$2700(ActivityThread.java:273)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2070)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 13:28:34----------
+Application Start
+----------2019-12-18 13:28:36----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start service test.me.kozh.ones.ui.Service.MusicService@7444264 with Intent { act=me.kozh.one.music.previous.force cmp=test.me.kozh.ones/.ui.Service.MusicService }: java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+android.app.ActivityThread.handleServiceArgs(ActivityThread.java:4319)
+android.app.ActivityThread.access$2700(ActivityThread.java:273)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2070)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 13:28:37----------
+Application Start
+----------2019-12-18 13:28:39----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start service test.me.kozh.ones.ui.Service.MusicService@ac5ed18 with Intent { act=me.kozh.one.music.previous.force cmp=test.me.kozh.ones/.ui.Service.MusicService }: java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+android.app.ActivityThread.handleServiceArgs(ActivityThread.java:4319)
+android.app.ActivityThread.access$2700(ActivityThread.java:273)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2070)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 13:28:56----------
+Application Start
+----------2019-12-18 13:29:48----------
+Application Start
+----------2019-12-18 13:39:35----------
+Application Start
+----------2019-12-18 13:39:37----------
+Application Start
+----------2019-12-18 13:41:00----------
+Application Start
+----------2019-12-18 13:41:03----------
+Application Start
+----------2019-12-18 13:52:49----------
+Application Start
+----------2019-12-18 14:13:01----------
+Application Start
+----------2019-12-18 14:22:16----------
+Application Start
+----------2019-12-18 14:22:19----------
+Application Start
+----------2019-12-18 14:30:06----------
+Application Start
+----------2019-12-18 14:36:59----------
+Application Start
+----------2019-12-18 14:39:02----------
+Application Start
+----------2019-12-18 14:42:45----------
+Application Start
+----------2019-12-18 14:48:06----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: Index: 1, Size: 1
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.LambdaObserver.onNext(LambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:200)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 14:48:07----------
+Application Start
+----------2019-12-18 14:53:55----------
+Application Start
+----------2019-12-18 14:58:37----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: Index: 2, Size: 2
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.LambdaObserver.onNext(LambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:200)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 14:58:37----------
+Application Start
+----------2019-12-18 15:01:00----------
+Application Start
+----------2019-12-18 15:01:28----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: Index: 2, Size: 2
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.LambdaObserver.onNext(LambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:200)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 15:01:29----------
+Application Start
+----------2019-12-18 15:02:08----------
+Application Start
+----------2019-12-18 15:03:14----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: Index: 2, Size: 2
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.LambdaObserver.onNext(LambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:200)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 15:03:15----------
+Application Start
+----------2019-12-18 15:05:13----------
+Application Start
+----------2019-12-18 15:08:15----------
+Application Start
+----------2019-12-18 15:31:11----------
+Application Start
+----------2019-12-18 15:31:38----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.String.hashCode()' on a null object reference
+test.me.kozh.ones.ui.Adapter.PlayQueueAdapter.onBindViewHolder(PlayQueueAdapter.java:90)
+android.support.v7.widget.RecyclerView$Adapter.onBindViewHolder(RecyclerView.java:6781)
+android.support.v7.widget.RecyclerView$Adapter.bindViewHolder(RecyclerView.java:6823)
+android.support.v7.widget.RecyclerView$Recycler.tryBindViewHolderByDeadline(RecyclerView.java:5752)
+android.support.v7.widget.RecyclerView$Recycler.tryGetViewHolderForPositionByDeadline(RecyclerView.java:6019)
+android.support.v7.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:5858)
+android.support.v7.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:5854)
+android.support.v7.widget.LinearLayoutManager$LayoutState.next(LinearLayoutManager.java:2230)
+android.support.v7.widget.LinearLayoutManager.layoutChunk(LinearLayoutManager.java:1557)
+android.support.v7.widget.LinearLayoutManager.fill(LinearLayoutManager.java:1517)
+android.support.v7.widget.LinearLayoutManager.onLayoutChildren(LinearLayoutManager.java:612)
+android.support.v7.widget.RecyclerView.dispatchLayoutStep2(RecyclerView.java:3924)
+android.support.v7.widget.RecyclerView.dispatchLayout(RecyclerView.java:3641)
+android.support.v7.widget.RecyclerView.onLayout(RecyclerView.java:4194)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1842)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1686)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1595)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+com.lxj.xpopup.widget.SmartDragLayout.onLayout(SmartDragLayout.java:68)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:325)
+android.widget.FrameLayout.onLayout(FrameLayout.java:261)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:325)
+android.widget.FrameLayout.onLayout(FrameLayout.java:261)
+com.android.internal.policy.DecorView.onLayout(DecorView.java:926)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.view.ViewRootImpl.performLayout(ViewRootImpl.java:3037)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2545)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1636)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7946)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1092)
+android.view.Choreographer.doCallbacks(Choreographer.java:893)
+android.view.Choreographer.doFrame(Choreographer.java:812)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1078)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 15:31:39----------
+Application Start
+----------2019-12-18 15:33:26----------
+Application Start
+----------2019-12-18 15:33:47----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.String.hashCode()' on a null object reference
+test.me.kozh.ones.ui.Adapter.PlayQueueAdapter.onBindViewHolder(PlayQueueAdapter.java:89)
+android.support.v7.widget.RecyclerView$Adapter.onBindViewHolder(RecyclerView.java:6781)
+android.support.v7.widget.RecyclerView$Adapter.bindViewHolder(RecyclerView.java:6823)
+android.support.v7.widget.RecyclerView$Recycler.tryBindViewHolderByDeadline(RecyclerView.java:5752)
+android.support.v7.widget.RecyclerView$Recycler.tryGetViewHolderForPositionByDeadline(RecyclerView.java:6019)
+android.support.v7.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:5858)
+android.support.v7.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:5854)
+android.support.v7.widget.LinearLayoutManager$LayoutState.next(LinearLayoutManager.java:2230)
+android.support.v7.widget.LinearLayoutManager.layoutChunk(LinearLayoutManager.java:1557)
+android.support.v7.widget.LinearLayoutManager.fill(LinearLayoutManager.java:1517)
+android.support.v7.widget.LinearLayoutManager.onLayoutChildren(LinearLayoutManager.java:612)
+android.support.v7.widget.RecyclerView.dispatchLayoutStep2(RecyclerView.java:3924)
+android.support.v7.widget.RecyclerView.dispatchLayout(RecyclerView.java:3641)
+android.support.v7.widget.RecyclerView.onLayout(RecyclerView.java:4194)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1842)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1686)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1595)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+com.lxj.xpopup.widget.SmartDragLayout.onLayout(SmartDragLayout.java:68)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:325)
+android.widget.FrameLayout.onLayout(FrameLayout.java:261)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:325)
+android.widget.FrameLayout.onLayout(FrameLayout.java:261)
+com.android.internal.policy.DecorView.onLayout(DecorView.java:926)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.view.ViewRootImpl.performLayout(ViewRootImpl.java:3037)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2545)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1636)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7946)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1092)
+android.view.Choreographer.doCallbacks(Choreographer.java:893)
+android.view.Choreographer.doFrame(Choreographer.java:812)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1078)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 15:33:48----------
+Application Start
+----------2019-12-18 15:34:44----------
+Application Start
+----------2019-12-18 15:35:00----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.String.hashCode()' on a null object reference
+test.me.kozh.ones.ui.Adapter.PlayQueueAdapter.onBindViewHolder(PlayQueueAdapter.java:89)
+android.support.v7.widget.RecyclerView$Adapter.onBindViewHolder(RecyclerView.java:6781)
+android.support.v7.widget.RecyclerView$Adapter.bindViewHolder(RecyclerView.java:6823)
+android.support.v7.widget.RecyclerView$Recycler.tryBindViewHolderByDeadline(RecyclerView.java:5752)
+android.support.v7.widget.RecyclerView$Recycler.tryGetViewHolderForPositionByDeadline(RecyclerView.java:6019)
+android.support.v7.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:5858)
+android.support.v7.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:5854)
+android.support.v7.widget.LinearLayoutManager$LayoutState.next(LinearLayoutManager.java:2230)
+android.support.v7.widget.LinearLayoutManager.layoutChunk(LinearLayoutManager.java:1557)
+android.support.v7.widget.LinearLayoutManager.fill(LinearLayoutManager.java:1517)
+android.support.v7.widget.LinearLayoutManager.onLayoutChildren(LinearLayoutManager.java:612)
+android.support.v7.widget.RecyclerView.dispatchLayoutStep2(RecyclerView.java:3924)
+android.support.v7.widget.RecyclerView.dispatchLayout(RecyclerView.java:3641)
+android.support.v7.widget.RecyclerView.onLayout(RecyclerView.java:4194)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1842)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1686)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1595)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+com.lxj.xpopup.widget.SmartDragLayout.onLayout(SmartDragLayout.java:68)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:325)
+android.widget.FrameLayout.onLayout(FrameLayout.java:261)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:325)
+android.widget.FrameLayout.onLayout(FrameLayout.java:261)
+com.android.internal.policy.DecorView.onLayout(DecorView.java:926)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.view.ViewRootImpl.performLayout(ViewRootImpl.java:3037)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2545)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1636)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7946)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1092)
+android.view.Choreographer.doCallbacks(Choreographer.java:893)
+android.view.Choreographer.doFrame(Choreographer.java:812)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1078)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 15:35:02----------
+Application Start
+----------2019-12-18 15:36:54----------
+Application Start
+----------2019-12-18 15:37:13----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.String.hashCode()' on a null object reference
+test.me.kozh.ones.ui.Adapter.PlayQueueAdapter.onBindViewHolder(PlayQueueAdapter.java:90)
+android.support.v7.widget.RecyclerView$Adapter.onBindViewHolder(RecyclerView.java:6781)
+android.support.v7.widget.RecyclerView$Adapter.bindViewHolder(RecyclerView.java:6823)
+android.support.v7.widget.RecyclerView$Recycler.tryBindViewHolderByDeadline(RecyclerView.java:5752)
+android.support.v7.widget.RecyclerView$Recycler.tryGetViewHolderForPositionByDeadline(RecyclerView.java:6019)
+android.support.v7.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:5858)
+android.support.v7.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:5854)
+android.support.v7.widget.LinearLayoutManager$LayoutState.next(LinearLayoutManager.java:2230)
+android.support.v7.widget.LinearLayoutManager.layoutChunk(LinearLayoutManager.java:1557)
+android.support.v7.widget.LinearLayoutManager.fill(LinearLayoutManager.java:1517)
+android.support.v7.widget.LinearLayoutManager.onLayoutChildren(LinearLayoutManager.java:612)
+android.support.v7.widget.RecyclerView.dispatchLayoutStep2(RecyclerView.java:3924)
+android.support.v7.widget.RecyclerView.dispatchLayout(RecyclerView.java:3641)
+android.support.v7.widget.RecyclerView.onLayout(RecyclerView.java:4194)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1842)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1686)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1595)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+com.lxj.xpopup.widget.SmartDragLayout.onLayout(SmartDragLayout.java:68)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:325)
+android.widget.FrameLayout.onLayout(FrameLayout.java:261)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:325)
+android.widget.FrameLayout.onLayout(FrameLayout.java:261)
+com.android.internal.policy.DecorView.onLayout(DecorView.java:926)
+android.view.View.layout(View.java:20960)
+android.view.ViewGroup.layout(ViewGroup.java:6279)
+android.view.ViewRootImpl.performLayout(ViewRootImpl.java:3037)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2545)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1636)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7946)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1092)
+android.view.Choreographer.doCallbacks(Choreographer.java:893)
+android.view.Choreographer.doFrame(Choreographer.java:812)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1078)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 15:37:14----------
+Application Start
+----------2019-12-18 15:39:55----------
+Application Start
+----------2019-12-18 15:43:31----------
+Application Start
+----------2019-12-18 15:45:35----------
+Application Start
+----------2019-12-18 15:47:55----------
+Application Start
+----------2019-12-18 15:51:53----------
+Application Start
+----------2019-12-18 15:51:54----------
+Application Start
+----------2019-12-18 15:53:19----------
+Application Start
+----------2019-12-18 16:06:57----------
+Application Start
+----------2019-12-18 16:11:54----------
+Application Start
+----------2019-12-18 16:14:57----------
+Application Start
+----------2019-12-18 16:15:03----------
+Application Start
+----------2019-12-18 16:27:55----------
+Application Start
+----------2019-12-18 16:27:57----------
+Application Start
+----------2019-12-18 16:30:39----------
+Application Start
+----------2019-12-18 16:33:42----------
+Application Start
+----------2019-12-18 16:37:48----------
+Application Start
+----------2019-12-18 16:39:46----------
+Application Start
+----------2019-12-18 16:41:05----------
+Application Start
+----------2019-12-18 16:46:07----------
+Application Start
+----------2019-12-18 16:47:42----------
+Application Start
+----------2019-12-18 16:50:05----------
+Application Start
+----------2019-12-18 16:53:43----------
+Application Start
+----------2019-12-18 16:55:25----------
+Application Start
+----------2019-12-18 16:56:47----------
+Application Start
+----------2019-12-18 16:57:41----------
+Application Start
+----------2019-12-18 16:59:20----------
+Application Start
+----------2019-12-18 17:01:09----------
+Application Start
+----------2019-12-18 17:39:00----------
+Application Start
+----------2019-12-18 17:56:16----------
+Application Start
+----------2019-12-18 17:57:52----------
+Application Start
+----------2019-12-18 17:59:12----------
+Application Start
+----------2019-12-18 18:05:10----------
+Application Start
+----------2019-12-18 18:07:33----------
+Application Start
+----------2019-12-18 18:12:15----------
+Application Start
+----------2019-12-18 18:18:36----------
+Application Start
+----------2019-12-18 18:22:03----------
+Application Start
+----------2019-12-18 18:23:47----------
+Application Start
+----------2019-12-18 18:25:29----------
+Application Start
+----------2019-12-18 18:38:34----------
+Application Start
+----------2019-12-18 18:40:37----------
+Application Start
+----------2019-12-18 18:41:43----------
+Application Start
+----------2019-12-18 18:44:20----------
+Application Start
+----------2019-12-18 18:45:36----------
+Application Start
+----------2019-12-18 19:31:39----------
+Application Start
+----------2019-12-18 19:36:09----------
+Application Start
+----------2019-12-18 20:27:00----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-18 20:27:02----------
+Application Start
+----------2019-12-18 20:58:19----------
+Application Start
+----------2019-12-18 21:15:01----------
+Application Start
+----------2019-12-18 21:15:03----------
+Application Start
+----------2019-12-18 21:16:18----------
+Application Start
+----------2019-12-18 21:21:31----------
+Application Start
+----------2019-12-18 21:25:57----------
+Application Start
+----------2019-12-18 21:27:22----------
+Application Start
+----------2019-12-18 21:32:07----------
+Application Start
+----------2019-12-18 21:40:18----------
+Application Start
+----------2019-12-18 21:41:22----------
+Application Start
+----------2019-12-19 07:39:37----------
+Application Start
+----------2019-12-19 11:18:43----------
+Application Start
+----------2019-12-19 13:31:44----------
+Application Start
+----------2019-12-19 13:33:06----------
+Application Start
+----------2019-12-19 13:33:24----------
+Application Start
+----------2019-12-19 13:33:44----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.NullPointerException: Attempt to invoke interface method 'void com.loopeer.cardstack.CardStackView$ItemExpendListener.onItemExpend(boolean)' on a null object reference
+com.loopeer.cardstack.CardStackView.setSelectPosition(CardStackView.java:762)
+com.loopeer.cardstack.AnimatorAdapter.onItemExpand(AnimatorAdapter.java:46)
+com.loopeer.cardstack.AnimatorAdapter.itemClick(AnimatorAdapter.java:30)
+com.loopeer.cardstack.CardStackView.doCardClickAnimation(CardStackView.java:294)
+com.loopeer.cardstack.CardStackView.performItemClick(CardStackView.java:289)
+com.loopeer.cardstack.CardStackView$3.onClick(CardStackView.java:269)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-19 13:33:45----------
+Application Start
+----------2019-12-19 13:34:03----------
+Application Start
+----------2019-12-19 13:49:53----------
+Application Start
+----------2019-12-19 14:01:23----------
+Application Start
+----------2019-12-19 14:09:24----------
+Application Start
+----------2019-12-19 14:10:41----------
+Application Start
+----------2019-12-19 14:26:08----------
+Application Start
+----------2019-12-19 14:28:07----------
+Application Start
+----------2019-12-19 14:31:32----------
+Application Start
+----------2019-12-19 14:43:57----------
+Application Start
+----------2019-12-19 14:49:38----------
+Application Start
+----------2019-12-19 14:52:23----------
+Application Start
+----------2019-12-19 14:52:26----------
+Application Start
+----------2019-12-19 14:56:43----------
+Application Start
+----------2019-12-19 15:01:33----------
+Application Start
+----------2019-12-19 15:14:56----------
+Application Start
+----------2019-12-19 15:20:13----------
+Application Start
+----------2019-12-19 15:38:20----------
+Application Start
+----------2019-12-19 15:40:14----------
+Application Start
+----------2019-12-19 16:01:05----------
+Application Start
+----------2019-12-19 16:01:11----------
+Application Start
+----------2019-12-19 16:04:56----------
+Application Start
+----------2019-12-19 16:05:04----------
+Application Start
+----------2019-12-19 16:07:49----------
+Application Start
+----------2019-12-19 16:17:19----------
+Application Start
+----------2019-12-19 16:24:39----------
+Application Start
+----------2019-12-19 16:24:42----------
+Application Start
+----------2019-12-19 16:26:04----------
+Application Start
+----------2019-12-19 16:29:22----------
+Application Start
+----------2019-12-19 16:29:24----------
+Application Start
+----------2019-12-19 16:30:39----------
+Application Start
+----------2019-12-19 16:33:02----------
+Application Start
+----------2019-12-19 16:36:15----------
+Application Start
+----------2019-12-19 16:41:07----------
+Application Start
+----------2019-12-19 16:44:14----------
+Application Start
+----------2019-12-19 16:47:42----------
+Application Start
+----------2019-12-19 16:49:29----------
+Application Start
+----------2019-12-19 16:49:31----------
+Application Start
+----------2019-12-19 16:52:39----------
+Application Start
+----------2019-12-19 16:56:02----------
+Application Start
+----------2019-12-19 18:58:56----------
+Application Start
+----------2019-12-19 19:09:09----------
+Application Start
+----------2019-12-19 19:09:13----------
+Application Start
+----------2019-12-19 19:10:55----------
+Application Start
+----------2019-12-19 19:30:30----------
+Application Start
+----------2019-12-19 19:47:45----------
+Application Start
+----------2019-12-19 20:01:07----------
+Application Start
+----------2019-12-19 20:19:45----------
+Application Start
+----------2019-12-19 20:24:47----------
+Application Start
+----------2019-12-19 20:24:50----------
+Application Start
+----------2019-12-19 20:30:26----------
+Application Start
+----------2019-12-19 20:49:06----------
+Application Start
+----------2019-12-19 20:53:31----------
+Application Start
+----------2019-12-19 20:55:59----------
+Application Start
+----------2019-12-19 20:58:31----------
+Application Start
+----------2019-12-19 20:58:39----------
+Application Start
+----------2019-12-19 21:01:59----------
+Application Start
+----------2019-12-19 21:05:02----------
+Application Start
+----------2019-12-19 21:06:21----------
+Application Start
+----------2019-12-19 21:13:25----------
+Application Start
+----------2019-12-19 21:16:02----------
+Application Start
+----------2019-12-19 21:16:05----------
+Application Start
+----------2019-12-19 21:18:40----------
+Application Start
+----------2019-12-19 21:18:43----------
+Application Start
+----------2019-12-19 21:35:34----------
+Application Start
+----------2019-12-20 07:31:29----------
+Application Start
+----------2019-12-20 10:49:31----------
+Application Start
+----------2019-12-20 10:53:36----------
+Application Start
+----------2019-12-20 13:08:46----------
+Application Start
+----------2019-12-20 14:41:58----------
+Application Start
+----------2019-12-20 14:44:00----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.SecurityException: Requires VIBRATE permission
+android.os.Parcel.createException(Parcel.java:1953)
+android.os.Parcel.readException(Parcel.java:1921)
+android.os.Parcel.readException(Parcel.java:1871)
+android.os.IVibratorService$Stub$Proxy.vibrate(IVibratorService.java:192)
+android.os.SystemVibrator.vibrate(SystemVibrator.java:78)
+android.os.Vibrator.vibrate(Vibrator.java:271)
+android.os.Vibrator.vibrate(Vibrator.java:183)
+android.os.Vibrator.vibrate(Vibrator.java:162)
+com.uuzuche.lib_zxing.activity.CaptureFragment.playBeepSoundAndVibrate(CaptureFragment.java:235)
+com.uuzuche.lib_zxing.activity.CaptureFragment.handleDecode(CaptureFragment.java:132)
+com.uuzuche.lib_zxing.decoding.CaptureActivityHandler.handleMessage(CaptureActivityHandler.java:89)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-20 14:44:02----------
+Application Start
+----------2019-12-20 14:44:04----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-20 14:44:09----------
+Application Start
+----------2019-12-20 14:46:17----------
+Application Start
+----------2019-12-20 14:46:56----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.SecurityException: Requires VIBRATE permission
+android.os.Parcel.createException(Parcel.java:1953)
+android.os.Parcel.readException(Parcel.java:1921)
+android.os.Parcel.readException(Parcel.java:1871)
+android.os.IVibratorService$Stub$Proxy.vibrate(IVibratorService.java:192)
+android.os.SystemVibrator.vibrate(SystemVibrator.java:78)
+android.os.Vibrator.vibrate(Vibrator.java:271)
+android.os.Vibrator.vibrate(Vibrator.java:183)
+android.os.Vibrator.vibrate(Vibrator.java:162)
+com.uuzuche.lib_zxing.activity.CaptureFragment.playBeepSoundAndVibrate(CaptureFragment.java:235)
+com.uuzuche.lib_zxing.activity.CaptureFragment.handleDecode(CaptureFragment.java:132)
+com.uuzuche.lib_zxing.decoding.CaptureActivityHandler.handleMessage(CaptureActivityHandler.java:89)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-20 14:46:57----------
+Application Start
+----------2019-12-20 14:47:00----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-20 14:47:05----------
+Application Start
+----------2019-12-20 14:47:47----------
+Application Start
+----------2019-12-20 15:03:53----------
+Application Start
+----------2019-12-20 15:44:55----------
+Application Start
+----------2019-12-20 15:45:12----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+android.content.ActivityNotFoundException: Unable to find explicit activity class {test.me.kozh.ones/test.me.kozh.ones.ui.Activity.ScanActivity}; have you declared this activity in your AndroidManifest.xml?
+android.app.Instrumentation.checkStartActivityResult(Instrumentation.java:2112)
+android.app.Instrumentation.execStartActivity(Instrumentation.java:1903)
+android.app.Activity.startActivityForResult(Activity.java:5573)
+android.app.Activity.startActivityFromFragment(Activity.java:5538)
+android.app.Activity$HostCallbacks.onStartActivityFromFragment(Activity.java:8277)
+android.app.Fragment.startActivityForResult(Fragment.java:1115)
+android.app.Fragment.startActivityForResult(Fragment.java:1104)
+test.me.kozh.ones.ui.Fragment.main.OneFragment.onViewClicked(OneFragment.java:422)
+test.me.kozh.ones.ui.Fragment.main.OneFragment_ViewBinding$8.doClick(OneFragment_ViewBinding.java:130)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-20 15:45:14----------
+Application Start
+----------2019-12-20 15:46:10----------
+Application Start
+----------2019-12-20 15:46:56----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.ScanActivity}: java.lang.IllegalStateException: Required view 'generate_code' with ID 2131297510 for field 'mGenerateCode' and method 'onViewClicked' was not found. If this view is optional add '@Nullable' (fields) or '@Optional' (methods) annotation.
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-20 15:46:57----------
+Application Start
+----------2019-12-20 15:46:57----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.ScanActivity}: java.lang.IllegalStateException: Required view 'generate_code' with ID 2131297510 for field 'mGenerateCode' and method 'onViewClicked' was not found. If this view is optional add '@Nullable' (fields) or '@Optional' (methods) annotation.
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-20 15:46:58----------
+Application Start
+----------2019-12-20 15:46:58----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.ScanActivity}: java.lang.IllegalStateException: Required view 'generate_code' with ID 2131297510 for field 'mGenerateCode' and method 'onViewClicked' was not found. If this view is optional add '@Nullable' (fields) or '@Optional' (methods) annotation.
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-20 15:46:59----------
+Application Start
+----------2019-12-20 15:47:00----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.ScanActivity}: java.lang.IllegalStateException: Required view 'generate_code' with ID 2131297510 for field 'mGenerateCode' and method 'onViewClicked' was not found. If this view is optional add '@Nullable' (fields) or '@Optional' (methods) annotation.
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-20 15:47:00----------
+Application Start
+----------2019-12-20 15:47:01----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.ScanActivity}: java.lang.IllegalStateException: Required view 'generate_code' with ID 2131297510 for field 'mGenerateCode' and method 'onViewClicked' was not found. If this view is optional add '@Nullable' (fields) or '@Optional' (methods) annotation.
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-20 15:47:02----------
+Application Start
+----------2019-12-20 15:47:02----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.ScanActivity}: java.lang.IllegalStateException: Required view 'generate_code' with ID 2131297510 for field 'mGenerateCode' and method 'onViewClicked' was not found. If this view is optional add '@Nullable' (fields) or '@Optional' (methods) annotation.
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-20 16:01:01----------
+Application Start
+----------2019-12-20 16:05:38----------
+Application Start
+----------2019-12-20 16:06:59----------
+Application Start
+----------2019-12-20 16:09:56----------
+Application Start
+----------2019-12-20 16:17:53----------
+Application Start
+----------2019-12-20 16:28:51----------
+Application Start
+----------2019-12-20 16:35:39----------
+Application Start
+----------2019-12-20 16:41:26----------
+Application Start
+----------2019-12-20 16:57:17----------
+Application Start
+----------2019-12-20 17:02:45----------
+Application Start
+----------2019-12-20 17:04:41----------
+Application Start
+----------2019-12-20 17:08:56----------
+Application Start
+----------2019-12-20 17:12:27----------
+Application Start
+----------2019-12-20 17:13:37----------
+Application Start
+----------2019-12-20 17:18:53----------
+Application Start
+----------2019-12-20 17:22:02----------
+Application Start
+----------2019-12-20 17:24:28----------
+Application Start
+----------2019-12-20 17:25:46----------
+Application Start
+----------2019-12-20 17:35:29----------
+Application Start
+----------2019-12-21 08:15:04----------
+Application Start
+----------2019-12-21 12:25:22----------
+Application Start
+----------2019-12-21 15:41:42----------
+Application Start
+----------2019-12-21 15:42:03----------
+Application Start
+----------2019-12-22 08:56:01----------
+Application Start
+----------2019-12-22 22:23:53----------
+Application Start
+----------2019-12-23 07:36:03----------
+Application Start
+----------2019-12-23 17:01:54----------
+Application Start
+----------2019-12-23 18:19:43----------
+Application Start
+----------2019-12-23 18:20:13----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.PDFReaderActivity}: android.view.WindowManager$BadTokenException: Unable to add window -- token null for displayid = 0 is not valid; is your activity running?
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-23 18:20:14----------
+Application Start
+----------2019-12-23 18:20:14----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.PDFReaderActivity}: android.view.WindowManager$BadTokenException: Unable to add window -- token null for displayid = 0 is not valid; is your activity running?
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-23 18:20:15----------
+Application Start
+----------2019-12-23 18:20:16----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.PDFReaderActivity}: android.view.WindowManager$BadTokenException: Unable to add window -- token null for displayid = 0 is not valid; is your activity running?
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-23 18:20:16----------
+Application Start
+----------2019-12-23 18:20:17----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.PDFReaderActivity}: android.view.WindowManager$BadTokenException: Unable to add window -- token null for displayid = 0 is not valid; is your activity running?
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-23 18:20:18----------
+Application Start
+----------2019-12-23 18:20:18----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.PDFReaderActivity}: android.view.WindowManager$BadTokenException: Unable to add window -- token null for displayid = 0 is not valid; is your activity running?
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-23 18:20:19----------
+Application Start
+----------2019-12-23 18:20:19----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{test.me.kozh.ones/test.me.kozh.ones.ui.Activity.PDFReaderActivity}: android.view.WindowManager$BadTokenException: Unable to add window -- token null for displayid = 0 is not valid; is your activity running?
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3430)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3614)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:86)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:108)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:68)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2199)
+android.os.Handler.dispatchMessage(Handler.java:112)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-23 18:20:20----------
+Application Start
+----------2019-12-23 18:21:46----------
+Application Start
+----------2019-12-23 18:24:26----------
+Application Start
+----------2019-12-23 18:36:11----------
+Application Start
+----------2019-12-23 18:42:46----------
+Application Start
+----------2019-12-23 18:42:48----------
+Application Start
+----------2019-12-23 18:47:08----------
+Application Start
+----------2019-12-23 18:47:10----------
+Application Start
+----------2019-12-23 18:49:43----------
+Application Start
+----------2019-12-23 18:49:46----------
+Application Start
+----------2019-12-23 19:01:42----------
+Application Start
+----------2019-12-23 19:01:44----------
+Application Start
+----------2019-12-23 19:03:44----------
+Application Start
+----------2019-12-23 19:03:46----------
+Application Start
+----------2019-12-23 19:11:35----------
+Application Start
+----------2019-12-23 19:11:41----------
+Application Start
+----------2019-12-23 19:14:54----------
+Application Start
+----------2019-12-23 19:14:56----------
+Application Start
+----------2019-12-23 19:18:51----------
+Application Start
+----------2019-12-23 19:18:55----------
+Application Start
+----------2019-12-23 19:24:08----------
+Application Start
+----------2019-12-23 19:24:11----------
+Application Start
+----------2019-12-23 19:28:54----------
+Application Start
+----------2019-12-23 19:28:56----------
+Application Start
+----------2019-12-23 19:31:39----------
+Application Start
+----------2019-12-23 19:31:42----------
+Application Start
+----------2019-12-23 19:33:57----------
+Application Start
+----------2019-12-23 19:34:00----------
+Application Start
+----------2019-12-23 19:34:40----------
+Application Start
+----------2019-12-23 19:34:42----------
+Application Start
+----------2019-12-23 19:37:14----------
+Application Start
+----------2019-12-23 19:37:18----------
+Application Start
+----------2019-12-23 21:11:28----------
+Application Start
+----------2019-12-23 21:13:18----------
+Application Start
+----------2019-12-23 21:13:20----------
+Application Start
+----------2019-12-23 21:14:19----------
+Application Start
+----------2019-12-23 21:14:21----------
+Application Start
+----------2019-12-23 21:15:13----------
+Application Start
+----------2019-12-23 21:15:16----------
+Application Start
+----------2019-12-23 21:18:50----------
+Application Start
+----------2019-12-23 21:18:52----------
+Application Start
+----------2019-12-23 21:20:15----------
+Application Start
+----------2019-12-23 21:20:17----------
+Application Start
+----------2019-12-24 10:47:52----------
+Application Start
+----------2019-12-24 10:55:52----------
+Application Start
+----------2019-12-24 11:01:29----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-24 11:01:31----------
+Application Start
+----------2019-12-24 11:22:11----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-24 11:22:14----------
+Application Start
+----------2019-12-24 11:30:37----------
+Application Start
+----------2019-12-24 11:34:25----------
+Application Start
+----------2019-12-24 12:51:32----------
+Application Start
+----------2019-12-24 13:10:30----------
+Application Start
+----------2019-12-24 13:26:02----------
+Application Start
+----------2019-12-24 13:47:42----------
+Application Start
+----------2019-12-24 14:02:14----------
+Application Start
+----------2019-12-24 14:04:00----------
+Application Start
+----------2019-12-24 14:17:35----------
+Application Start
+----------2019-12-24 14:31:48----------
+Application Start
+----------2019-12-24 14:36:39----------
+Application Start
+----------2019-12-24 16:11:56----------
+Application Start
+----------2019-12-24 16:16:52----------
+Application Start
+----------2019-12-24 16:18:57----------
+Application Start
+----------2019-12-24 16:20:28----------
+Application Start
+----------2019-12-24 16:21:12----------
+Application Start
+----------2019-12-24 16:21:14----------
+Application Start
+----------2019-12-24 16:22:11----------
+Application Start
+----------2019-12-24 16:36:03----------
+Application Start
+----------2019-12-24 17:21:12----------
+Application Start
+----------2019-12-24 17:50:02----------
+Application Start
+----------2019-12-24 19:28:38----------
+Application Start
+----------2019-12-24 19:30:43----------
+Application Start
+----------2019-12-24 19:32:49----------
+Application Start
+----------2019-12-24 19:37:06----------
+Application Start
+----------2019-12-24 19:49:27----------
+Application Start
+----------2019-12-24 20:12:13----------
+Application Start
+----------2019-12-24 21:45:55----------
+Application Start
+----------2019-12-24 21:47:36----------
+Application Start
+----------2019-12-24 21:52:54----------
+Application Start
+----------2019-12-24 21:52:56----------
+Application Start
+----------2019-12-24 21:56:02----------
+Application Start
+----------2019-12-24 21:56:04----------
+Application Start
+----------2019-12-24 21:58:25----------
+Application Start
+----------2019-12-24 21:58:30----------
+Application Start
+----------2019-12-24 22:00:28----------
+Application Start
+----------2019-12-24 22:00:30----------
+Application Start
+----------2019-12-25 11:34:52----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: No value for data
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableDoOnEach$DoOnEachObserver.onError(ObservableDoOnEach.java:119)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.checkTerminated(ObservableObserveOn.java:276)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:172)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 11:34:53----------
+Application Start
+----------2019-12-25 11:34:55----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 11:35:00----------
+Application Start
+----------2019-12-25 11:37:16----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: No value for data
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableDoOnEach$DoOnEachObserver.onError(ObservableDoOnEach.java:119)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.checkTerminated(ObservableObserveOn.java:276)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:172)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 11:37:17----------
+Application Start
+----------2019-12-25 11:37:18----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 11:37:20----------
+Application Start
+----------2019-12-25 11:37:35----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: No value for data
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableDoOnEach$DoOnEachObserver.onError(ObservableDoOnEach.java:119)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.checkTerminated(ObservableObserveOn.java:276)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:172)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 11:37:35----------
+Application Start
+----------2019-12-25 11:37:37----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 11:37:39----------
+Application Start
+----------2019-12-25 11:38:25----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: No value for data
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableDoOnEach$DoOnEachObserver.onError(ObservableDoOnEach.java:119)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.checkTerminated(ObservableObserveOn.java:276)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:172)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 11:38:26----------
+Application Start
+----------2019-12-25 11:38:30----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 11:38:32----------
+Application Start
+----------2019-12-25 14:03:06----------
+Application Start
+----------2019-12-25 14:06:36----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: No value for data
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableDoOnEach$DoOnEachObserver.onError(ObservableDoOnEach.java:119)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.checkTerminated(ObservableObserveOn.java:276)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:172)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 14:06:37----------
+Application Start
+----------2019-12-25 14:06:39----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 14:06:44----------
+Application Start
+----------2019-12-25 14:12:08----------
+Application Start
+----------2019-12-25 14:12:09----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.ArithmeticException: divide by zero
+test.me.kozh.ones.utils.BitmapUtils.loadBigImage(BitmapUtils.java:68)
+test.me.kozh.ones.ui.Activity.SplashActivity$2.run(SplashActivity.java:155)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 14:13:26----------
+Application Start
+----------2019-12-25 14:13:27----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.ArithmeticException: divide by zero
+test.me.kozh.ones.utils.BitmapUtils.loadBigImage(BitmapUtils.java:68)
+test.me.kozh.ones.ui.Activity.SplashActivity$2.run(SplashActivity.java:156)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 14:14:42----------
+Application Start
+----------2019-12-25 14:19:15----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: No value for data
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableDoOnEach$DoOnEachObserver.onError(ObservableDoOnEach.java:119)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.checkTerminated(ObservableObserveOn.java:276)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:172)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 14:19:16----------
+Application Start
+----------2019-12-25 14:19:18----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 14:19:22----------
+Application Start
+----------2019-12-25 14:20:42----------
+Application Start
+----------2019-12-25 14:24:17----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: No value for data
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableDoOnEach$DoOnEachObserver.onError(ObservableDoOnEach.java:119)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.checkTerminated(ObservableObserveOn.java:276)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:172)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 14:24:18----------
+Application Start
+----------2019-12-25 14:24:20----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 14:24:25----------
+Application Start
+----------2019-12-25 14:24:32----------
+Application Start
+----------2019-12-25 14:32:44----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: No value for data
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableDoOnEach$DoOnEachObserver.onError(ObservableDoOnEach.java:119)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.checkTerminated(ObservableObserveOn.java:276)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:172)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 14:32:45----------
+Application Start
+----------2019-12-25 14:32:46----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 14:32:51----------
+Application Start
+----------2019-12-25 14:33:30----------
+Application Start
+----------2019-12-25 14:34:13----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: No value for data
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableDoOnEach$DoOnEachObserver.onError(ObservableDoOnEach.java:119)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.checkTerminated(ObservableObserveOn.java:276)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:172)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 14:34:14----------
+Application Start
+----------2019-12-25 14:34:15----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 14:34:20----------
+Application Start
+----------2019-12-25 14:35:55----------
+Application Start
+----------2019-12-25 14:36:17----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: Content-Length (70) and stream length (0) disagree
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableDoOnEach$DoOnEachObserver.onError(ObservableDoOnEach.java:119)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.checkTerminated(ObservableObserveOn.java:276)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:172)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 14:36:18----------
+Application Start
+----------2019-12-25 14:36:20----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 14:36:25----------
+Application Start
+----------2019-12-25 14:38:08----------
+Application Start
+----------2019-12-25 14:52:23----------
+Application Start
+----------2019-12-25 14:52:29----------
+Application Start
+----------2019-12-25 15:40:07----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+io.reactivex.exceptions.OnErrorNotImplementedException: Content-Length (70) and stream length (0) disagree
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:704)
+io.reactivex.internal.functions.Functions$OnErrorMissingConsumer.accept(Functions.java:701)
+io.reactivex.internal.observers.LambdaObserver.onError(LambdaObserver.java:74)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableDoOnEach$DoOnEachObserver.onError(ObservableDoOnEach.java:119)
+io.reactivex.internal.observers.DisposableLambdaObserver.onError(DisposableLambdaObserver.java:64)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.checkTerminated(ObservableObserveOn.java:276)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.drainNormal(ObservableObserveOn.java:172)
+io.reactivex.internal.operators.observable.ObservableObserveOn$ObserveOnObserver.run(ObservableObserveOn.java:252)
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:109)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 15:40:08----------
+Application Start
+----------2019-12-25 15:40:11----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 15:40:16----------
+Application Start
+----------2019-12-25 15:48:11----------
+Application Start
+----------2019-12-25 15:48:20----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-25 15:48:22----------
+Application Start
+----------2019-12-25 16:03:18----------
+Application Start
+----------2019-12-25 16:07:35----------
+Application Start
+----------2019-12-25 16:07:38----------
+Application Start
+----------2019-12-25 16:10:43----------
+Application Start
+----------2019-12-25 16:16:29----------
+Application Start
+----------2019-12-25 21:38:48----------
+Application Start
+----------2019-12-26 07:00:49----------
+Application Start
+----------2019-12-26 10:35:56----------
+Application Start
+----------2019-12-26 11:24:11----------
+Application Start
+----------2019-12-26 11:24:14----------
+Application Start
+----------2019-12-26 13:11:35----------
+Application Start
+----------2019-12-26 13:15:26----------
+Application Start
+----------2019-12-26 13:19:44----------
+Application Start
+----------2019-12-26 13:19:46----------
+Application Start
+----------2019-12-26 14:01:29----------
+Application Start
+----------2019-12-26 14:02:58----------
+Application Start
+----------2019-12-26 14:03:03----------
+Application Start
+----------2019-12-26 14:05:18----------
+Application Start
+----------2019-12-26 14:05:21----------
+Application Start
+----------2019-12-26 14:06:23----------
+Application Start
+----------2019-12-26 14:06:25----------
+Application Start
+----------2019-12-26 14:06:54----------
+Application Start
+----------2019-12-26 14:13:49----------
+Application Start
+----------2019-12-26 14:19:39----------
+Application Start
+----------2019-12-27 07:39:59----------
+Application Start
+----------2019-12-27 09:35:37----------
+Application Start
+----------2019-12-27 09:41:48----------
+Application Start
+----------2019-12-27 09:41:50----------
+Application Start
+----------2019-12-27 13:38:43----------
+Application Start
+----------2019-12-27 20:07:08----------
+Application Start
+----------2019-12-28 10:18:39----------
+Application Start
+----------2019-12-28 20:57:06----------
+Application Start
+----------2019-12-28 20:57:25----------
+Application Start
+----------2019-12-28 20:57:35----------
+Application Start
+----------2019-12-28 20:57:55----------
+Application Start
+----------2019-12-28 20:58:45----------
+Application Start
+----------2019-12-28 20:59:13----------
+Application Start
+----------2019-12-28 21:00:07----------
+Application Start
+----------2019-12-28 21:02:33----------
+Application Start
+----------2019-12-28 21:04:33----------
+Application Start
+----------2019-12-28 21:16:19----------
+Application Start
+----------2019-12-29 10:03:03----------
+Application Start
+----------2019-12-29 16:14:39----------
+Application Start
+----------2019-12-29 16:15:33----------
+Application Start
+----------2019-12-29 16:25:52----------
+Application Start
+----------2019-12-29 16:32:15----------
+Application Start
+----------2019-12-29 16:33:27----------
+Application Start
+----------2019-12-29 16:33:41----------
+Application Start
+----------2019-12-29 16:52:25----------
+Application Start
+----------2019-12-29 17:02:02----------
+Application Start
+----------2019-12-29 17:09:39----------
+Application Start
+----------2019-12-29 17:11:52----------
+Application Start
+----------2019-12-29 17:16:15----------
+Application Start
+----------2019-12-29 17:52:50----------
+Application Start
+----------2019-12-29 18:18:29----------
+Application Start
+----------2019-12-29 19:41:07----------
+Application Start
+----------2019-12-29 19:41:09----------
+Application Start
+----------2019-12-29 20:50:15----------
+Application Start
+----------2019-12-29 20:50:43----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.ArithmeticException: divide by zero
+test.me.kozh.ones.ui.Fragment.main.OneFragment.onViewClicked(OneFragment.java:433)
+test.me.kozh.ones.ui.Fragment.main.OneFragment_ViewBinding$9.doClick(OneFragment_ViewBinding.java:140)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-29 20:50:44----------
+Application Start
+----------2019-12-29 20:53:11----------
+Application Start
+----------2019-12-29 21:01:34----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.ArithmeticException: divide by zero
+test.me.kozh.ones.ui.Fragment.main.OneFragment.onViewClicked(OneFragment.java:433)
+test.me.kozh.ones.ui.Fragment.main.OneFragment_ViewBinding$9.doClick(OneFragment_ViewBinding.java:140)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-29 21:01:36----------
+Application Start
+----------2019-12-29 21:10:52----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.ArithmeticException: divide by zero
+test.me.kozh.ones.ui.Fragment.main.OneFragment.onViewClicked(OneFragment.java:433)
+test.me.kozh.ones.ui.Fragment.main.OneFragment_ViewBinding$9.doClick(OneFragment_ViewBinding.java:140)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-29 21:10:54----------
+Application Start
+----------2019-12-29 21:11:07----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.ArithmeticException: divide by zero
+test.me.kozh.ones.ui.Fragment.main.OneFragment.onViewClicked(OneFragment.java:433)
+test.me.kozh.ones.ui.Fragment.main.OneFragment_ViewBinding$9.doClick(OneFragment_ViewBinding.java:140)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-29 21:11:08----------
+Application Start
+----------2019-12-29 21:11:10----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-29 21:11:18----------
+Application Start
+----------2019-12-29 21:11:26----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.ArithmeticException: divide by zero
+test.me.kozh.ones.ui.Fragment.main.OneFragment.onViewClicked(OneFragment.java:433)
+test.me.kozh.ones.ui.Fragment.main.OneFragment_ViewBinding$9.doClick(OneFragment_ViewBinding.java:140)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-29 21:11:29----------
+Application Start
+----------2019-12-29 21:11:39----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.ArithmeticException: divide by zero
+test.me.kozh.ones.ui.Fragment.main.OneFragment.onViewClicked(OneFragment.java:433)
+test.me.kozh.ones.ui.Fragment.main.OneFragment_ViewBinding$9.doClick(OneFragment_ViewBinding.java:140)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-29 21:11:45----------
+Application Start
+----------2019-12-29 21:11:52----------
+Application Start
+----------2019-12-29 21:11:58----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.ArithmeticException: divide by zero
+test.me.kozh.ones.ui.Fragment.main.OneFragment.onViewClicked(OneFragment.java:433)
+test.me.kozh.ones.ui.Fragment.main.OneFragment_ViewBinding$9.doClick(OneFragment_ViewBinding.java:140)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-29 21:11:59----------
+Application Start
+----------2019-12-29 21:12:01----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-29 21:12:16----------
+Application Start
+----------2019-12-29 23:30:37----------
+Application Start
+----------2019-12-30 07:28:06----------
+Application Start
+----------2019-12-30 11:26:37----------
+Application Start
+----------2019-12-30 11:28:54----------
+Application Start
+----------2019-12-30 11:30:23----------
+Application Start
+----------2019-12-30 11:30:39----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.1
+java.lang.ArithmeticException: divide by zero
+test.me.kozh.ones.ui.Fragment.main.OneFragment.onViewClicked(OneFragment.java:434)
+test.me.kozh.ones.ui.Fragment.main.OneFragment_ViewBinding$9.doClick(OneFragment_ViewBinding.java:140)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-30 11:30:40----------
+Application Start
+----------2019-12-30 11:32:36----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.1
+java.lang.ArithmeticException: divide by zero
+test.me.kozh.ones.ui.Fragment.main.OneFragment.onViewClicked(OneFragment.java:434)
+test.me.kozh.ones.ui.Fragment.main.OneFragment_ViewBinding$9.doClick(OneFragment_ViewBinding.java:140)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-30 11:32:37----------
+Application Start
+----------2019-12-30 11:33:15----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.1
+java.lang.ArithmeticException: divide by zero
+test.me.kozh.ones.ui.Fragment.main.OneFragment.onViewClicked(OneFragment.java:434)
+test.me.kozh.ones.ui.Fragment.main.OneFragment_ViewBinding$9.doClick(OneFragment_ViewBinding.java:140)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-30 11:33:19----------
+Application Start
+----------2019-12-30 11:34:12----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.1
+java.lang.ArithmeticException: divide by zero
+test.me.kozh.ones.ui.Fragment.main.OneFragment.onViewClicked(OneFragment.java:434)
+test.me.kozh.ones.ui.Fragment.main.OneFragment_ViewBinding$9.doClick(OneFragment_ViewBinding.java:140)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-30 11:34:29----------
+Application Start
+----------2019-12-30 11:48:35----------
+DeviceID=HUAWEIHWI-AL00
+AndroidApi=28
+AndroidVersion=9
+Brand=HUAWEI
+ManuFacture=HUAWEI
+Model=HWI-AL00
+PackageName=test.me.kozh.ones
+CurrentVersionName=1.1
+java.lang.ArithmeticException: divide by zero
+test.me.kozh.ones.ui.Fragment.main.OneFragment.onViewClicked(OneFragment.java:434)
+test.me.kozh.ones.ui.Fragment.main.OneFragment_ViewBinding$9.doClick(OneFragment_ViewBinding.java:140)
+butterknife.internal.DebouncingOnClickListener.onClick(DebouncingOnClickListener.java:22)
+android.view.View.performClick(View.java:6663)
+android.view.View.performClickInternal(View.java:6635)
+android.view.View.access$3100(View.java:794)
+android.view.View$PerformClick.run(View.java:26199)
+android.os.Handler.handleCallback(Handler.java:907)
+android.os.Handler.dispatchMessage(Handler.java:105)
+android.os.Looper.loop(Looper.java:216)
+android.app.ActivityThread.main(ActivityThread.java:7625)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:524)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:987)
+
+----------2019-12-30 11:48:36----------
+Application Start
+----------2019-12-30 11:48:40----------
+Application Start
+----------2019-12-30 12:37:02----------
+Application Start
+----------2019-12-30 12:48:57----------
+Application Start
+----------2019-12-30 12:51:57----------
+Application Start
