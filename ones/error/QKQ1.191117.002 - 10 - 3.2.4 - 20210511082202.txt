@@ -1,0 +1,4326 @@
+----------2020-04-27 20:10:53----------
+Application Start
+----------2020-04-27 20:11:12----------
+Application Start
+----------2020-04-27 20:14:45----------
+Application Start
+----------2020-04-27 20:51:29----------
+Application Start
+----------2020-04-27 20:53:12----------
+Application Start
+----------2020-04-27 22:31:14----------
+Application Start
+----------2020-04-27 22:54:59----------
+Application Start
+----------2020-04-30 21:03:09----------
+Application Start
+----------2020-04-30 21:25:55----------
+Application Start
+----------2020-04-30 23:14:50----------
+Application Start
+----------2020-04-30 23:20:14----------
+Application Start
+----------2020-04-30 23:27:20----------
+Application Start
+----------2020-05-01 10:42:21----------
+Application Start
+----------2020-05-04 17:52:40----------
+Application Start
+----------2020-05-08 13:12:35----------
+Application Start
+----------2020-05-08 16:09:23----------
+Application Start
+----------2020-05-08 17:07:22----------
+Application Start
+----------2020-05-13 08:48:55----------
+Application Start
+----------2020-05-19 20:39:26----------
+Application Start
+----------2020-05-20 19:34:43----------
+Application Start
+----------2020-05-21 19:17:09----------
+Application Start
+----------2020-05-23 00:30:04----------
+Application Start
+----------2020-05-23 00:50:36----------
+Application Start
+----------2020-05-23 00:56:23----------
+Application Start
+----------2020-05-23 01:13:01----------
+Application Start
+----------2020-05-23 01:14:02----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.0
+java.lang.NullPointerException: Attempt to invoke virtual method 'boolean android.os.Handler.post(java.lang.Runnable)' on a null object reference
+cn.jzvd.JZMediaSystem.start(JZMediaSystem.java:60)
+cn.jzvd.Jzvd.onPrepared(Jzvd.java:500)
+cn.jzvd.JZMediaSystem.lambda$onPrepared$6(JZMediaSystem.java:138)
+cn.jzvd.-$$Lambda$JZMediaSystem$zIW9UuYfRsLvwe6Lu-iDTY-nGW8.run(Unknown Source:2)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-05-23 09:05:54----------
+Application Start
+----------2020-05-23 09:39:43----------
+Application Start
+----------2020-05-23 09:46:27----------
+Application Start
+----------2020-05-23 11:51:08----------
+Application Start
+----------2020-05-23 12:34:41----------
+Application Start
+----------2020-05-23 14:20:55----------
+Application Start
+----------2020-05-23 17:50:56----------
+Application Start
+----------2020-05-23 18:29:12----------
+Application Start
+----------2020-05-23 18:33:37----------
+Application Start
+----------2020-05-23 20:53:40----------
+Application Start
+----------2020-05-23 23:42:44----------
+Application Start
+----------2020-05-24 00:21:43----------
+Application Start
+----------2020-05-24 00:26:00----------
+Application Start
+----------2020-05-24 00:54:07----------
+Application Start
+----------2020-05-24 00:58:08----------
+Application Start
+----------2020-05-24 00:59:23----------
+Application Start
+----------2020-05-24 00:59:51----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.0
+java.lang.NullPointerException: Attempt to invoke virtual method 'boolean android.os.Handler.post(java.lang.Runnable)' on a null object reference
+cn.jzvd.JZMediaSystem.start(JZMediaSystem.java:60)
+cn.jzvd.Jzvd.onPrepared(Jzvd.java:500)
+cn.jzvd.JZMediaSystem.lambda$onPrepared$6(JZMediaSystem.java:138)
+cn.jzvd.-$$Lambda$JZMediaSystem$zIW9UuYfRsLvwe6Lu-iDTY-nGW8.run(Unknown Source:2)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-05-24 00:59:58----------
+Application Start
+----------2020-05-24 01:01:03----------
+Application Start
+----------2020-05-24 08:26:46----------
+Application Start
+----------2020-05-24 08:49:24----------
+Application Start
+----------2020-05-24 10:56:06----------
+Application Start
+----------2020-05-24 11:22:51----------
+Application Start
+----------2020-05-24 12:42:01----------
+Application Start
+----------2020-05-24 13:58:01----------
+Application Start
+----------2020-05-24 17:00:55----------
+Application Start
+----------2020-05-24 20:08:35----------
+Application Start
+----------2020-05-24 20:22:42----------
+Application Start
+----------2020-05-24 23:53:01----------
+Application Start
+----------2020-05-25 10:45:35----------
+Application Start
+----------2020-05-25 11:00:01----------
+Application Start
+----------2020-05-25 11:24:45----------
+Application Start
+----------2020-05-25 11:29:29----------
+Application Start
+----------2020-05-25 12:25:40----------
+Application Start
+----------2020-05-25 15:24:26----------
+Application Start
+----------2020-05-25 15:33:02----------
+Application Start
+----------2020-05-25 15:35:15----------
+Application Start
+----------2020-05-25 15:36:20----------
+Application Start
+----------2020-05-25 17:01:32----------
+Application Start
+----------2020-05-25 17:32:43----------
+Application Start
+----------2020-05-26 07:17:22----------
+Application Start
+----------2020-05-26 08:50:58----------
+Application Start
+----------2020-05-26 19:10:25----------
+Application Start
+----------2020-05-26 19:16:48----------
+Application Start
+----------2020-05-26 19:23:35----------
+Application Start
+----------2020-05-26 19:29:41----------
+Application Start
+----------2020-05-26 19:33:37----------
+Application Start
+----------2020-05-26 19:37:02----------
+Application Start
+----------2020-05-26 19:45:13----------
+Application Start
+----------2020-05-26 19:47:48----------
+Application Start
+----------2020-05-26 19:53:16----------
+Application Start
+----------2020-05-26 20:02:08----------
+Application Start
+----------2020-05-26 20:08:31----------
+Application Start
+----------2020-05-26 20:17:36----------
+Application Start
+----------2020-05-26 20:24:50----------
+Application Start
+----------2020-05-26 20:40:23----------
+Application Start
+----------2020-05-26 20:43:27----------
+Application Start
+----------2020-05-26 21:08:49----------
+Application Start
+----------2020-05-26 22:41:23----------
+Application Start
+----------2020-05-26 22:41:53----------
+Application Start
+----------2020-05-26 23:21:32----------
+Application Start
+----------2020-05-27 07:43:28----------
+Application Start
+----------2020-05-27 08:22:15----------
+Application Start
+----------2020-05-27 08:46:09----------
+Application Start
+----------2020-05-27 16:44:59----------
+Application Start
+----------2020-05-27 19:25:26----------
+Application Start
+----------2020-05-27 22:07:59----------
+Application Start
+----------2020-05-28 09:25:58----------
+Application Start
+----------2020-05-28 20:13:38----------
+Application Start
+----------2020-05-29 08:57:43----------
+Application Start
+----------2020-05-29 08:58:38----------
+Application Start
+----------2020-05-29 17:25:31----------
+Application Start
+----------2020-05-29 17:41:51----------
+Application Start
+----------2020-05-29 17:42:30----------
+Application Start
+----------2020-05-29 17:42:39----------
+Application Start
+----------2020-05-29 19:18:56----------
+Application Start
+----------2020-05-30 08:56:37----------
+Application Start
+----------2020-05-30 08:59:02----------
+Application Start
+----------2020-05-30 10:38:42----------
+Application Start
+----------2020-05-30 10:39:42----------
+Application Start
+----------2020-05-30 13:31:04----------
+Application Start
+----------2020-05-30 18:02:02----------
+Application Start
+----------2020-05-30 18:07:58----------
+Application Start
+----------2020-05-30 22:27:35----------
+Application Start
+----------2020-05-30 23:03:21----------
+Application Start
+----------2020-05-30 23:24:23----------
+Application Start
+----------2020-05-31 12:51:33----------
+Application Start
+----------2020-05-31 17:55:38----------
+Application Start
+----------2020-05-31 17:56:11----------
+Application Start
+----------2020-05-31 19:06:20----------
+Application Start
+----------2020-05-31 19:07:32----------
+Application Start
+----------2020-05-31 20:40:35----------
+Application Start
+----------2020-06-01 10:32:32----------
+Application Start
+----------2020-06-01 10:38:16----------
+Application Start
+----------2020-06-01 10:38:47----------
+Application Start
+----------2020-06-01 14:34:30----------
+Application Start
+----------2020-06-01 19:37:54----------
+Application Start
+----------2020-06-02 07:39:33----------
+Application Start
+----------2020-06-02 11:28:59----------
+Application Start
+----------2020-06-02 11:51:35----------
+Application Start
+----------2020-06-02 21:00:34----------
+Application Start
+----------2020-06-02 21:01:03----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.6
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+java.util.ArrayList.get(ArrayList.java:437)
+work.kozh.music.adapter.LocalSongFragmentAdapter.getPositionForSection(LocalSongFragmentAdapter.java:206)
+work.kozh.music.mvp.view.fragment.LocalSongFragment.onTouchingLetterChanged(LocalSongFragment.java:218)
+work.kozh.common.widget.sideBar.SideBar.dispatchTouchEvent(SideBar.java:105)
+android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:3082)
+android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2718)
+android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:3082)
+android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2718)
+android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:3082)
+android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2718)
+android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:3082)
+android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2718)
+android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:3082)
+android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2718)
+android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:3082)
+android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2718)
+android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:3082)
+android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2718)
+android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:3082)
+android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2718)
+android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:3082)
+android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2718)
+android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:3082)
+android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2718)
+android.view.ViewGroup.dispatchTransformedTouchEvent(ViewGroup.java:3082)
+android.view.ViewGroup.dispatchTouchEvent(ViewGroup.java:2718)
+com.android.internal.policy.DecorView.superDispatchTouchEvent(DecorView.java:490)
+com.android.internal.policy.PhoneWindow.superDispatchTouchEvent(PhoneWindow.java:1851)
+android.app.Activity.dispatchTouchEvent(Activity.java:4059)
+android.support.v7.view.WindowCallbackWrapper.dispatchTouchEvent(WindowCallbackWrapper.java:69)
+com.android.internal.policy.DecorView.dispatchTouchEvent(DecorView.java:448)
+android.view.View.dispatchPointerEvent(View.java:13718)
+android.view.ViewRootImpl$ViewPostImeInputStage.processPointerEvent(ViewRootImpl.java:5583)
+android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:5383)
+android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:4884)
+android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:4937)
+android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:4903)
+android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:5043)
+android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:4911)
+android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:5100)
+android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:4884)
+android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:4937)
+android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:4903)
+android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:4911)
+android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:4884)
+android.view.ViewRootImpl.deliverInputEvent(ViewRootImpl.java:7658)
+android.view.ViewRootImpl.doProcessInputEvents(ViewRootImpl.java:7627)
+android.view.ViewRootImpl.enqueueInputEvent(ViewRootImpl.java:7588)
+android.view.ViewRootImpl$WindowInputEventReceiver.onInputEvent(ViewRootImpl.java:7788)
+android.view.InputEventReceiver.dispatchInputEvent(InputEventReceiver.java:251)
+android.os.MessageQueue.nativePollOnce(Native Method)
+android.os.MessageQueue.next(MessageQueue.java:336)
+android.os.Looper.loop(Looper.java:182)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-06-03 10:53:13----------
+Application Start
+----------2020-06-03 10:54:36----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.6
+java.lang.RuntimeException: Unable to start activity ComponentInfo{work.kozh.ones/com.didi.virtualapk.core.A$1}: android.content.res.Resources$NotFoundException: Drawable work.kozh.plugin_m3u8_downlaoder:drawable/abc_vector_test with resource ID #0x7f07005f
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3311)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3450)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:83)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-06-03 10:54:37----------
+Application Start
+----------2020-06-03 11:03:03----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.6
+java.lang.RuntimeException: Unable to start activity ComponentInfo{work.kozh.ones/com.didi.virtualapk.core.A$1}: android.content.res.Resources$NotFoundException: Drawable work.kozh.plugin_m3u8_downlaoder:drawable/abc_vector_test with resource ID #0x7f07005f
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3311)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3450)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:83)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-06-03 11:03:03----------
+Application Start
+----------2020-06-03 11:03:18----------
+Application Start
+----------2020-06-03 11:03:33----------
+Application Start
+----------2020-06-03 11:15:02----------
+Application Start
+----------2020-06-03 13:11:48----------
+Application Start
+----------2020-06-03 17:38:50----------
+Application Start
+----------2020-06-03 17:54:02----------
+Application Start
+----------2020-06-03 17:54:07----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.6
+java.lang.RuntimeException: Unable to start activity ComponentInfo{work.kozh.ones/work.kozh.ones.activity.MainActivity}: android.view.InflateException: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Error inflating class <unknown>
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3311)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3450)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:83)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-06-03 17:54:13----------
+Application Start
+----------2020-06-03 18:09:31----------
+Application Start
+----------2020-06-03 18:09:49----------
+Application Start
+----------2020-06-03 18:10:09----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.7
+android.view.InflateException: Binary XML file line #14 in work.kozh.ones:layout/item_fragment_video: Binary XML file line #14 in work.kozh.ones:layout/item_fragment_video: Error inflating class de.hdodenhof.circleimageview.CircleImageView
+
+----------2020-06-03 18:10:11----------
+Application Start
+----------2020-06-03 18:34:56----------
+Application Start
+----------2020-06-03 19:59:44----------
+Application Start
+----------2020-06-04 21:24:26----------
+Application Start
+----------2020-06-05 22:22:33----------
+Application Start
+----------2020-06-05 22:22:53----------
+Application Start
+----------2020-06-05 22:53:49----------
+Application Start
+----------2020-06-05 23:45:37----------
+Application Start
+----------2020-06-06 19:31:46----------
+Application Start
+----------2020-06-07 15:46:51----------
+Application Start
+----------2020-06-07 15:57:18----------
+Application Start
+----------2020-06-07 15:57:22----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.8
+java.lang.RuntimeException: Unable to start activity ComponentInfo{work.kozh.ones/work.kozh.ones.activity.MainActivity}: android.view.InflateException: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Error inflating class <unknown>
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3311)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3450)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:83)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-06-07 15:57:26----------
+Application Start
+----------2020-06-07 22:42:24----------
+Application Start
+----------2020-06-07 23:24:17----------
+Application Start
+----------2020-06-08 00:05:07----------
+Application Start
+----------2020-06-08 00:05:38----------
+Application Start
+----------2020-06-08 00:07:03----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9
+java.lang.NullPointerException: Attempt to invoke virtual method 'void work.kozh.music.mvp.model.SearchOnlineSongActivityModel.getNeteaseSongMVUrl(work.kozh.common.bean.Song, android.app.Activity)' on a null object reference
+work.kozh.music.adapter.NeteasePlayListSongsAdapter$2.onClick(NeteasePlayListSongsAdapter.java:160)
+android.view.View.performClick(View.java:7164)
+android.view.View.performClickInternal(View.java:7141)
+android.view.View.access$3500(View.java:814)
+android.view.View$PerformClick.run(View.java:27429)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-06-08 00:08:43----------
+Application Start
+----------2020-06-08 00:09:03----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9
+java.lang.NullPointerException: Attempt to invoke virtual method 'void work.kozh.music.mvp.model.SearchOnlineSongActivityModel.getNeteaseSongMVUrl(work.kozh.common.bean.Song, android.app.Activity)' on a null object reference
+work.kozh.music.adapter.NeteasePlayListSongsAdapter$2.onClick(NeteasePlayListSongsAdapter.java:160)
+android.view.View.performClick(View.java:7164)
+android.view.View.performClickInternal(View.java:7141)
+android.view.View.access$3500(View.java:814)
+android.view.View$PerformClick.run(View.java:27429)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-06-08 00:09:13----------
+Application Start
+----------2020-06-08 00:09:35----------
+Application Start
+----------2020-06-08 07:15:27----------
+Application Start
+----------2020-06-08 07:16:04----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9
+java.lang.NullPointerException: Attempt to invoke virtual method 'void work.kozh.music.mvp.model.SearchOnlineSongActivityModel.playNeteaseSongUrl(java.util.List, android.app.Activity, int, java.lang.String)' on a null object reference
+work.kozh.music.adapter.NeteasePlayListSongsAdapter$3.onClick(NeteasePlayListSongsAdapter.java:173)
+android.view.View.performClick(View.java:7164)
+android.view.View.performClickInternal(View.java:7141)
+android.view.View.access$3500(View.java:814)
+android.view.View$PerformClick.run(View.java:27429)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-06-08 10:36:09----------
+Application Start
+----------2020-06-08 10:41:54----------
+Application Start
+----------2020-06-08 14:19:01----------
+Application Start
+----------2020-06-08 16:17:40----------
+Application Start
+----------2020-06-08 16:17:45----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9.1
+java.lang.RuntimeException: Unable to start activity ComponentInfo{work.kozh.ones/work.kozh.ones.activity.MainActivity}: android.view.InflateException: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Error inflating class <unknown>
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3311)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3450)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:83)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-06-08 16:18:28----------
+Application Start
+----------2020-06-08 20:15:37----------
+Application Start
+----------2020-06-08 21:51:58----------
+Application Start
+----------2020-06-08 21:58:41----------
+Application Start
+----------2020-06-08 23:33:37----------
+Application Start
+----------2020-06-09 07:22:34----------
+Application Start
+----------2020-06-09 11:06:08----------
+Application Start
+----------2020-06-09 11:12:32----------
+Application Start
+----------2020-06-09 13:11:18----------
+Application Start
+----------2020-06-09 14:04:23----------
+Application Start
+----------2020-06-09 14:05:00----------
+Application Start
+----------2020-06-09 14:18:11----------
+Application Start
+----------2020-06-09 14:20:26----------
+Application Start
+----------2020-06-09 14:37:06----------
+Application Start
+----------2020-06-09 14:40:07----------
+Application Start
+----------2020-06-09 14:42:21----------
+Application Start
+----------2020-06-09 14:43:00----------
+Application Start
+----------2020-06-09 14:46:58----------
+Application Start
+----------2020-06-09 14:48:12----------
+Application Start
+----------2020-06-09 14:49:32----------
+Application Start
+----------2020-06-09 14:56:34----------
+Application Start
+----------2020-06-09 14:58:09----------
+Application Start
+----------2020-06-09 15:01:38----------
+Application Start
+----------2020-06-09 15:05:31----------
+Application Start
+----------2020-06-09 15:10:02----------
+Application Start
+----------2020-06-09 15:10:31----------
+Application Start
+----------2020-06-09 15:12:18----------
+Application Start
+----------2020-06-09 16:04:58----------
+Application Start
+----------2020-06-09 16:06:52----------
+Application Start
+----------2020-06-09 23:37:03----------
+Application Start
+----------2020-06-09 23:37:24----------
+Application Start
+----------2020-06-10 20:07:45----------
+Application Start
+----------2020-06-10 20:09:24----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9.3
+android.view.InflateException: Binary XML file line #14 in work.kozh.ones:layout/item_fragment_text: Binary XML file line #14 in work.kozh.ones:layout/item_fragment_text: Error inflating class <unknown>
+
+----------2020-06-10 20:09:28----------
+Application Start
+----------2020-06-11 08:15:30----------
+Application Start
+----------2020-06-11 09:41:15----------
+Application Start
+----------2020-06-11 11:36:55----------
+Application Start
+----------2020-06-11 16:41:35----------
+Application Start
+----------2020-06-11 19:11:47----------
+Application Start
+----------2020-06-12 09:14:34----------
+Application Start
+----------2020-06-12 09:25:21----------
+Application Start
+----------2020-06-12 10:54:58----------
+Application Start
+----------2020-06-12 10:55:41----------
+Application Start
+----------2020-06-12 11:00:19----------
+Application Start
+----------2020-06-12 11:04:59----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9.3
+android.view.InflateException: Binary XML file line #14 in work.kozh.ones:layout/item_fragment_video: Binary XML file line #14 in work.kozh.ones:layout/item_fragment_video: Error inflating class <unknown>
+
+----------2020-06-12 11:05:01----------
+Application Start
+----------2020-06-12 11:06:26----------
+Application Start
+----------2020-06-12 11:52:58----------
+Application Start
+----------2020-06-12 13:32:08----------
+Application Start
+----------2020-06-12 19:33:19----------
+Application Start
+----------2020-06-12 20:15:15----------
+Application Start
+----------2020-06-12 20:45:13----------
+Application Start
+----------2020-06-13 08:54:40----------
+Application Start
+----------2020-06-13 11:25:37----------
+Application Start
+----------2020-06-13 17:06:04----------
+Application Start
+----------2020-06-13 17:07:33----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9.3
+java.lang.IllegalArgumentException: Called attach on a child which is not detached: ViewHolder{1ab6b8e position=0 id=-1, oldPos=-1, pLpos:-1} android.support.v7.widget.RecyclerView{c9dd31 VFED..... ......ID 15,15-1065,113 #7f090934 app:id/rv_result}, adapter:work.kozh.vip.adapter.SearchResultAdapter@e963faf, layout:android.support.v7.widget.LinearLayoutManager@dba9fbc, context:work.kozh.vip.mvp.view.VipVideoSearchActivity@131cb88
+android.support.v7.widget.RecyclerView$5.attachViewToParent(RecyclerView.java:915)
+android.support.v7.widget.ChildHelper.attachViewToParent(ChildHelper.java:239)
+android.support.v7.widget.RecyclerView.addAnimatingView(RecyclerView.java:1431)
+android.support.v7.widget.RecyclerView.animateDisappearance(RecyclerView.java:4161)
+android.support.v7.widget.RecyclerView$4.processDisappeared(RecyclerView.java:612)
+android.support.v7.widget.ViewInfoStore.process(ViewInfoStore.java:240)
+android.support.v7.widget.RecyclerView.dispatchLayoutStep3(RecyclerView.java:3994)
+android.support.v7.widget.RecyclerView.dispatchLayout(RecyclerView.java:3652)
+android.support.v7.widget.RecyclerView.onLayout(RecyclerView.java:4194)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+com.scwang.smartrefresh.layout.SmartRefreshLayout.onLayout(SmartRefreshLayout.java:684)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.support.v4.widget.NestedScrollView.onLayout(NestedScrollView.java:1733)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+com.android.internal.policy.DecorView.onLayout(DecorView.java:804)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.view.ViewRootImpl.performLayout(ViewRootImpl.java:3162)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2672)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1800)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7771)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1031)
+android.view.Choreographer.doCallbacks(Choreographer.java:854)
+android.view.Choreographer.doFrame(Choreographer.java:789)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1016)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-06-13 17:07:42----------
+Application Start
+----------2020-06-14 08:56:00----------
+Application Start
+----------2020-06-14 09:51:32----------
+Application Start
+----------2020-06-14 16:29:24----------
+Application Start
+----------2020-06-14 21:27:02----------
+Application Start
+----------2020-06-14 21:27:18----------
+Application Start
+----------2020-06-15 14:15:29----------
+Application Start
+----------2020-06-15 15:50:41----------
+Application Start
+----------2020-06-15 22:35:25----------
+Application Start
+----------2020-06-16 18:01:10----------
+Application Start
+----------2020-06-16 18:01:41----------
+Application Start
+----------2020-06-16 18:57:03----------
+Application Start
+----------2020-06-17 19:12:57----------
+Application Start
+----------2020-06-17 20:40:38----------
+Application Start
+----------2020-06-19 19:01:56----------
+Application Start
+----------2020-06-20 02:10:18----------
+Application Start
+----------2020-06-20 19:29:22----------
+Application Start
+----------2020-06-21 12:43:04----------
+Application Start
+----------2020-06-22 20:12:10----------
+Application Start
+----------2020-06-23 19:42:18----------
+Application Start
+----------2020-06-24 21:50:35----------
+Application Start
+----------2020-06-25 12:10:04----------
+Application Start
+----------2020-06-25 20:32:23----------
+Application Start
+----------2020-06-26 17:31:10----------
+Application Start
+----------2020-06-26 19:48:53----------
+Application Start
+----------2020-06-26 21:15:07----------
+Application Start
+----------2020-06-27 11:42:10----------
+Application Start
+----------2020-06-28 17:22:03----------
+Application Start
+----------2020-06-28 21:31:54----------
+Application Start
+----------2020-06-28 23:46:54----------
+Application Start
+----------2020-06-29 07:12:34----------
+Application Start
+----------2020-06-29 08:18:41----------
+Application Start
+----------2020-06-29 10:01:31----------
+Application Start
+----------2020-06-29 20:42:40----------
+Application Start
+----------2020-06-29 20:43:41----------
+Application Start
+----------2020-06-29 23:47:55----------
+Application Start
+----------2020-06-30 00:00:41----------
+Application Start
+----------2020-06-30 00:00:46----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9.4
+java.lang.RuntimeException: Unable to start activity ComponentInfo{work.kozh.ones/work.kozh.ones.activity.MainActivity}: android.view.InflateException: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Error inflating class <unknown>
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3311)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3450)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:83)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-06-30 08:28:22----------
+Application Start
+----------2020-06-30 09:40:57----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9.4
+java.lang.OutOfMemoryError: Failed to allocate a 529800 byte allocation with 431136 free bytes and 421KB until OOM, target footprint 268435456, growth limit 268435456
+work.kozh.m3u8.download.M3u8DownloadFactory$M3u8Download$5.run(M3u8DownloadFactory.java:450)
+java.lang.Thread.run(Thread.java:919)
+java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+java.lang.Thread.run(Thread.java:919)
+
+----------2020-06-30 13:04:48----------
+Application Start
+----------2020-07-01 07:36:15----------
+Application Start
+----------2020-07-01 09:33:31----------
+Application Start
+----------2020-07-01 10:06:23----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9.4
+java.lang.NullPointerException: Attempt to get length of null array
+work.kozh.m3u8.download.M3u8DownloadFactory$M3u8Download.deleteFiles(M3u8DownloadFactory.java:355)
+work.kozh.m3u8.download.M3u8DownloadFactory$M3u8Download.access$500(M3u8DownloadFactory.java:82)
+work.kozh.m3u8.download.M3u8DownloadFactory$M3u8Download$2.run(M3u8DownloadFactory.java:233)
+java.lang.Thread.run(Thread.java:919)
+
+----------2020-07-01 10:07:00----------
+Application Start
+----------2020-07-01 13:44:55----------
+Application Start
+----------2020-07-01 13:45:28----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9.4
+work.kozh.m3u8.exception.M3u8Exception: 连接超时
+work.kozh.m3u8.download.M3u8DownloadFactory$M3u8Download$5.run(M3u8DownloadFactory.java:508)
+java.lang.Thread.run(Thread.java:919)
+java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+java.lang.Thread.run(Thread.java:919)
+
+----------2020-07-01 14:41:45----------
+Application Start
+----------2020-07-01 21:03:10----------
+Application Start
+----------2020-07-02 16:31:59----------
+Application Start
+----------2020-07-02 16:32:34----------
+Application Start
+----------2020-07-02 17:01:37----------
+Application Start
+----------2020-07-02 19:48:54----------
+Application Start
+----------2020-07-03 16:31:57----------
+Application Start
+----------2020-07-03 17:01:39----------
+Application Start
+----------2020-07-03 17:04:19----------
+Application Start
+----------2020-07-03 17:05:27----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9.4
+android.view.InflateException: Binary XML file line #14 in work.kozh.ones:layout/item_fragment_video: Binary XML file line #14 in work.kozh.ones:layout/item_fragment_video: Error inflating class de.hdodenhof.circleimageview.CircleImageView
+
+----------2020-07-03 17:05:29----------
+Application Start
+----------2020-07-04 09:45:49----------
+Application Start
+----------2020-07-04 19:44:04----------
+Application Start
+----------2020-07-04 21:19:37----------
+Application Start
+----------2020-07-05 15:31:49----------
+Application Start
+----------2020-07-05 16:58:47----------
+Application Start
+----------2020-07-06 21:56:52----------
+Application Start
+----------2020-07-06 21:57:52----------
+Application Start
+----------2020-07-06 21:58:02----------
+Application Start
+----------2020-07-06 22:03:35----------
+Application Start
+----------2020-07-06 22:03:50----------
+Application Start
+----------2020-07-06 22:05:14----------
+Application Start
+----------2020-07-06 22:17:04----------
+Application Start
+----------2020-07-06 22:25:55----------
+Application Start
+----------2020-07-07 07:44:32----------
+Application Start
+----------2020-07-07 07:44:45----------
+Application Start
+----------2020-07-07 18:05:20----------
+Application Start
+----------2020-07-07 19:26:18----------
+Application Start
+----------2020-07-07 19:32:40----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9.5
+work.kozh.m3u8.exception.M3u8Exception: 连接超时
+work.kozh.m3u8.download.M3u8DownloadFactory$M3u8Download$5.run(M3u8DownloadFactory.java:508)
+java.lang.Thread.run(Thread.java:919)
+java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+java.lang.Thread.run(Thread.java:919)
+
+----------2020-07-07 19:32:56----------
+Application Start
+----------2020-07-08 18:52:14----------
+Application Start
+----------2020-07-08 18:53:11----------
+Application Start
+----------2020-07-10 20:18:47----------
+Application Start
+----------2020-07-10 20:38:22----------
+Application Start
+----------2020-07-11 13:08:03----------
+Application Start
+----------2020-07-11 14:52:19----------
+Application Start
+----------2020-07-11 23:34:42----------
+Application Start
+----------2020-07-12 15:54:30----------
+Application Start
+----------2020-07-12 20:03:39----------
+Application Start
+----------2020-07-13 07:11:12----------
+Application Start
+----------2020-07-13 07:11:34----------
+Application Start
+----------2020-07-16 20:32:51----------
+Application Start
+----------2020-07-16 21:13:21----------
+Application Start
+----------2020-07-16 21:15:03----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9.6
+work.kozh.m3u8.exception.M3u8Exception: 连接超时
+work.kozh.m3u8.download.M3u8DownloadFactory$M3u8Download$5.run(M3u8DownloadFactory.java:508)
+java.lang.Thread.run(Thread.java:919)
+java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+java.lang.Thread.run(Thread.java:919)
+
+----------2020-07-16 21:15:12----------
+Application Start
+----------2020-07-16 22:29:40----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.9.6
+android.view.InflateException: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Error inflating class <unknown>
+
+----------2020-07-16 22:29:42----------
+Application Start
+----------2020-07-16 23:15:58----------
+Application Start
+----------2020-07-16 23:18:14----------
+Application Start
+----------2020-07-17 07:32:40----------
+Application Start
+----------2020-07-17 07:36:34----------
+Application Start
+----------2020-07-17 12:56:09----------
+Application Start
+----------2020-07-17 15:42:56----------
+Application Start
+----------2020-07-17 15:56:13----------
+Application Start
+----------2020-07-17 21:34:59----------
+Application Start
+----------2020-07-17 21:39:59----------
+Application Start
+----------2020-07-17 21:46:15----------
+Application Start
+----------2020-07-17 23:33:31----------
+Application Start
+----------2020-07-18 00:07:10----------
+Application Start
+----------2020-07-18 10:34:10----------
+Application Start
+----------2020-07-18 22:08:12----------
+Application Start
+----------2020-07-18 22:28:12----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.10.0
+java.lang.NullPointerException: Attempt to invoke virtual method 'android.view.Window android.app.Activity.getWindow()' on a null object reference
+cn.jzvd.Jzvd.gotoScreenNormal(Jzvd.java:927)
+cn.jzvd.Jzvd.backPress(Jzvd.java:221)
+work.kozh.video.tiktok.VideoTikTokActivity.onBackPressed(VideoTikTokActivity.java:174)
+android.app.Activity.onKeyUp(Activity.java:3707)
+android.view.KeyEvent.dispatch(KeyEvent.java:2849)
+android.app.Activity.dispatchKeyEvent(Activity.java:4024)
+android.support.v4.app.SupportActivity.superDispatchKeyEvent(ComponentActivity.java:108)
+android.support.v4.view.KeyEventDispatcher.dispatchKeyEvent(KeyEventDispatcher.java:84)
+android.support.v4.app.SupportActivity.dispatchKeyEvent(ComponentActivity.java:126)
+android.support.v7.app.AppCompatActivity.dispatchKeyEvent(AppCompatActivity.java:535)
+android.support.v7.view.WindowCallbackWrapper.dispatchKeyEvent(WindowCallbackWrapper.java:59)
+android.support.v7.app.AppCompatDelegateImpl$AppCompatWindowCallback.dispatchKeyEvent(AppCompatDelegateImpl.java:2533)
+com.android.internal.policy.DecorView.dispatchKeyEvent(DecorView.java:381)
+android.view.ViewRootImpl$ViewPostImeInputStage.processKeyEvent(ViewRootImpl.java:5531)
+android.view.ViewRootImpl$ViewPostImeInputStage.onProcess(ViewRootImpl.java:5399)
+android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:4904)
+android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:4957)
+android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:4923)
+android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:5063)
+android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:4931)
+android.view.ViewRootImpl$AsyncInputStage.apply(ViewRootImpl.java:5120)
+android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:4904)
+android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:4957)
+android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:4923)
+android.view.ViewRootImpl$InputStage.apply(ViewRootImpl.java:4931)
+android.view.ViewRootImpl$InputStage.deliver(ViewRootImpl.java:4904)
+android.view.ViewRootImpl$InputStage.onDeliverToNext(ViewRootImpl.java:4957)
+android.view.ViewRootImpl$InputStage.forward(ViewRootImpl.java:4923)
+android.view.ViewRootImpl$AsyncInputStage.forward(ViewRootImpl.java:5096)
+android.view.ViewRootImpl$ImeInputStage.onFinishedInputEvent(ViewRootImpl.java:5259)
+android.view.inputmethod.InputMethodManager$PendingEvent.run(InputMethodManager.java:3071)
+android.view.inputmethod.InputMethodManager.invokeFinishedInputEventCallback(InputMethodManager.java:2614)
+android.view.inputmethod.InputMethodManager.finishedInputEvent(InputMethodManager.java:2605)
+android.view.inputmethod.InputMethodManager$ImeInputEventSender.onInputEventFinished(InputMethodManager.java:3048)
+android.view.InputEventSender.dispatchInputEventFinished(InputEventSender.java:143)
+android.os.MessageQueue.nativePollOnce(Native Method)
+android.os.MessageQueue.next(MessageQueue.java:336)
+android.os.Looper.loop(Looper.java:182)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-07-19 12:52:27----------
+Application Start
+----------2020-07-19 15:27:16----------
+Application Start
+----------2020-07-19 17:44:51----------
+Application Start
+----------2020-07-19 20:09:34----------
+Application Start
+----------2020-07-19 20:10:01----------
+Application Start
+----------2020-07-21 08:36:26----------
+Application Start
+----------2020-07-21 16:07:41----------
+Application Start
+----------2020-07-21 16:37:13----------
+Application Start
+----------2020-07-21 16:43:08----------
+Application Start
+----------2020-07-21 16:45:00----------
+Application Start
+----------2020-07-21 16:50:48----------
+Application Start
+----------2020-07-21 17:05:57----------
+Application Start
+----------2020-07-21 17:17:37----------
+Application Start
+----------2020-07-21 17:19:23----------
+Application Start
+----------2020-07-21 17:24:43----------
+Application Start
+----------2020-07-21 17:31:33----------
+Application Start
+----------2020-07-21 17:39:27----------
+Application Start
+----------2020-07-21 17:41:23----------
+Application Start
+----------2020-07-21 17:41:28----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.11.0
+java.lang.RuntimeException: Unable to start activity ComponentInfo{work.kozh.ones/work.kozh.ones.activity.MainActivity}: android.view.InflateException: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Error inflating class <unknown>
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3311)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3450)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:83)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-07-21 17:44:46----------
+Application Start
+----------2020-07-21 17:44:55----------
+Application Start
+----------2020-07-21 18:11:14----------
+Application Start
+----------2020-07-21 18:38:56----------
+Application Start
+----------2020-07-22 18:53:14----------
+Application Start
+----------2020-07-22 21:54:55----------
+Application Start
+----------2020-07-22 21:55:19----------
+Application Start
+----------2020-07-22 21:55:52----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.11.1
+java.lang.IllegalArgumentException: surfaceTexture must not be null
+android.view.Surface.<init>(Surface.java:219)
+work.kozh.vip.widget.AGVideo.media.JZMediaIjk.lambda$prepare$0(JZMediaIjk.java:96)
+work.kozh.vip.widget.AGVideo.media.-$$Lambda$JZMediaIjk$WvnUOrLbMgjPlJEII1s0HvVhhB4.run(Unknown Source:2)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.os.HandlerThread.run(HandlerThread.java:67)
+
+----------2020-07-22 22:54:38----------
+Application Start
+----------2020-07-22 22:58:56----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.11.1
+java.lang.RuntimeException: Unable to start activity ComponentInfo{work.kozh.ones/work.kozh.setting.mvp.PluginsActivity}: android.view.InflateException: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Error inflating class <unknown>
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3311)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3450)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:83)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-07-23 11:49:56----------
+Application Start
+----------2020-07-23 13:51:24----------
+Application Start
+----------2020-07-23 13:52:14----------
+Application Start
+----------2020-07-23 17:54:35----------
+Application Start
+----------2020-07-23 20:36:15----------
+Application Start
+----------2020-07-24 15:22:47----------
+Application Start
+----------2020-07-24 17:48:49----------
+Application Start
+----------2020-07-25 08:32:04----------
+Application Start
+----------2020-07-25 17:36:30----------
+Application Start
+----------2020-07-25 17:57:38----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.11.3
+java.lang.RuntimeException: Unable to resume activity {work.kozh.ones/work.kozh.music.mvp.view.activity.MusicActivity}: java.lang.NullPointerException: Attempt to invoke interface method 'long work.kozh.music.IMusicService.getPreviousAudioId()' on a null object reference
+android.app.ActivityThread.performResumeActivity(ActivityThread.java:4253)
+android.app.ActivityThread.handleResumeActivity(ActivityThread.java:4285)
+android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:52)
+android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:176)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:97)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-07-25 20:29:19----------
+Application Start
+----------2020-07-26 14:48:52----------
+Application Start
+----------2020-07-29 13:49:11----------
+Application Start
+----------2020-07-29 23:24:12----------
+Application Start
+----------2020-07-30 19:27:06----------
+Application Start
+----------2020-07-30 23:12:15----------
+Application Start
+----------2020-07-31 21:44:11----------
+Application Start
+----------2020-07-31 22:53:00----------
+Application Start
+----------2020-08-01 16:05:09----------
+Application Start
+----------2020-08-01 20:40:02----------
+Application Start
+----------2020-08-02 09:51:42----------
+Application Start
+----------2020-08-03 09:43:11----------
+Application Start
+----------2020-08-03 16:20:34----------
+Application Start
+----------2020-08-05 07:17:02----------
+Application Start
+----------2020-08-06 13:26:33----------
+Application Start
+----------2020-08-06 19:37:20----------
+Application Start
+----------2020-08-07 19:00:18----------
+Application Start
+----------2020-08-08 12:40:03----------
+Application Start
+----------2020-08-08 13:45:25----------
+Application Start
+----------2020-08-08 19:19:04----------
+Application Start
+----------2020-08-08 23:54:47----------
+Application Start
+----------2020-08-09 23:41:58----------
+Application Start
+----------2020-08-10 14:29:44----------
+Application Start
+----------2020-08-11 15:52:18----------
+Application Start
+----------2020-08-11 23:44:18----------
+Application Start
+----------2020-08-12 18:28:36----------
+Application Start
+----------2020-08-12 18:29:15----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.11.3
+android.view.InflateException: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Error inflating class <unknown>
+
+----------2020-08-12 18:29:17----------
+Application Start
+----------2020-08-12 18:32:31----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.11.3
+java.lang.RuntimeException: Unable to start activity ComponentInfo{work.kozh.ones/work.kozh.setting.mvp.PluginsActivity}: android.view.InflateException: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Error inflating class <unknown>
+android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3311)
+android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3450)
+android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:83)
+android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-12 20:23:27----------
+Application Start
+----------2020-08-12 21:03:53----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.11.3
+java.lang.RuntimeException: Unable to resume activity {work.kozh.ones/work.kozh.music.mvp.view.activity.MusicActivity}: java.lang.NullPointerException: Attempt to invoke interface method 'long work.kozh.music.IMusicService.getPreviousAudioId()' on a null object reference
+android.app.ActivityThread.performResumeActivity(ActivityThread.java:4253)
+android.app.ActivityThread.handleResumeActivity(ActivityThread.java:4285)
+android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:52)
+android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:176)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:97)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-12 21:03:59----------
+Application Start
+----------2020-08-13 08:27:55----------
+Application Start
+----------2020-08-13 13:03:13----------
+Application Start
+----------2020-08-13 22:42:46----------
+Application Start
+----------2020-08-13 22:54:05----------
+Application Start
+----------2020-08-13 23:04:29----------
+Application Start
+----------2020-08-13 23:11:10----------
+Application Start
+----------2020-08-14 14:16:30----------
+Application Start
+----------2020-08-14 21:13:55----------
+Application Start
+----------2020-08-14 22:56:47----------
+Application Start
+----------2020-08-14 22:59:27----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.11.3
+android.view.InflateException: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Binary XML file line #119 in work.kozh.ones:layout/widget_loading_view: Error inflating class <unknown>
+
+----------2020-08-15 12:10:55----------
+Application Start
+----------2020-08-15 12:39:55----------
+Application Start
+----------2020-08-15 19:25:41----------
+Application Start
+----------2020-08-16 01:25:20----------
+Application Start
+----------2020-08-16 09:08:04----------
+Application Start
+----------2020-08-16 09:56:08----------
+Application Start
+----------2020-08-16 13:17:41----------
+Application Start
+----------2020-08-16 15:51:23----------
+Application Start
+----------2020-08-16 20:02:08----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=1.11.3
+java.lang.IllegalArgumentException
+android.media.MediaPlayer.setPlaybackParams(Native Method)
+cn.jzvd.JZMediaSystem.setSpeed(JZMediaSystem.java:132)
+work.kozh.vip.mvp.view.SeniorVideoPlayerActivity.changeSpeed(SeniorVideoPlayerActivity.java:143)
+work.kozh.vip.mvp.view.SeniorVideoPlayerActivity.longPressToSpeedPlay(SeniorVideoPlayerActivity.java:240)
+work.kozh.vip.widget.player.SeniorVideoPlayer$2.onLongPress(SeniorVideoPlayer.java:173)
+android.view.GestureDetector.dispatchLongPress(GestureDetector.java:868)
+android.view.GestureDetector.access$300(GestureDetector.java:51)
+android.view.GestureDetector$GestureHandler.handleMessage(GestureDetector.java:314)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-16 20:05:31----------
+Application Start
+----------2020-08-17 14:02:28----------
+Application Start
+----------2020-08-17 21:08:13----------
+Application Start
+----------2020-08-17 21:09:07----------
+Application Start
+----------2020-08-17 21:10:13----------
+Application Start
+----------2020-08-17 21:24:43----------
+Application Start
+----------2020-08-17 22:18:27----------
+Application Start
+----------2020-08-17 22:42:18----------
+Application Start
+----------2020-08-17 22:57:13----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=2.0.0
+java.lang.RuntimeException: Unable to resume activity {work.kozh.ones/work.kozh.music.mvp.view.activity.MusicActivity}: java.lang.NullPointerException: Attempt to invoke interface method 'long work.kozh.music.IMusicService.getPreviousAudioId()' on a null object reference
+android.app.ActivityThread.performResumeActivity(ActivityThread.java:4253)
+android.app.ActivityThread.handleResumeActivity(ActivityThread.java:4285)
+android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:52)
+android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:176)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:97)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-17 22:57:14----------
+Application Start
+----------2020-08-17 23:01:57----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=2.0.0
+java.lang.RuntimeException: Unable to resume activity {work.kozh.ones/work.kozh.music.mvp.view.activity.MusicActivity}: java.lang.NullPointerException: Attempt to invoke interface method 'long work.kozh.music.IMusicService.getPreviousAudioId()' on a null object reference
+android.app.ActivityThread.performResumeActivity(ActivityThread.java:4253)
+android.app.ActivityThread.handleResumeActivity(ActivityThread.java:4285)
+android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:52)
+android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:176)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:97)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-17 23:01:57----------
+Application Start
+----------2020-08-17 23:02:38----------
+Application Start
+----------2020-08-18 00:00:56----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=2.0.0
+java.lang.RuntimeException: Unable to resume activity {work.kozh.ones/work.kozh.music.mvp.view.activity.MusicActivity}: java.lang.NullPointerException: Attempt to invoke interface method 'long work.kozh.music.IMusicService.getPreviousAudioId()' on a null object reference
+android.app.ActivityThread.performResumeActivity(ActivityThread.java:4253)
+android.app.ActivityThread.handleResumeActivity(ActivityThread.java:4285)
+android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:52)
+android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:176)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:97)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-18 00:00:56----------
+Application Start
+----------2020-08-18 07:22:33----------
+Application Start
+----------2020-08-18 17:14:17----------
+Application Start
+----------2020-08-18 19:08:41----------
+Application Start
+----------2020-08-18 23:14:19----------
+Application Start
+----------2020-08-18 23:15:18----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=2.0.0
+java.lang.RuntimeException: Unable to resume activity {work.kozh.ones/work.kozh.music.mvp.view.activity.MusicActivity}: java.lang.NullPointerException: Attempt to invoke interface method 'long work.kozh.music.IMusicService.getPreviousAudioId()' on a null object reference
+android.app.ActivityThread.performResumeActivity(ActivityThread.java:4253)
+android.app.ActivityThread.handleResumeActivity(ActivityThread.java:4285)
+android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:52)
+android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:176)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:97)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-18 23:15:18----------
+Application Start
+----------2020-08-18 23:24:51----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=2.0.0
+java.lang.RuntimeException: Unable to resume activity {work.kozh.ones/work.kozh.music.mvp.view.activity.MusicActivity}: java.lang.NullPointerException: Attempt to invoke interface method 'long work.kozh.music.IMusicService.getPreviousAudioId()' on a null object reference
+android.app.ActivityThread.performResumeActivity(ActivityThread.java:4253)
+android.app.ActivityThread.handleResumeActivity(ActivityThread.java:4285)
+android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:52)
+android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:176)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:97)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-18 23:24:52----------
+Application Start
+----------2020-08-19 09:41:22----------
+Application Start
+----------2020-08-19 17:33:59----------
+Application Start
+----------2020-08-19 23:16:48----------
+Application Start
+----------2020-08-20 09:18:04----------
+Application Start
+----------2020-08-20 13:21:32----------
+Application Start
+----------2020-08-20 18:59:26----------
+Application Start
+----------2020-08-20 19:00:02----------
+Application Start
+----------2020-08-20 19:05:14----------
+Application Start
+----------2020-08-20 19:31:32----------
+Application Start
+----------2020-08-21 07:18:53----------
+Application Start
+----------2020-08-21 07:19:17----------
+Application Start
+----------2020-08-21 08:12:23----------
+Application Start
+----------2020-08-21 13:39:37----------
+Application Start
+----------2020-08-21 15:59:44----------
+Application Start
+----------2020-08-21 22:27:41----------
+Application Start
+----------2020-08-22 09:32:43----------
+Application Start
+----------2020-08-22 09:46:45----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=2.1.1
+java.lang.IndexOutOfBoundsException: Index: 11, Size: 11
+java.util.ArrayList.get(ArrayList.java:437)
+work.kozh.music.service.MusicService.openCurrentAndNextSongData_new(MusicService.java:3981)
+work.kozh.music.service.MusicService.openCurrentAndNextSongData_new(MusicService.java:4240)
+work.kozh.music.service.MusicService.playNextSong(MusicService.java:4915)
+work.kozh.music.service.MusicService$MusicPlayerHandler.handleMessage(MusicService.java:1090)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.os.HandlerThread.run(HandlerThread.java:67)
+
+----------2020-08-22 09:47:08----------
+Application Start
+----------2020-08-22 12:52:56----------
+Application Start
+----------2020-08-23 10:16:19----------
+Application Start
+----------2020-08-23 17:34:18----------
+Application Start
+----------2020-08-24 07:15:54----------
+Application Start
+----------2020-08-24 13:09:01----------
+Application Start
+----------2020-08-24 13:55:22----------
+Application Start
+----------2020-08-24 14:34:59----------
+Application Start
+----------2020-08-24 14:37:54----------
+Application Start
+----------2020-08-24 14:44:56----------
+Application Start
+----------2020-08-24 14:45:34----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=2.1.1
+java.lang.NullPointerException: Attempt to invoke virtual method 'void java.util.ArrayList.clear()' on a null object reference
+work.kozh.music.online_add.ui.songlist.UserSongsAdapter.updateCacheFile(UserSongsAdapter.java:75)
+work.kozh.music.online_add.ui.songlist.UserSongsAdapter.<init>(UserSongsAdapter.java:68)
+work.kozh.music.online_add.ui.songlist.UserSongListDetailFragment.initData(UserSongListDetailFragment.java:222)
+work.kozh.music.online_add.ui.songlist.UserSongListDetailFragment.init(UserSongListDetailFragment.java:159)
+work.kozh.common.mvp.base.CommonFragment.onLoadSuccessView(CommonFragment.java:31)
+work.kozh.common.mvp.base.BaseFragment$1.onLoadSuccessView(BaseFragment.java:152)
+work.kozh.common.widget.LoadingView.showLoadingView(LoadingView.java:133)
+work.kozh.common.widget.LoadingView$1$1.run(LoadingView.java:155)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-24 14:45:35----------
+Application Start
+----------2020-08-24 14:46:17----------
+Application Start
+----------2020-08-24 14:48:26----------
+Application Start
+----------2020-08-24 14:50:30----------
+Application Start
+----------2020-08-24 15:04:17----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=2.1.1
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.util.Iterator java.util.ArrayList.iterator()' on a null object reference
+work.kozh.music.online_add.ui.songlist.UserSongsAdapter.convert(UserSongsAdapter.java:152)
+work.kozh.music.online_add.ui.songlist.UserSongsAdapter.convert(UserSongsAdapter.java:41)
+com.chad.library.adapter.base.BaseQuickAdapter.onBindViewHolder(BaseQuickAdapter.java:1019)
+com.chad.library.adapter.base.BaseQuickAdapter.onBindViewHolder(BaseQuickAdapter.java:1052)
+com.chad.library.adapter.base.BaseQuickAdapter.onBindViewHolder(BaseQuickAdapter.java:72)
+androidx.recyclerview.widget.RecyclerView$Adapter.bindViewHolder(RecyclerView.java:7107)
+androidx.recyclerview.widget.RecyclerView$Recycler.tryBindViewHolderByDeadline(RecyclerView.java:6012)
+androidx.recyclerview.widget.RecyclerView$Recycler.tryGetViewHolderForPositionByDeadline(RecyclerView.java:6279)
+androidx.recyclerview.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:6118)
+androidx.recyclerview.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:6114)
+androidx.recyclerview.widget.LinearLayoutManager$LayoutState.next(LinearLayoutManager.java:2303)
+androidx.recyclerview.widget.LinearLayoutManager.layoutChunk(LinearLayoutManager.java:1627)
+androidx.recyclerview.widget.LinearLayoutManager.fill(LinearLayoutManager.java:1587)
+androidx.recyclerview.widget.LinearLayoutManager.onLayoutChildren(LinearLayoutManager.java:665)
+androidx.recyclerview.widget.RecyclerView.dispatchLayoutStep2(RecyclerView.java:4134)
+androidx.recyclerview.widget.RecyclerView.dispatchLayout(RecyclerView.java:3851)
+androidx.recyclerview.widget.RecyclerView.onLayout(RecyclerView.java:4404)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+com.google.android.material.appbar.HeaderScrollingViewBehavior.layoutChild(HeaderScrollingViewBehavior.java:148)
+com.google.android.material.appbar.ViewOffsetBehavior.onLayoutChild(ViewOffsetBehavior.java:43)
+com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior.onLayoutChild(AppBarLayout.java:1892)
+androidx.coordinatorlayout.widget.CoordinatorLayout.onLayout(CoordinatorLayout.java:918)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+com.android.internal.policy.DecorView.onLayout(DecorView.java:804)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.view.ViewRootImpl.performLayout(ViewRootImpl.java:3162)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2672)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1800)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7771)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1031)
+android.view.Choreographer.doCallbacks(Choreographer.java:854)
+android.view.Choreographer.doFrame(Choreographer.java:789)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1016)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-24 15:04:17----------
+Application Start
+----------2020-08-24 15:04:56----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=2.1.1
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.util.Iterator java.util.ArrayList.iterator()' on a null object reference
+work.kozh.music.online_add.ui.songlist.UserSongsAdapter.convert(UserSongsAdapter.java:152)
+work.kozh.music.online_add.ui.songlist.UserSongsAdapter.convert(UserSongsAdapter.java:41)
+com.chad.library.adapter.base.BaseQuickAdapter.onBindViewHolder(BaseQuickAdapter.java:1019)
+com.chad.library.adapter.base.BaseQuickAdapter.onBindViewHolder(BaseQuickAdapter.java:1052)
+com.chad.library.adapter.base.BaseQuickAdapter.onBindViewHolder(BaseQuickAdapter.java:72)
+androidx.recyclerview.widget.RecyclerView$Adapter.bindViewHolder(RecyclerView.java:7107)
+androidx.recyclerview.widget.RecyclerView$Recycler.tryBindViewHolderByDeadline(RecyclerView.java:6012)
+androidx.recyclerview.widget.RecyclerView$Recycler.tryGetViewHolderForPositionByDeadline(RecyclerView.java:6279)
+androidx.recyclerview.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:6118)
+androidx.recyclerview.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:6114)
+androidx.recyclerview.widget.LinearLayoutManager$LayoutState.next(LinearLayoutManager.java:2303)
+androidx.recyclerview.widget.LinearLayoutManager.layoutChunk(LinearLayoutManager.java:1627)
+androidx.recyclerview.widget.LinearLayoutManager.fill(LinearLayoutManager.java:1587)
+androidx.recyclerview.widget.LinearLayoutManager.onLayoutChildren(LinearLayoutManager.java:665)
+androidx.recyclerview.widget.RecyclerView.dispatchLayoutStep2(RecyclerView.java:4134)
+androidx.recyclerview.widget.RecyclerView.dispatchLayout(RecyclerView.java:3851)
+androidx.recyclerview.widget.RecyclerView.onLayout(RecyclerView.java:4404)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+com.google.android.material.appbar.HeaderScrollingViewBehavior.layoutChild(HeaderScrollingViewBehavior.java:148)
+com.google.android.material.appbar.ViewOffsetBehavior.onLayoutChild(ViewOffsetBehavior.java:43)
+com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior.onLayoutChild(AppBarLayout.java:1892)
+androidx.coordinatorlayout.widget.CoordinatorLayout.onLayout(CoordinatorLayout.java:918)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+com.android.internal.policy.DecorView.onLayout(DecorView.java:804)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.view.ViewRootImpl.performLayout(ViewRootImpl.java:3162)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2672)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1800)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7771)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1031)
+android.view.Choreographer.doCallbacks(Choreographer.java:854)
+android.view.Choreographer.doFrame(Choreographer.java:789)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1016)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-24 15:04:57----------
+Application Start
+----------2020-08-24 15:06:22----------
+Application Start
+----------2020-08-24 16:09:49----------
+Application Start
+----------2020-08-24 16:18:53----------
+Application Start
+----------2020-08-24 16:26:12----------
+Application Start
+----------2020-08-24 16:27:39----------
+Application Start
+----------2020-08-24 16:33:18----------
+Application Start
+----------2020-08-24 16:34:54----------
+Application Start
+----------2020-08-24 16:39:41----------
+Application Start
+----------2020-08-24 16:40:54----------
+Application Start
+----------2020-08-24 17:07:58----------
+Application Start
+----------2020-08-24 17:09:41----------
+Application Start
+----------2020-08-24 17:16:55----------
+Application Start
+----------2020-08-24 18:22:20----------
+Application Start
+----------2020-08-24 19:12:01----------
+Application Start
+----------2020-08-24 19:14:54----------
+Application Start
+----------2020-08-24 19:26:12----------
+Application Start
+----------2020-08-24 19:31:45----------
+Application Start
+----------2020-08-25 08:26:21----------
+Application Start
+----------2020-08-25 09:01:46----------
+Application Start
+----------2020-08-25 09:09:15----------
+Application Start
+----------2020-08-25 10:00:19----------
+Application Start
+----------2020-08-25 12:58:17----------
+Application Start
+----------2020-08-25 12:58:23----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=2.2.1
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String work.kozh.music.service.MusicService.getArtistName()' on a null object reference
+work.kozh.music.service.MusicService$ServiceStub.getArtistName(MusicService.java:5681)
+work.kozh.music.service.MusicPlayer.getArtistName(MusicPlayer.java:431)
+work.kozh.home.mvp.view.OneFragment.findView(OneFragment.java:220)
+work.kozh.home.mvp.view.OneFragment.init(OneFragment.java:130)
+work.kozh.home.mvp.view.OneFragment.onLoadSuccessView(OneFragment.java:118)
+work.kozh.common.mvp.base.BaseFragment$1.onLoadSuccessView(BaseFragment.java:152)
+work.kozh.common.widget.LoadingView.showLoadingView(LoadingView.java:133)
+work.kozh.common.widget.LoadingView$1$1.run(LoadingView.java:155)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-25 12:58:23----------
+Application Start
+----------2020-08-25 15:11:41----------
+Application Start
+----------2020-08-25 15:18:09----------
+Application Start
+----------2020-08-25 15:18:18----------
+Application Start
+----------2020-08-25 16:24:06----------
+Application Start
+----------2020-08-25 16:24:09----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=2.2.1
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String work.kozh.music.service.MusicService.getArtistName()' on a null object reference
+work.kozh.music.service.MusicService$ServiceStub.getArtistName(MusicService.java:5681)
+work.kozh.music.service.MusicPlayer.getArtistName(MusicPlayer.java:431)
+work.kozh.home.mvp.view.OneFragment.findView(OneFragment.java:220)
+work.kozh.home.mvp.view.OneFragment.init(OneFragment.java:130)
+work.kozh.home.mvp.view.OneFragment.onLoadSuccessView(OneFragment.java:118)
+work.kozh.common.mvp.base.BaseFragment$1.onLoadSuccessView(BaseFragment.java:152)
+work.kozh.common.widget.LoadingView.showLoadingView(LoadingView.java:133)
+work.kozh.common.widget.LoadingView$1$1.run(LoadingView.java:155)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-25 16:24:10----------
+Application Start
+----------2020-08-25 20:25:57----------
+Application Start
+----------2020-08-26 07:40:39----------
+Application Start
+----------2020-08-26 13:03:20----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=2.2.1
+java.lang.RuntimeException: Unable to resume activity {work.kozh.ones/work.kozh.music.online_add.ui.songlist.UserSongListDetailActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String work.kozh.music.service.MusicService.getTrackName()' on a null object reference
+android.app.ActivityThread.performResumeActivity(ActivityThread.java:4253)
+android.app.ActivityThread.handleResumeActivity(ActivityThread.java:4285)
+android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:52)
+android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:176)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:97)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-26 13:03:20----------
+Application Start
+----------2020-08-26 14:23:28----------
+Application Start
+----------2020-08-26 14:34:58----------
+Application Start
+----------2020-08-26 14:36:02----------
+Application Start
+----------2020-08-26 15:10:08----------
+Application Start
+----------2020-08-26 15:10:53----------
+Application Start
+----------2020-08-26 16:20:39----------
+Application Start
+----------2020-08-26 16:20:41----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=2.2.2
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.String work.kozh.music.service.MusicService.getArtistName()' on a null object reference
+work.kozh.music.service.MusicService$ServiceStub.getArtistName(MusicService.java:5690)
+work.kozh.music.service.MusicPlayer.getArtistName(MusicPlayer.java:431)
+work.kozh.home.mvp.view.OneFragment.findView(OneFragment.java:220)
+work.kozh.home.mvp.view.OneFragment.init(OneFragment.java:130)
+work.kozh.home.mvp.view.OneFragment.onLoadSuccessView(OneFragment.java:118)
+work.kozh.common.mvp.base.BaseFragment$1.onLoadSuccessView(BaseFragment.java:152)
+work.kozh.common.widget.LoadingView.showLoadingView(LoadingView.java:133)
+work.kozh.common.widget.LoadingView$1$1.run(LoadingView.java:155)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-26 16:20:42----------
+Application Start
+----------2020-08-27 00:00:18----------
+Application Start
+----------2020-08-27 08:23:06----------
+Application Start
+----------2020-08-27 15:52:34----------
+Application Start
+----------2020-08-27 22:38:20----------
+Application Start
+----------2020-08-27 22:40:42----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.0.0
+java.lang.NoSuchMethodError: No virtual method load(Ljava/lang/String;)Lcom/bumptech/glide/DrawableTypeRequest; in class Lcom/bumptech/glide/RequestManager; or its super classes (declaration of 'com.bumptech.glide.RequestManager' appears in base.apk)
+wobiancao.nice9.lib.ImageMulitVAdapter.onBindViewHolder(ImageMulitVAdapter.java:161)
+wobiancao.nice9.lib.ImageMulitVAdapter.onBindViewHolder(ImageMulitVAdapter.java:24)
+androidx.recyclerview.widget.RecyclerView$Adapter.onBindViewHolder(RecyclerView.java:7065)
+androidx.recyclerview.widget.RecyclerView$Adapter.bindViewHolder(RecyclerView.java:7107)
+androidx.recyclerview.widget.RecyclerView$Recycler.tryBindViewHolderByDeadline(RecyclerView.java:6012)
+androidx.recyclerview.widget.RecyclerView$Recycler.tryGetViewHolderForPositionByDeadline(RecyclerView.java:6279)
+androidx.recyclerview.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:6118)
+androidx.recyclerview.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:6114)
+com.alibaba.android.vlayout.ExposeLinearLayoutManagerEx$LayoutState.next(ExposeLinearLayoutManagerEx.java:1629)
+com.alibaba.android.vlayout.VirtualLayoutManager$LayoutStateWrapper.next(VirtualLayoutManager.java:1043)
+com.alibaba.android.vlayout.layout.BaseLayoutHelper.nextView(BaseLayoutHelper.java:116)
+com.alibaba.android.vlayout.layout.AbstractFullFillLayoutHelper.getAllChildren(AbstractFullFillLayoutHelper.java:76)
+com.alibaba.android.vlayout.layout.OnePlusNLayoutHelper.layoutViews(OnePlusNLayoutHelper.java:250)
+com.alibaba.android.vlayout.layout.BaseLayoutHelper.doLayout(BaseLayoutHelper.java:318)
+com.alibaba.android.vlayout.VirtualLayoutManager.layoutChunk(VirtualLayoutManager.java:639)
+com.alibaba.android.vlayout.ExposeLinearLayoutManagerEx.fill(ExposeLinearLayoutManagerEx.java:1162)
+com.alibaba.android.vlayout.ExposeLinearLayoutManagerEx.onLayoutChildren(ExposeLinearLayoutManagerEx.java:365)
+com.alibaba.android.vlayout.VirtualLayoutManager.onLayoutChildren(VirtualLayoutManager.java:463)
+androidx.recyclerview.widget.RecyclerView.dispatchLayoutStep2(RecyclerView.java:4134)
+androidx.recyclerview.widget.RecyclerView.dispatchLayout(RecyclerView.java:3851)
+androidx.recyclerview.widget.RecyclerView.onLayout(RecyclerView.java:4404)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.RelativeLayout.onLayout(RelativeLayout.java:1103)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+androidx.core.widget.NestedScrollView.onLayout(NestedScrollView.java:1787)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+com.scwang.smartrefresh.layout.SmartRefreshLayout.onLayout(SmartRefreshLayout.java:684)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+com.android.internal.policy.DecorView.onLayout(DecorView.java:804)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.view.ViewRootImpl.performLayout(ViewRootImpl.java:3162)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2672)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1800)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7771)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1031)
+android.view.Choreographer.doCallbacks(Choreographer.java:854)
+android.view.Choreographer.doFrame(Choreographer.java:789)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1016)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-27 22:40:43----------
+Application Start
+----------2020-08-27 22:40:49----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.0.0
+java.lang.NoSuchMethodError: No virtual method load(Ljava/lang/String;)Lcom/bumptech/glide/DrawableTypeRequest; in class Lcom/bumptech/glide/RequestManager; or its super classes (declaration of 'com.bumptech.glide.RequestManager' appears in base.apk)
+wobiancao.nice9.lib.ImageMulitVAdapter.onBindViewHolder(ImageMulitVAdapter.java:161)
+wobiancao.nice9.lib.ImageMulitVAdapter.onBindViewHolder(ImageMulitVAdapter.java:24)
+androidx.recyclerview.widget.RecyclerView$Adapter.onBindViewHolder(RecyclerView.java:7065)
+androidx.recyclerview.widget.RecyclerView$Adapter.bindViewHolder(RecyclerView.java:7107)
+androidx.recyclerview.widget.RecyclerView$Recycler.tryBindViewHolderByDeadline(RecyclerView.java:6012)
+androidx.recyclerview.widget.RecyclerView$Recycler.tryGetViewHolderForPositionByDeadline(RecyclerView.java:6279)
+androidx.recyclerview.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:6118)
+androidx.recyclerview.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:6114)
+com.alibaba.android.vlayout.ExposeLinearLayoutManagerEx$LayoutState.next(ExposeLinearLayoutManagerEx.java:1629)
+com.alibaba.android.vlayout.VirtualLayoutManager$LayoutStateWrapper.next(VirtualLayoutManager.java:1043)
+com.alibaba.android.vlayout.layout.BaseLayoutHelper.nextView(BaseLayoutHelper.java:116)
+com.alibaba.android.vlayout.layout.AbstractFullFillLayoutHelper.getAllChildren(AbstractFullFillLayoutHelper.java:76)
+com.alibaba.android.vlayout.layout.OnePlusNLayoutHelper.layoutViews(OnePlusNLayoutHelper.java:250)
+com.alibaba.android.vlayout.layout.BaseLayoutHelper.doLayout(BaseLayoutHelper.java:318)
+com.alibaba.android.vlayout.VirtualLayoutManager.layoutChunk(VirtualLayoutManager.java:639)
+com.alibaba.android.vlayout.ExposeLinearLayoutManagerEx.fill(ExposeLinearLayoutManagerEx.java:1162)
+com.alibaba.android.vlayout.ExposeLinearLayoutManagerEx.onLayoutChildren(ExposeLinearLayoutManagerEx.java:365)
+com.alibaba.android.vlayout.VirtualLayoutManager.onLayoutChildren(VirtualLayoutManager.java:463)
+androidx.recyclerview.widget.RecyclerView.dispatchLayoutStep2(RecyclerView.java:4134)
+androidx.recyclerview.widget.RecyclerView.dispatchLayout(RecyclerView.java:3851)
+androidx.recyclerview.widget.RecyclerView.onLayout(RecyclerView.java:4404)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.RelativeLayout.onLayout(RelativeLayout.java:1103)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+androidx.core.widget.NestedScrollView.onLayout(NestedScrollView.java:1787)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+com.scwang.smartrefresh.layout.SmartRefreshLayout.onLayout(SmartRefreshLayout.java:684)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+com.android.internal.policy.DecorView.onLayout(DecorView.java:804)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.view.ViewRootImpl.performLayout(ViewRootImpl.java:3162)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2672)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1800)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7771)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1031)
+android.view.Choreographer.doCallbacks(Choreographer.java:854)
+android.view.Choreographer.doFrame(Choreographer.java:789)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1016)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-27 22:40:50----------
+Application Start
+----------2020-08-27 23:06:01----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.0.0
+java.lang.NoSuchMethodError: No virtual method load(Ljava/lang/String;)Lcom/bumptech/glide/DrawableTypeRequest; in class Lcom/bumptech/glide/RequestManager; or its super classes (declaration of 'com.bumptech.glide.RequestManager' appears in base.apk)
+wobiancao.nice9.lib.ImageMulitVAdapter.onBindViewHolder(ImageMulitVAdapter.java:161)
+wobiancao.nice9.lib.ImageMulitVAdapter.onBindViewHolder(ImageMulitVAdapter.java:24)
+androidx.recyclerview.widget.RecyclerView$Adapter.onBindViewHolder(RecyclerView.java:7065)
+androidx.recyclerview.widget.RecyclerView$Adapter.bindViewHolder(RecyclerView.java:7107)
+androidx.recyclerview.widget.RecyclerView$Recycler.tryBindViewHolderByDeadline(RecyclerView.java:6012)
+androidx.recyclerview.widget.RecyclerView$Recycler.tryGetViewHolderForPositionByDeadline(RecyclerView.java:6279)
+androidx.recyclerview.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:6118)
+androidx.recyclerview.widget.RecyclerView$Recycler.getViewForPosition(RecyclerView.java:6114)
+com.alibaba.android.vlayout.ExposeLinearLayoutManagerEx$LayoutState.next(ExposeLinearLayoutManagerEx.java:1629)
+com.alibaba.android.vlayout.VirtualLayoutManager$LayoutStateWrapper.next(VirtualLayoutManager.java:1043)
+com.alibaba.android.vlayout.layout.BaseLayoutHelper.nextView(BaseLayoutHelper.java:116)
+com.alibaba.android.vlayout.layout.AbstractFullFillLayoutHelper.getAllChildren(AbstractFullFillLayoutHelper.java:76)
+com.alibaba.android.vlayout.layout.OnePlusNLayoutHelper.layoutViews(OnePlusNLayoutHelper.java:250)
+com.alibaba.android.vlayout.layout.BaseLayoutHelper.doLayout(BaseLayoutHelper.java:318)
+com.alibaba.android.vlayout.VirtualLayoutManager.layoutChunk(VirtualLayoutManager.java:639)
+com.alibaba.android.vlayout.ExposeLinearLayoutManagerEx.fill(ExposeLinearLayoutManagerEx.java:1162)
+com.alibaba.android.vlayout.ExposeLinearLayoutManagerEx.onLayoutChildren(ExposeLinearLayoutManagerEx.java:365)
+com.alibaba.android.vlayout.VirtualLayoutManager.onLayoutChildren(VirtualLayoutManager.java:463)
+androidx.recyclerview.widget.RecyclerView.dispatchLayoutStep2(RecyclerView.java:4134)
+androidx.recyclerview.widget.RecyclerView.dispatchLayout(RecyclerView.java:3851)
+androidx.recyclerview.widget.RecyclerView.onLayout(RecyclerView.java:4404)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.RelativeLayout.onLayout(RelativeLayout.java:1103)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+androidx.core.widget.NestedScrollView.onLayout(NestedScrollView.java:1787)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+com.scwang.smartrefresh.layout.SmartRefreshLayout.onLayout(SmartRefreshLayout.java:684)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.LinearLayout.setChildFrame(LinearLayout.java:1829)
+android.widget.LinearLayout.layoutVertical(LinearLayout.java:1673)
+android.widget.LinearLayout.onLayout(LinearLayout.java:1582)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.widget.FrameLayout.layoutChildren(FrameLayout.java:332)
+android.widget.FrameLayout.onLayout(FrameLayout.java:270)
+com.android.internal.policy.DecorView.onLayout(DecorView.java:804)
+android.view.View.layout(View.java:21974)
+android.view.ViewGroup.layout(ViewGroup.java:6317)
+android.view.ViewRootImpl.performLayout(ViewRootImpl.java:3162)
+android.view.ViewRootImpl.performTraversals(ViewRootImpl.java:2672)
+android.view.ViewRootImpl.doTraversal(ViewRootImpl.java:1800)
+android.view.ViewRootImpl$TraversalRunnable.run(ViewRootImpl.java:7771)
+android.view.Choreographer$CallbackRecord.run(Choreographer.java:1031)
+android.view.Choreographer.doCallbacks(Choreographer.java:854)
+android.view.Choreographer.doFrame(Choreographer.java:789)
+android.view.Choreographer$FrameDisplayEventReceiver.run(Choreographer.java:1016)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-08-27 23:06:02----------
+Application Start
+----------2020-08-27 23:06:35----------
+Application Start
+----------2020-08-28 00:14:01----------
+Application Start
+----------2020-08-28 07:28:27----------
+Application Start
+----------2020-08-28 11:28:38----------
+Application Start
+----------2020-08-28 12:06:38----------
+Application Start
+----------2020-08-28 12:22:45----------
+Application Start
+----------2020-08-28 13:04:23----------
+Application Start
+----------2020-08-28 13:17:04----------
+Application Start
+----------2020-08-28 14:21:51----------
+Application Start
+----------2020-08-28 19:14:18----------
+Application Start
+----------2020-08-28 22:48:10----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.0.3
+android.view.InflateException: Binary XML file line #65 in work.kozh.ones:layout/activity_local_music_folder_song: Binary XML file line #65 in work.kozh.ones:layout/activity_local_music_folder_song: Error inflating class androidx.appcompat.widget.RecyclerView
+
+----------2020-08-28 22:48:11----------
+Application Start
+----------2020-08-28 22:48:19----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.0.3
+android.view.InflateException: Binary XML file line #65 in work.kozh.ones:layout/activity_local_music_folder_song: Binary XML file line #65 in work.kozh.ones:layout/activity_local_music_folder_song: Error inflating class androidx.appcompat.widget.RecyclerView
+
+----------2020-08-28 22:48:20----------
+Application Start
+----------2020-08-28 22:51:11----------
+Application Start
+----------2020-08-29 07:15:09----------
+Application Start
+----------2020-08-29 08:00:33----------
+Application Start
+----------2020-08-29 11:28:49----------
+Application Start
+----------2020-08-29 11:56:51----------
+Application Start
+----------2020-08-29 16:10:56----------
+Application Start
+----------2020-08-30 07:58:42----------
+Application Start
+----------2020-08-30 15:39:30----------
+Application Start
+----------2020-08-30 17:35:42----------
+Application Start
+----------2020-08-31 07:41:06----------
+Application Start
+----------2020-08-31 13:38:59----------
+Application Start
+----------2020-08-31 17:48:57----------
+Application Start
+----------2020-08-31 23:34:23----------
+Application Start
+----------2020-08-31 23:37:17----------
+Application Start
+----------2020-08-31 23:38:17----------
+Application Start
+----------2020-09-01 07:08:45----------
+Application Start
+----------2020-09-01 07:22:43----------
+Application Start
+----------2020-09-01 12:21:26----------
+Application Start
+----------2020-09-01 15:24:43----------
+Application Start
+----------2020-09-01 15:36:47----------
+Application Start
+----------2020-09-01 16:35:07----------
+Application Start
+----------2020-09-01 16:40:57----------
+Application Start
+----------2020-09-01 19:47:05----------
+Application Start
+----------2020-09-01 22:52:50----------
+Application Start
+----------2020-09-01 23:15:18----------
+Application Start
+----------2020-09-02 07:20:22----------
+Application Start
+----------2020-09-02 10:12:36----------
+Application Start
+----------2020-09-02 22:54:35----------
+Application Start
+----------2020-09-03 07:41:41----------
+Application Start
+----------2020-09-03 12:57:14----------
+Application Start
+----------2020-09-03 23:14:10----------
+Application Start
+----------2020-09-04 08:43:14----------
+Application Start
+----------2020-09-04 09:37:29----------
+Application Start
+----------2020-09-04 09:45:30----------
+Application Start
+----------2020-09-04 12:18:12----------
+Application Start
+----------2020-09-04 17:49:45----------
+Application Start
+----------2020-09-04 20:48:57----------
+Application Start
+----------2020-09-05 10:34:35----------
+Application Start
+----------2020-09-05 16:03:45----------
+Application Start
+----------2020-09-05 16:04:18----------
+Application Start
+----------2020-09-05 18:34:21----------
+Application Start
+----------2020-09-06 09:12:02----------
+Application Start
+----------2020-09-06 18:33:24----------
+Application Start
+----------2020-09-07 07:20:25----------
+Application Start
+----------2020-09-07 08:12:33----------
+Application Start
+----------2020-09-07 22:29:46----------
+Application Start
+----------2020-09-08 07:50:48----------
+Application Start
+----------2020-09-08 15:26:14----------
+Application Start
+----------2020-09-08 19:18:02----------
+Application Start
+----------2020-09-09 08:21:25----------
+Application Start
+----------2020-09-09 09:59:35----------
+Application Start
+----------2020-09-09 23:54:53----------
+Application Start
+----------2020-09-10 08:20:27----------
+Application Start
+----------2020-09-10 10:21:54----------
+Application Start
+----------2020-09-10 13:40:20----------
+Application Start
+----------2020-09-11 00:38:10----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.0.4
+java.lang.IllegalArgumentException
+android.media.MediaPlayer.setPlaybackParams(Native Method)
+cn.jzvd.JZMediaSystem.setSpeed(JZMediaSystem.java:132)
+work.kozh.vip.mvp.view.SeniorVideoPlayerActivity.changeSpeed(SeniorVideoPlayerActivity.java:143)
+work.kozh.vip.mvp.view.SeniorVideoPlayerActivity.longPressToSpeedPlay(SeniorVideoPlayerActivity.java:240)
+work.kozh.vip.widget.player.SeniorVideoPlayer$2.onLongPress(SeniorVideoPlayer.java:173)
+android.view.GestureDetector.dispatchLongPress(GestureDetector.java:868)
+android.view.GestureDetector.access$300(GestureDetector.java:51)
+android.view.GestureDetector$GestureHandler.handleMessage(GestureDetector.java:314)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-09-11 00:38:11----------
+Application Start
+----------2020-09-11 00:41:23----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.0.4
+java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.Context androidx.fragment.app.FragmentActivity.getBaseContext()' on a null object reference
+work.kozh.vip.mvp.view.VipHomeFragment.onLoadSuccessView(VipHomeFragment.java:95)
+work.kozh.common.mvp.base.BaseFragment$1.onLoadSuccessView(BaseFragment.java:152)
+work.kozh.common.widget.LoadingView.showLoadingView(LoadingView.java:133)
+work.kozh.common.widget.LoadingView$1$1.run(LoadingView.java:155)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-09-11 00:41:23----------
+Application Start
+----------2020-09-11 07:41:59----------
+Application Start
+----------2020-09-12 12:23:17----------
+Application Start
+----------2020-09-12 19:19:30----------
+Application Start
+----------2020-09-13 10:43:06----------
+Application Start
+----------2020-09-13 13:21:45----------
+Application Start
+----------2020-09-13 18:25:16----------
+Application Start
+----------2020-09-13 23:12:02----------
+Application Start
+----------2020-09-14 08:15:20----------
+Application Start
+----------2020-09-14 22:40:45----------
+Application Start
+----------2020-09-15 08:13:59----------
+Application Start
+----------2020-09-15 17:22:45----------
+Application Start
+----------2020-09-15 19:21:17----------
+Application Start
+----------2020-09-15 22:57:16----------
+Application Start
+----------2020-09-16 12:57:21----------
+Application Start
+----------2020-09-16 15:45:45----------
+Application Start
+----------2020-09-16 22:35:41----------
+Application Start
+----------2020-09-17 08:29:06----------
+Application Start
+----------2020-09-17 12:57:19----------
+Application Start
+----------2020-09-17 17:41:45----------
+Application Start
+----------2020-09-17 19:35:52----------
+Application Start
+----------2020-09-18 13:20:07----------
+Application Start
+----------2020-09-18 15:30:33----------
+Application Start
+----------2020-09-19 10:13:38----------
+Application Start
+----------2020-09-19 13:45:52----------
+Application Start
+----------2020-09-19 17:21:58----------
+Application Start
+----------2020-09-20 10:10:03----------
+Application Start
+----------2020-09-20 16:06:12----------
+Application Start
+----------2020-09-20 23:13:09----------
+Application Start
+----------2020-09-20 23:13:33----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.0.4
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-09-21 00:34:14----------
+Application Start
+----------2020-09-21 07:36:16----------
+Application Start
+----------2020-09-21 21:30:27----------
+Application Start
+----------2020-09-22 08:26:39----------
+Application Start
+----------2020-09-22 18:21:17----------
+Application Start
+----------2020-09-22 21:29:18----------
+Application Start
+----------2020-09-22 22:06:30----------
+Application Start
+----------2020-09-22 22:46:57----------
+Application Start
+----------2020-09-22 23:06:01----------
+Application Start
+----------2020-09-23 05:55:50----------
+Application Start
+----------2020-09-23 07:06:52----------
+Application Start
+----------2020-09-23 10:30:00----------
+Application Start
+----------2020-09-23 14:17:08----------
+Application Start
+----------2020-09-23 14:19:43----------
+Application Start
+----------2020-09-23 14:50:44----------
+Application Start
+----------2020-09-23 14:52:07----------
+Application Start
+----------2020-09-23 16:10:04----------
+Application Start
+----------2020-09-23 16:10:40----------
+Application Start
+----------2020-09-23 16:45:31----------
+Application Start
+----------2020-09-23 23:35:25----------
+Application Start
+----------2020-09-24 08:25:47----------
+Application Start
+----------2020-09-24 08:47:06----------
+Application Start
+----------2020-09-24 09:09:56----------
+Application Start
+----------2020-09-24 09:18:20----------
+Application Start
+----------2020-09-24 13:39:58----------
+Application Start
+----------2020-09-24 14:53:23----------
+Application Start
+----------2020-09-25 09:33:29----------
+Application Start
+----------2020-09-25 21:25:08----------
+Application Start
+----------2020-09-26 08:54:30----------
+Application Start
+----------2020-09-26 14:00:36----------
+Application Start
+----------2020-09-26 16:02:57----------
+Application Start
+----------2020-09-26 18:43:18----------
+Application Start
+----------2020-09-27 00:07:44----------
+Application Start
+----------2020-09-27 09:02:46----------
+Application Start
+----------2020-09-27 13:07:13----------
+Application Start
+----------2020-09-27 19:35:14----------
+Application Start
+----------2020-09-27 23:53:01----------
+Application Start
+----------2020-09-28 10:59:26----------
+Application Start
+----------2020-09-28 11:12:57----------
+Application Start
+----------2020-09-28 11:13:46----------
+Application Start
+----------2020-09-28 11:15:27----------
+Application Start
+----------2020-09-28 12:51:38----------
+Application Start
+----------2020-09-28 16:07:49----------
+Application Start
+----------2020-09-29 08:29:54----------
+Application Start
+----------2020-09-29 08:33:53----------
+Application Start
+----------2020-09-29 18:00:39----------
+Application Start
+----------2020-09-30 07:47:33----------
+Application Start
+----------2020-09-30 13:29:53----------
+Application Start
+----------2020-10-01 08:53:02----------
+Application Start
+----------2020-10-02 10:03:32----------
+Application Start
+----------2020-10-02 12:03:56----------
+Application Start
+----------2020-10-02 14:35:58----------
+Application Start
+----------2020-10-03 07:33:30----------
+Application Start
+----------2020-10-04 05:15:26----------
+Application Start
+----------2020-10-05 06:18:43----------
+Application Start
+----------2020-10-05 13:19:03----------
+Application Start
+----------2020-10-06 06:27:21----------
+Application Start
+----------2020-10-06 21:46:19----------
+Application Start
+----------2020-10-07 06:14:50----------
+Application Start
+----------2020-10-07 08:13:31----------
+Application Start
+----------2020-10-07 13:43:32----------
+Application Start
+----------2020-10-07 22:01:19----------
+Application Start
+----------2020-10-08 05:31:48----------
+Application Start
+----------2020-10-08 12:18:33----------
+Application Start
+----------2020-10-09 18:42:37----------
+Application Start
+----------2020-10-09 23:20:26----------
+Application Start
+----------2020-10-10 08:06:58----------
+Application Start
+----------2020-10-10 18:11:29----------
+Application Start
+----------2020-10-10 21:00:25----------
+Application Start
+----------2020-10-11 09:35:29----------
+Application Start
+----------2020-10-11 18:16:28----------
+Application Start
+----------2020-10-12 08:21:53----------
+Application Start
+----------2020-10-12 18:22:47----------
+Application Start
+----------2020-10-12 23:38:28----------
+Application Start
+----------2020-10-13 08:18:45----------
+Application Start
+----------2020-10-13 16:35:23----------
+Application Start
+----------2020-10-13 16:46:29----------
+Application Start
+----------2020-10-13 17:08:48----------
+Application Start
+----------2020-10-13 17:50:39----------
+Application Start
+----------2020-10-14 08:27:07----------
+Application Start
+----------2020-10-14 13:16:54----------
+Application Start
+----------2020-10-14 19:33:28----------
+Application Start
+----------2020-10-15 08:23:30----------
+Application Start
+----------2020-10-15 13:29:16----------
+Application Start
+----------2020-10-15 14:59:29----------
+Application Start
+----------2020-10-16 08:17:32----------
+Application Start
+----------2020-10-16 11:16:08----------
+Application Start
+----------2020-10-16 15:03:54----------
+Application Start
+----------2020-10-16 18:26:13----------
+Application Start
+----------2020-10-16 21:58:23----------
+Application Start
+----------2020-10-17 00:36:58----------
+Application Start
+----------2020-10-17 09:09:19----------
+Application Start
+----------2020-10-17 17:47:28----------
+Application Start
+----------2020-10-18 10:13:21----------
+Application Start
+----------2020-10-18 13:07:08----------
+Application Start
+----------2020-10-18 19:56:44----------
+Application Start
+----------2020-10-19 08:11:12----------
+Application Start
+----------2020-10-19 18:35:46----------
+Application Start
+----------2020-10-20 08:16:24----------
+Application Start
+----------2020-10-20 16:34:40----------
+Application Start
+----------2020-10-21 08:20:21----------
+Application Start
+----------2020-10-21 20:49:23----------
+Application Start
+----------2020-10-22 07:11:24----------
+Application Start
+----------2020-10-22 15:00:20----------
+Application Start
+----------2020-10-22 23:41:13----------
+Application Start
+----------2020-10-23 07:29:29----------
+Application Start
+----------2020-10-23 18:35:23----------
+Application Start
+----------2020-10-24 07:53:55----------
+Application Start
+----------2020-10-24 21:54:55----------
+Application Start
+----------2020-10-25 08:59:59----------
+Application Start
+----------2020-10-25 16:06:24----------
+Application Start
+----------2020-10-26 07:37:24----------
+Application Start
+----------2020-10-26 20:15:11----------
+Application Start
+----------2020-10-27 07:30:29----------
+Application Start
+----------2020-10-27 20:58:10----------
+Application Start
+----------2020-10-28 07:31:13----------
+Application Start
+----------2020-10-28 11:09:43----------
+Application Start
+----------2020-10-29 07:32:50----------
+Application Start
+----------2020-10-29 07:33:45----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.2.0
+java.lang.IndexOutOfBoundsException: Index: 28, Size: 13
+java.util.ArrayList.get(ArrayList.java:437)
+work.kozh.music.service.MusicService.openCurrentAndNextSongData_new(MusicService.java:4018)
+work.kozh.music.service.MusicService.openCurrentAndNextSongData_new(MusicService.java:4295)
+work.kozh.music.service.MusicService.playNextSong(MusicService.java:4970)
+work.kozh.music.service.MusicService$MusicPlayerHandler.handleMessage(MusicService.java:1114)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.os.HandlerThread.run(HandlerThread.java:67)
+
+----------2020-10-29 07:33:46----------
+Application Start
+----------2020-10-29 13:16:39----------
+Application Start
+----------2020-10-30 07:36:11----------
+Application Start
+----------2020-10-30 17:49:38----------
+Application Start
+----------2020-10-31 06:52:41----------
+Application Start
+----------2020-10-31 15:37:09----------
+Application Start
+----------2020-11-01 07:01:57----------
+Application Start
+----------2020-11-01 16:16:59----------
+Application Start
+----------2020-11-02 07:37:51----------
+Application Start
+----------2020-11-02 19:56:18----------
+Application Start
+----------2020-11-03 07:31:33----------
+Application Start
+----------2020-11-03 08:32:31----------
+Application Start
+----------2020-11-03 14:05:23----------
+Application Start
+----------2020-11-04 07:30:02----------
+Application Start
+----------2020-11-04 19:50:52----------
+Application Start
+----------2020-11-05 07:35:01----------
+Application Start
+----------2020-11-06 07:37:18----------
+Application Start
+----------2020-11-06 19:24:53----------
+Application Start
+----------2020-11-07 08:30:11----------
+Application Start
+----------2020-11-07 17:05:32----------
+Application Start
+----------2020-11-07 17:05:46----------
+Application Start
+----------2020-11-07 17:05:50----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.2.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-11-07 17:05:50----------
+Application Start
+----------2020-11-08 08:53:00----------
+Application Start
+----------2020-11-08 17:10:26----------
+Application Start
+----------2020-11-08 20:10:02----------
+Application Start
+----------2020-11-09 07:35:03----------
+Application Start
+----------2020-11-10 07:43:29----------
+Application Start
+----------2020-11-10 13:03:36----------
+Application Start
+----------2020-11-11 07:31:34----------
+Application Start
+----------2020-11-11 11:49:06----------
+Application Start
+----------2020-11-11 12:07:48----------
+Application Start
+----------2020-11-11 13:13:05----------
+Application Start
+----------2020-11-12 07:35:16----------
+Application Start
+----------2020-11-12 14:28:55----------
+Application Start
+----------2020-11-12 20:22:23----------
+Application Start
+----------2020-11-12 21:08:49----------
+Application Start
+----------2020-11-13 07:46:27----------
+Application Start
+----------2020-11-13 14:48:35----------
+Application Start
+----------2020-11-13 19:22:01----------
+Application Start
+----------2020-11-15 16:09:24----------
+Application Start
+----------2020-11-16 07:36:30----------
+Application Start
+----------2020-11-16 19:15:28----------
+Application Start
+----------2020-11-16 23:53:25----------
+Application Start
+----------2020-11-17 07:45:43----------
+Application Start
+----------2020-11-17 17:20:47----------
+Application Start
+----------2020-11-17 21:51:13----------
+Application Start
+----------2020-11-18 07:42:02----------
+Application Start
+----------2020-11-18 19:27:56----------
+Application Start
+----------2020-11-19 19:22:16----------
+Application Start
+----------2020-11-20 00:58:15----------
+Application Start
+----------2020-11-20 07:38:06----------
+Application Start
+----------2020-11-20 15:25:41----------
+Application Start
+----------2020-11-20 21:01:27----------
+Application Start
+----------2020-11-21 09:17:20----------
+Application Start
+----------2020-11-21 12:23:40----------
+Application Start
+----------2020-11-21 15:35:09----------
+Application Start
+----------2020-11-21 16:58:10----------
+Application Start
+----------2020-11-21 20:48:40----------
+Application Start
+----------2020-11-22 08:43:38----------
+Application Start
+----------2020-11-22 14:44:14----------
+Application Start
+----------2020-11-23 07:39:59----------
+Application Start
+----------2020-11-23 20:49:21----------
+Application Start
+----------2020-11-24 07:44:05----------
+Application Start
+----------2020-11-24 16:31:40----------
+Application Start
+----------2020-11-24 20:33:25----------
+Application Start
+----------2020-11-25 07:45:33----------
+Application Start
+----------2020-11-25 19:24:56----------
+Application Start
+----------2020-11-25 20:48:36----------
+Application Start
+----------2020-11-26 07:37:19----------
+Application Start
+----------2020-11-26 16:23:33----------
+Application Start
+----------2020-11-27 07:35:28----------
+Application Start
+----------2020-11-27 13:24:19----------
+Application Start
+----------2020-11-27 20:42:36----------
+Application Start
+----------2020-11-28 00:11:18----------
+Application Start
+----------2020-11-28 10:10:09----------
+Application Start
+----------2020-11-28 15:11:58----------
+Application Start
+----------2020-11-29 11:05:24----------
+Application Start
+----------2020-11-29 20:26:14----------
+Application Start
+----------2020-11-30 07:41:54----------
+Application Start
+----------2020-12-01 08:22:03----------
+Application Start
+----------2020-12-01 13:57:18----------
+Application Start
+----------2020-12-01 18:09:29----------
+Application Start
+----------2020-12-01 22:45:17----------
+Application Start
+----------2020-12-02 07:43:15----------
+Application Start
+----------2020-12-02 15:37:36----------
+Application Start
+----------2020-12-03 06:46:19----------
+Application Start
+----------2020-12-03 06:46:36----------
+Application Start
+----------2020-12-03 06:46:57----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.2.0
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2020-12-03 06:47:32----------
+Application Start
+----------2020-12-03 15:34:31----------
+Application Start
+----------2020-12-04 18:05:40----------
+Application Start
+----------2020-12-04 18:41:42----------
+Application Start
+----------2020-12-04 22:51:02----------
+Application Start
+----------2020-12-04 23:01:00----------
+Application Start
+----------2020-12-05 09:59:08----------
+Application Start
+----------2020-12-05 17:50:51----------
+Application Start
+----------2020-12-06 10:06:44----------
+Application Start
+----------2020-12-07 06:53:21----------
+Application Start
+----------2020-12-07 13:27:47----------
+Application Start
+----------2020-12-08 08:34:21----------
+Application Start
+----------2020-12-08 13:51:33----------
+Application Start
+----------2020-12-09 00:01:13----------
+Application Start
+----------2020-12-09 07:46:29----------
+Application Start
+----------2020-12-09 14:03:48----------
+Application Start
+----------2020-12-10 07:55:42----------
+Application Start
+----------2020-12-10 09:58:28----------
+Application Start
+----------2020-12-11 01:15:11----------
+Application Start
+----------2020-12-11 07:45:09----------
+Application Start
+----------2020-12-11 21:54:43----------
+Application Start
+----------2020-12-13 17:09:43----------
+Application Start
+----------2020-12-13 18:32:12----------
+Application Start
+----------2020-12-14 06:52:34----------
+Application Start
+----------2020-12-14 09:44:16----------
+Application Start
+----------2020-12-14 22:11:43----------
+Application Start
+----------2020-12-15 07:35:14----------
+Application Start
+----------2020-12-16 08:12:35----------
+Application Start
+----------2020-12-17 08:38:27----------
+Application Start
+----------2020-12-17 09:55:19----------
+Application Start
+----------2020-12-17 14:22:40----------
+Application Start
+----------2020-12-18 08:27:43----------
+Application Start
+----------2020-12-18 13:21:56----------
+Application Start
+----------2020-12-18 17:46:43----------
+Application Start
+----------2020-12-19 23:11:55----------
+Application Start
+----------2020-12-20 13:41:01----------
+Application Start
+----------2020-12-20 17:54:24----------
+Application Start
+----------2020-12-21 06:50:43----------
+Application Start
+----------2020-12-21 14:01:21----------
+Application Start
+----------2020-12-21 20:13:11----------
+Application Start
+----------2020-12-21 20:16:51----------
+Application Start
+----------2020-12-21 20:17:42----------
+Application Start
+----------2020-12-21 22:10:34----------
+Application Start
+----------2020-12-21 22:10:43----------
+Application Start
+----------2020-12-22 07:41:38----------
+Application Start
+----------2020-12-22 13:03:35----------
+Application Start
+----------2020-12-22 13:04:40----------
+Application Start
+----------2020-12-22 17:21:12----------
+Application Start
+----------2020-12-22 18:10:03----------
+Application Start
+----------2020-12-22 22:26:08----------
+Application Start
+----------2020-12-23 07:46:08----------
+Application Start
+----------2020-12-23 08:30:21----------
+Application Start
+----------2020-12-23 08:30:49----------
+Application Start
+----------2020-12-23 08:31:03----------
+Application Start
+----------2020-12-23 08:31:13----------
+Application Start
+----------2020-12-23 08:31:27----------
+Application Start
+----------2020-12-23 13:16:46----------
+Application Start
+----------2020-12-23 22:20:47----------
+Application Start
+----------2020-12-24 08:02:16----------
+Application Start
+----------2020-12-25 07:47:59----------
+Application Start
+----------2020-12-25 13:49:04----------
+Application Start
+----------2020-12-25 22:52:01----------
+Application Start
+----------2020-12-26 08:05:30----------
+Application Start
+----------2020-12-26 19:40:17----------
+Application Start
+----------2020-12-27 13:22:56----------
+Application Start
+----------2020-12-27 19:37:07----------
+Application Start
+----------2020-12-28 09:17:28----------
+Application Start
+----------2020-12-29 07:47:32----------
+Application Start
+----------2020-12-29 09:48:10----------
+Application Start
+----------2020-12-29 14:01:52----------
+Application Start
+----------2020-12-30 07:42:50----------
+Application Start
+----------2020-12-30 13:18:53----------
+Application Start
+----------2020-12-30 14:14:51----------
+Application Start
+----------2020-12-31 08:30:19----------
+Application Start
+----------2020-12-31 13:34:00----------
+Application Start
+----------2020-12-31 15:13:45----------
+Application Start
+----------2020-12-31 21:26:40----------
+Application Start
+----------2021-01-01 10:17:57----------
+Application Start
+----------2021-01-01 17:48:54----------
+Application Start
+----------2021-01-02 10:20:01----------
+Application Start
+----------2021-01-02 16:27:15----------
+Application Start
+----------2021-01-03 10:27:06----------
+Application Start
+----------2021-01-03 14:42:46----------
+Application Start
+----------2021-01-03 17:46:56----------
+Application Start
+----------2021-01-04 07:46:06----------
+Application Start
+----------2021-01-04 14:22:21----------
+Application Start
+----------2021-01-04 20:05:28----------
+Application Start
+----------2021-01-05 09:35:32----------
+Application Start
+----------2021-01-05 13:42:59----------
+Application Start
+----------2021-01-06 01:14:01----------
+Application Start
+----------2021-01-06 07:40:39----------
+Application Start
+----------2021-01-06 11:38:30----------
+Application Start
+----------2021-01-07 08:28:04----------
+Application Start
+----------2021-01-07 19:25:17----------
+Application Start
+----------2021-01-07 23:32:03----------
+Application Start
+----------2021-01-08 07:49:36----------
+Application Start
+----------2021-01-08 19:52:55----------
+Application Start
+----------2021-01-09 12:18:06----------
+Application Start
+----------2021-01-09 23:01:44----------
+Application Start
+----------2021-01-10 09:52:10----------
+Application Start
+----------2021-01-11 09:13:33----------
+Application Start
+----------2021-01-11 16:05:23----------
+Application Start
+----------2021-01-12 08:34:37----------
+Application Start
+----------2021-01-12 14:41:51----------
+Application Start
+----------2021-01-13 08:34:04----------
+Application Start
+----------2021-01-13 13:30:45----------
+Application Start
+----------2021-01-14 00:02:38----------
+Application Start
+----------2021-01-17 09:28:27----------
+Application Start
+----------2021-01-18 08:26:49----------
+Application Start
+----------2021-01-20 08:44:34----------
+Application Start
+----------2021-01-22 14:59:30----------
+Application Start
+----------2021-01-23 08:24:41----------
+Application Start
+----------2021-01-23 20:38:22----------
+Application Start
+----------2021-01-24 22:35:54----------
+Application Start
+----------2021-01-25 08:25:53----------
+Application Start
+----------2021-01-25 16:18:48----------
+Application Start
+----------2021-01-25 22:30:28----------
+Application Start
+----------2021-01-26 08:20:57----------
+Application Start
+----------2021-01-27 08:41:51----------
+Application Start
+----------2021-01-27 14:21:23----------
+Application Start
+----------2021-01-27 18:50:59----------
+Application Start
+----------2021-01-28 08:23:36----------
+Application Start
+----------2021-01-28 13:44:36----------
+Application Start
+----------2021-01-28 17:08:30----------
+Application Start
+----------2021-01-28 21:49:24----------
+Application Start
+----------2021-01-29 08:44:40----------
+Application Start
+----------2021-01-30 09:47:02----------
+Application Start
+----------2021-01-30 12:23:27----------
+Application Start
+----------2021-01-30 20:51:49----------
+Application Start
+----------2021-01-31 09:42:37----------
+Application Start
+----------2021-01-31 16:56:54----------
+Application Start
+----------2021-02-01 09:06:08----------
+Application Start
+----------2021-02-01 13:34:48----------
+Application Start
+----------2021-02-02 07:43:49----------
+Application Start
+----------2021-02-02 10:12:43----------
+Application Start
+----------2021-02-02 13:44:31----------
+Application Start
+----------2021-02-03 08:24:56----------
+Application Start
+----------2021-02-03 13:38:50----------
+Application Start
+----------2021-02-04 07:46:31----------
+Application Start
+----------2021-02-04 14:49:00----------
+Application Start
+----------2021-02-04 17:00:42----------
+Application Start
+----------2021-02-05 07:47:00----------
+Application Start
+----------2021-02-05 09:43:29----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.2.4
+java.lang.NumberFormatException: For input string: "﻿"
+java.lang.Integer.parseInt(Integer.java:615)
+java.lang.Integer.valueOf(Integer.java:801)
+work.kozh.music.widget.LyricView.measureStartTimeMillis(LyricView.java:837)
+work.kozh.music.widget.LyricView.analyzeLyric(LyricView.java:821)
+work.kozh.music.widget.LyricView.setupLyricResource(LyricView.java:740)
+work.kozh.music.widget.LyricView.setLyricFile(LyricView.java:999)
+work.kozh.music.mvp.view.activity.MusicActivity$6.run(MusicActivity.java:497)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2021-02-05 09:43:30----------
+Application Start
+----------2021-02-05 09:43:42----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.2.4
+java.lang.NumberFormatException: For input string: "﻿"
+java.lang.Integer.parseInt(Integer.java:615)
+java.lang.Integer.valueOf(Integer.java:801)
+work.kozh.music.widget.LyricView.measureStartTimeMillis(LyricView.java:837)
+work.kozh.music.widget.LyricView.analyzeLyric(LyricView.java:821)
+work.kozh.music.widget.LyricView.setupLyricResource(LyricView.java:740)
+work.kozh.music.widget.LyricView.setLyricFile(LyricView.java:999)
+work.kozh.music.mvp.view.activity.SearchOnlineSongActivity$7.run(SearchOnlineSongActivity.java:499)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2021-02-05 09:43:42----------
+Application Start
+----------2021-02-05 13:39:37----------
+Application Start
+----------2021-02-05 21:11:00----------
+Application Start
+----------2021-02-06 08:42:07----------
+Application Start
+----------2021-02-06 16:21:02----------
+Application Start
+----------2021-02-06 21:15:46----------
+Application Start
+----------2021-02-07 07:39:51----------
+Application Start
+----------2021-02-08 07:40:55----------
+Application Start
+----------2021-02-08 13:41:00----------
+Application Start
+----------2021-02-09 08:35:04----------
+Application Start
+----------2021-02-09 11:09:17----------
+Application Start
+----------2021-02-09 12:48:29----------
+Application Start
+----------2021-02-09 19:39:12----------
+Application Start
+----------2021-02-10 07:47:06----------
+Application Start
+----------2021-02-10 15:20:53----------
+Application Start
+----------2021-02-10 22:58:36----------
+Application Start
+----------2021-02-11 08:58:51----------
+Application Start
+----------2021-02-11 16:10:32----------
+Application Start
+----------2021-02-13 10:10:47----------
+Application Start
+----------2021-02-13 13:25:59----------
+Application Start
+----------2021-02-14 12:39:23----------
+Application Start
+----------2021-02-14 18:28:24----------
+Application Start
+----------2021-02-14 21:12:45----------
+Application Start
+----------2021-02-14 23:47:19----------
+Application Start
+----------2021-02-15 09:33:47----------
+Application Start
+----------2021-02-16 10:58:29----------
+Application Start
+----------2021-02-17 09:57:12----------
+Application Start
+----------2021-02-17 10:37:09----------
+Application Start
+----------2021-02-17 14:34:05----------
+Application Start
+----------2021-02-17 21:19:36----------
+Application Start
+----------2021-02-18 06:46:01----------
+Application Start
+----------2021-02-18 16:47:45----------
+Application Start
+----------2021-02-19 01:00:19----------
+Application Start
+----------2021-02-19 07:55:26----------
+Application Start
+----------2021-02-19 16:41:15----------
+Application Start
+----------2021-02-20 07:42:10----------
+Application Start
+----------2021-02-20 08:33:26----------
+Application Start
+----------2021-02-20 13:44:10----------
+Application Start
+----------2021-02-21 13:38:10----------
+Application Start
+----------2021-02-21 20:58:23----------
+Application Start
+----------2021-02-22 06:43:42----------
+Application Start
+----------2021-02-22 13:42:13----------
+Application Start
+----------2021-02-23 08:27:06----------
+Application Start
+----------2021-02-23 15:28:35----------
+Application Start
+----------2021-02-23 16:47:47----------
+Application Start
+----------2021-02-23 20:09:24----------
+Application Start
+----------2021-02-23 22:37:54----------
+Application Start
+----------2021-02-24 07:43:54----------
+Application Start
+----------2021-02-24 21:00:45----------
+Application Start
+----------2021-02-25 07:44:36----------
+Application Start
+----------2021-02-25 21:11:41----------
+Application Start
+----------2021-02-26 07:40:52----------
+Application Start
+----------2021-02-26 18:02:49----------
+Application Start
+----------2021-02-27 09:37:24----------
+Application Start
+----------2021-02-27 20:53:47----------
+Application Start
+----------2021-02-28 08:45:09----------
+Application Start
+----------2021-02-28 10:13:00----------
+Application Start
+----------2021-02-28 17:55:31----------
+Application Start
+----------2021-02-28 18:15:53----------
+Application Start
+----------2021-02-28 21:19:15----------
+Application Start
+----------2021-03-01 06:47:02----------
+Application Start
+----------2021-03-01 07:39:43----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.2.4
+java.lang.IndexOutOfBoundsException: Index: 43, Size: 18
+java.util.ArrayList.get(ArrayList.java:437)
+work.kozh.music.service.MusicService.openCurrentAndNextSongData_new(MusicService.java:4018)
+work.kozh.music.service.MusicService.openCurrentAndNextSongData_new(MusicService.java:4295)
+work.kozh.music.service.MusicService.playNextSong(MusicService.java:4970)
+work.kozh.music.service.MusicService$MusicPlayerHandler.handleMessage(MusicService.java:1114)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.os.HandlerThread.run(HandlerThread.java:67)
+
+----------2021-03-01 07:40:14----------
+Application Start
+----------2021-03-01 22:18:45----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.2.4
+java.lang.IndexOutOfBoundsException: Index: 41, Size: 18
+java.util.ArrayList.get(ArrayList.java:437)
+work.kozh.music.service.MusicService.openCurrentAndNextSongData_new(MusicService.java:4018)
+work.kozh.music.service.MusicService.openCurrentAndNextSongData_new(MusicService.java:4295)
+work.kozh.music.service.MusicService.playNextSong(MusicService.java:4970)
+work.kozh.music.service.MusicService$MusicPlayerHandler.handleMessage(MusicService.java:1114)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.os.HandlerThread.run(HandlerThread.java:67)
+
+----------2021-03-01 22:19:06----------
+Application Start
+----------2021-03-02 07:42:43----------
+Application Start
+----------2021-03-02 16:28:36----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.2.4
+java.lang.IndexOutOfBoundsException: Index: 43, Size: 18
+java.util.ArrayList.get(ArrayList.java:437)
+work.kozh.music.service.MusicService.openCurrentAndNextSongData_new(MusicService.java:4018)
+work.kozh.music.service.MusicService.openCurrentAndNextSongData_new(MusicService.java:4295)
+work.kozh.music.service.MusicService.playNextSong(MusicService.java:4970)
+work.kozh.music.service.MusicService$MusicPlayerHandler.handleMessage(MusicService.java:1114)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.os.HandlerThread.run(HandlerThread.java:67)
+
+----------2021-03-02 16:37:59----------
+Application Start
+----------2021-03-02 19:16:25----------
+Application Start
+----------2021-03-03 07:44:34----------
+Application Start
+----------2021-03-03 23:27:02----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.2.4
+java.lang.RuntimeException: Unable to resume activity {work.kozh.ones/work.kozh.music.online_add.ui.songlist.UserSongListDetailActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'long work.kozh.music.service.MusicService.getAlbumId()' on a null object reference
+android.app.ActivityThread.performResumeActivity(ActivityThread.java:4253)
+android.app.ActivityThread.handleResumeActivity(ActivityThread.java:4285)
+android.app.servertransaction.ResumeActivityItem.execute(ResumeActivityItem.java:52)
+android.app.servertransaction.TransactionExecutor.executeLifecycleState(TransactionExecutor.java:176)
+android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:97)
+android.app.ActivityThread$H.handleMessage(ActivityThread.java:2047)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2021-03-03 23:27:03----------
+Application Start
+----------2021-03-04 07:38:39----------
+Application Start
+----------2021-03-04 13:20:48----------
+Application Start
+----------2021-03-04 19:45:09----------
+Application Start
+----------2021-03-05 07:37:01----------
+Application Start
+----------2021-03-05 09:45:02----------
+Application Start
+----------2021-03-05 12:53:33----------
+Application Start
+----------2021-03-05 17:45:52----------
+Application Start
+----------2021-03-06 11:51:40----------
+Application Start
+----------2021-03-06 17:43:16----------
+Application Start
+----------2021-03-07 18:19:46----------
+Application Start
+----------2021-03-08 06:47:39----------
+Application Start
+----------2021-03-08 19:02:43----------
+Application Start
+----------2021-03-09 07:12:54----------
+Application Start
+----------2021-03-09 14:03:00----------
+Application Start
+----------2021-03-10 08:25:56----------
+Application Start
+----------2021-03-10 18:55:38----------
+Application Start
+----------2021-03-11 08:30:04----------
+Application Start
+----------2021-03-11 19:39:52----------
+Application Start
+----------2021-03-12 08:26:02----------
+Application Start
+----------2021-03-12 19:26:05----------
+Application Start
+----------2021-03-14 08:27:56----------
+Application Start
+----------2021-03-15 06:48:58----------
+Application Start
+----------2021-03-15 15:25:21----------
+Application Start
+----------2021-03-15 18:40:32----------
+Application Start
+----------2021-03-16 07:39:05----------
+Application Start
+----------2021-03-16 12:03:56----------
+Application Start
+----------2021-03-17 07:38:25----------
+Application Start
+----------2021-03-17 13:30:53----------
+Application Start
+----------2021-03-18 07:37:11----------
+Application Start
+----------2021-03-18 16:25:27----------
+Application Start
+----------2021-03-19 07:43:48----------
+Application Start
+----------2021-03-19 10:55:45----------
+Application Start
+----------2021-03-19 20:38:07----------
+Application Start
+----------2021-03-19 21:13:50----------
+Application Start
+----------2021-03-19 21:14:05----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.2.4
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2021-03-19 21:14:41----------
+Application Start
+----------2021-03-19 21:15:35----------
+Application Start
+----------2021-03-20 10:31:42----------
+Application Start
+----------2021-03-20 18:16:11----------
+Application Start
+----------2021-03-21 20:42:02----------
+Application Start
+----------2021-03-22 06:50:19----------
+Application Start
+----------2021-03-23 06:51:46----------
+Application Start
+----------2021-03-23 15:27:25----------
+Application Start
+----------2021-03-24 08:33:35----------
+Application Start
+----------2021-03-24 17:21:33----------
+Application Start
+----------2021-03-25 07:37:44----------
+Application Start
+----------2021-03-25 13:36:24----------
+Application Start
+----------2021-03-25 19:27:11----------
+Application Start
+----------2021-03-26 07:48:24----------
+Application Start
+----------2021-03-26 13:47:47----------
+Application Start
+----------2021-03-26 18:58:24----------
+Application Start
+----------2021-03-26 18:58:49----------
+Application Start
+----------2021-03-26 18:58:57----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.2.4
+java.lang.IllegalStateException: Fatal Exception thrown on Scheduler.
+io.reactivex.android.schedulers.HandlerScheduler$ScheduledRunnable.run(HandlerScheduler.java:111)
+android.os.Handler.handleCallback(Handler.java:883)
+android.os.Handler.dispatchMessage(Handler.java:100)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7544)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2021-03-26 18:59:04----------
+Application Start
+----------2021-03-27 10:57:05----------
+Application Start
+----------2021-03-27 15:14:13----------
+Application Start
+----------2021-03-27 16:14:23----------
+Application Start
+----------2021-03-28 08:47:41----------
+Application Start
+----------2021-03-28 17:22:37----------
+Application Start
+----------2021-03-29 06:49:52----------
+Application Start
+----------2021-03-29 17:21:14----------
+Application Start
+----------2021-03-29 20:37:19----------
+Application Start
+----------2021-03-30 08:07:52----------
+Application Start
+----------2021-03-30 15:31:43----------
+Application Start
+----------2021-03-30 18:27:41----------
+Application Start
+----------2021-03-30 18:37:16----------
+Application Start
+----------2021-03-31 07:49:48----------
+Application Start
+----------2021-03-31 19:19:34----------
+Application Start
+----------2021-04-01 07:54:22----------
+Application Start
+----------2021-04-01 19:37:42----------
+Application Start
+----------2021-04-02 07:19:11----------
+Application Start
+----------2021-04-02 18:18:55----------
+Application Start
+----------2021-04-04 08:03:16----------
+Application Start
+----------2021-04-05 08:58:12----------
+Application Start
+----------2021-04-05 15:45:23----------
+Application Start
+----------2021-04-07 07:31:38----------
+Application Start
+----------2021-04-07 18:07:24----------
+Application Start
+----------2021-04-07 19:21:21----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.2.4
+java.lang.IndexOutOfBoundsException: Index: 39, Size: 18
+java.util.ArrayList.get(ArrayList.java:437)
+work.kozh.music.service.MusicService.openCurrentAndNextSongData_new(MusicService.java:4018)
+work.kozh.music.service.MusicService.openCurrentAndNextSongData_new(MusicService.java:4295)
+work.kozh.music.service.MusicService.playNextSong(MusicService.java:4970)
+work.kozh.music.service.MusicService$MusicPlayerHandler.handleMessage(MusicService.java:1114)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.os.HandlerThread.run(HandlerThread.java:67)
+
+----------2021-04-07 19:21:21----------
+Application Start
+----------2021-04-08 07:31:52----------
+Application Start
+----------2021-04-08 13:29:38----------
+Application Start
+----------2021-04-09 07:35:23----------
+Application Start
+----------2021-04-09 15:22:49----------
+Application Start
+----------2021-04-10 10:40:47----------
+Application Start
+----------2021-04-10 19:38:24----------
+Application Start
+----------2021-04-11 08:54:36----------
+Application Start
+----------2021-04-11 16:03:29----------
+Application Start
+----------2021-04-12 07:34:08----------
+Application Start
+----------2021-04-12 12:04:39----------
+Application Start
+----------2021-04-13 06:56:49----------
+Application Start
+----------2021-04-13 13:58:16----------
+Application Start
+----------2021-04-13 20:22:34----------
+Application Start
+----------2021-04-14 07:34:30----------
+Application Start
+----------2021-04-14 10:17:02----------
+Application Start
+----------2021-04-14 13:16:08----------
+DeviceID=QKQ1.191117.002
+AndroidApi=29
+AndroidVersion=10
+Brand=Xiaomi
+ManuFacture=Xiaomi
+Model=Mi 10
+PackageName=work.kozh.ones
+CurrentVersionName=3.2.4
+java.lang.IllegalArgumentException: width and height must be > 0
+android.graphics.Bitmap.createBitmap(Bitmap.java:1113)
+android.graphics.Bitmap.createBitmap(Bitmap.java:1080)
+android.graphics.Bitmap.createBitmap(Bitmap.java:1030)
+android.graphics.Bitmap.createBitmap(Bitmap.java:991)
+work.kozh.common.utils.BitmapUtils.createLinearGradientBitmap(BitmapUtils.java:232)
+work.kozh.music.mvp.view.activity.LockScreenActivity$5$1.onGenerated(LockScreenActivity.java:436)
+androidx.palette.graphics.Palette$Builder$1.onPostExecute(Palette.java:879)
+androidx.palette.graphics.Palette$Builder$1.onPostExecute(Palette.java:865)
+android.os.AsyncTask.finish(AsyncTask.java:755)
+android.os.AsyncTask.access$900(AsyncTask.java:192)
+android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:772)
+android.os.Handler.dispatchMessage(Handler.java:107)
+android.os.Looper.loop(Looper.java:227)
+android.app.ActivityThread.main(ActivityThread.java:7582)
+java.lang.reflect.Method.invoke(Native Method)
+com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:539)
+com.android.internal.os.ZygoteInit.main(ZygoteInit.java:953)
+
+----------2021-04-14 13:16:16----------
+Application Start
+----------2021-04-15 06:55:01----------
+Application Start
+----------2021-04-15 18:58:48----------
+Application Start
+----------2021-04-16 07:01:39----------
+Application Start
+----------2021-04-16 11:35:30----------
+Application Start
+----------2021-04-16 20:27:41----------
+Application Start
+----------2021-04-17 10:30:25----------
+Application Start
+----------2021-04-18 09:04:01----------
+Application Start
+----------2021-04-18 12:23:01----------
+Application Start
+----------2021-04-18 21:03:38----------
+Application Start
+----------2021-04-19 07:33:28----------
+Application Start
+----------2021-04-19 16:32:24----------
+Application Start
+----------2021-04-20 06:52:58----------
+Application Start
+----------2021-04-21 06:50:32----------
+Application Start
+----------2021-04-21 12:49:34----------
+Application Start
+----------2021-04-21 18:27:11----------
+Application Start
+----------2021-04-22 07:36:07----------
+Application Start
+----------2021-04-22 12:35:25----------
+Application Start
+----------2021-04-22 20:20:47----------
+Application Start
+----------2021-04-23 06:55:49----------
+Application Start
+----------2021-04-23 13:48:12----------
+Application Start
+----------2021-04-23 20:14:44----------
+Application Start
+----------2021-04-24 11:13:26----------
+Application Start
+----------2021-04-24 18:29:32----------
+Application Start
+----------2021-04-25 07:34:30----------
+Application Start
+----------2021-04-25 07:34:39----------
+Application Start
+----------2021-04-26 07:01:10----------
+Application Start
+----------2021-04-26 20:04:56----------
+Application Start
+----------2021-04-27 06:58:29----------
+Application Start
+----------2021-04-27 21:19:42----------
+Application Start
+----------2021-04-28 07:34:56----------
+Application Start
+----------2021-04-28 08:42:45----------
+Application Start
+----------2021-04-28 20:43:01----------
+Application Start
+----------2021-04-29 07:40:26----------
+Application Start
+----------2021-04-29 10:17:11----------
+Application Start
+----------2021-04-29 20:24:41----------
+Application Start
+----------2021-04-30 07:37:07----------
+Application Start
+----------2021-05-01 09:56:35----------
+Application Start
+----------2021-05-02 09:50:34----------
+Application Start
+----------2021-05-04 16:32:51----------
+Application Start
+----------2021-05-04 22:23:02----------
+Application Start
+----------2021-05-05 11:42:11----------
+Application Start
+----------2021-05-06 06:57:22----------
+Application Start
+----------2021-05-06 11:09:17----------
+Application Start
+----------2021-05-06 17:31:49----------
+Application Start
+----------2021-05-07 07:42:32----------
+Application Start
+----------2021-05-07 14:21:15----------
+Application Start
+----------2021-05-07 14:55:43----------
+Application Start
+----------2021-05-08 11:24:40----------
+Application Start
+----------2021-05-08 18:19:54----------
+Application Start
+----------2021-05-08 18:20:02----------
+Application Start
+----------2021-05-09 01:41:06----------
+Application Start
+----------2021-05-09 10:56:34----------
+Application Start
+----------2021-05-09 14:18:39----------
+Application Start
+----------2021-05-09 18:23:21----------
+Application Start
+----------2021-05-09 21:21:25----------
+Application Start
+----------2021-05-10 07:39:29----------
+Application Start
+----------2021-05-10 12:16:05----------
+Application Start
+----------2021-05-11 08:08:33----------
+Application Start
